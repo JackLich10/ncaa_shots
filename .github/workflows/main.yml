@@ -21,7 +21,7 @@ jobs:
           - uses: r-lib/actions/setup-pandoc@v2
           - name: Install base dependencies
             run: |
-              Rscript -e 'install.packages(c("dplyr","collapse","remotes","stringdist","readr","rvest","stringr","purrr"))'
+              Rscript -e 'install.packages(c("dplyr","collapse","remotes","stringdist","readr","rvest","stringr","purrr","here"))'
             env:
               GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
           - name: Pull data and update files
