@@ -1,7 +1,7 @@
 name: ncaa_shots Scheduled Run
 on:
   schedule:
-    - cron: "0 18-22 * 11-4 *"
+    - cron: "0 18,19,20,21,22 * 11,12,1,2,3,4 *"
   workflow_dispatch:
 
 jobs:
