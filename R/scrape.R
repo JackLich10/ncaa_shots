@@ -144,5 +144,5 @@ for (gid in live_game_ids) {
   shots <- dplyr::bind_rows(shots, res[["shots"]])
 }
 
-readr::write_csv(pbp, here::here(paste0("data/pbp", Sys.time(), ".csv")))
-readr::write_csv(shots, here::here(paste0("data/shots", Sys.time(), ".csv")))
+readr::write_csv(pbp, here::here(paste0("data/pbp/", Sys.time(), ".csv")))
+readr::write_csv(shots, here::here(paste0("data/shots/", Sys.time(), ".csv")))
