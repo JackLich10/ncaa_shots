@@ -14,6 +14,10 @@ live_games <- html %>%
 
 live_game_ids <- as.integer(unlist(stringr::str_extract_all(live_games, "\\d+")))
 
+if (length(live_game_ids) == 0L) {
+  quit(status = 0)
+}
+
 get_ncaa_shots <- function(game_id) {
 
   cat("GameId:", game_id, "..\n")
