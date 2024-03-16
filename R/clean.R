@@ -36,6 +36,6 @@ for (type in c("shots", "pbp")) {
   df_clean$game_date <- dplyr::coalesce(df_clean$game_date, df_clean$time) - 5/24
 
   # Write out clean version
-  readr::write_csv(df_clean, here::here(paste0("data/clean/", type, "/", Sys.time(), "")))
+  readr::write_csv(df_clean, here::here(paste0("data/clean/", type, "/", Sys.time(), ".csv")))
 }
 
