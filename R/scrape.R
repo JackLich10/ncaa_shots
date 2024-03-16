@@ -40,6 +40,9 @@ get_ncaa_shots <- function(game_id) {
     return(list(shots = data.frame(), pbp = data.frame()))
   }
 
+  # Today's date
+  today <- as.Date(as.POSIXct(format(Sys.Date()), tz = "EST"))
+
   # teams
   team_info <- html %>%
     rvest::html_elements(".grey_text .skipMask")
@@ -72,6 +75,7 @@ get_ncaa_shots <- function(game_id) {
   plays$game_id <- game_id
   plays$home_id <- home_id
   plays$away_id <- away_id
+  plays$game_date <- today
 
   # Shot text
   shot_text <- html %>%
@@ -112,6 +116,7 @@ get_ncaa_shots <- function(game_id) {
   shots_clean$game_id <- game_id
   shots_clean$home_id <- home_id
   shots_clean$away_id <- away_id
+  shots_clean$game_date <- today
 
   cross <- dplyr::cross_join(home_away_teams, teams)
   cross$similarity <- stringdist::stringsim(a = cross$full_name, b = cross$team_name)
