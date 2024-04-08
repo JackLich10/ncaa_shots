@@ -1,0 +1,1242 @@
+Period,Clock,Play,Score,game_id,home_id,away_id,game_date,time
+2,10:00:00,Substitution Vermont: in Anna Olson,12 - 17,5254232,561032,561189,2024-03-31,2024-04-01
+2,10:00:00,Substitution Vermont: out Andjela Matic,12 - 17,5254232,561032,561189,2024-03-31,2024-04-01
+2,10:00:00,Substitution Purdue: in Rashunda Jones,12 - 17,5254232,561032,561189,2024-03-31,2024-04-01
+2,10:00:00,Substitution Purdue: out Abbey Ellis,12 - 17,5254232,561032,561189,2024-03-31,2024-04-01
+1,00:04:00,"Turnover lost ball (outside center) Emma Utterback(Vermont), steal Rashunda Jones(Purdue)",12 - 17,5254232,561032,561189,2024-03-31,2024-04-01
+1,00:00:00,Period end (confirmed),12 - 17,5254232,561032,561189,2024-03-31,2024-04-01
+1,00:04:00,Substitution Vermont: in Bella Vito,12 - 17,5254232,561032,561189,2024-03-31,2024-04-01
+1,00:04:00,Substitution Vermont: out Delaney Richason,12 - 17,5254232,561032,561189,2024-03-31,2024-04-01
+1,00:04:00,Substitution Purdue: in Abbey Ellis,12 - 17,5254232,561032,561189,2024-03-31,2024-04-01
+1,00:04:00,Substitution Purdue: out Rashunda Jones,12 - 17,5254232,561032,561189,2024-03-31,2024-04-01
+1,00:04:00,Jump ball held ball Vermont,12 - 17,5254232,561032,561189,2024-03-31,2024-04-01
+1,00:16:00,"Foul offensive (back court) Rashunda Jones(Purdue), turnover offensive Rashunda Jones(Purdue), foul on Emma Utterback(Vermont)",12 - 17,5254232,561032,561189,2024-03-31,2024-04-01
+1,00:20:00,"Turnover bad pass (outside center) Emma Utterback(Vermont), steal Jayla Smith(Purdue)",12 - 17,5254232,561032,561189,2024-03-31,2024-04-01
+1,00:32:00,Substitution Purdue: in Rashunda Jones,12 - 17,5254232,561032,561189,2024-03-31,2024-04-01
+1,00:32:00,Substitution Purdue: out Abbey Ellis,12 - 17,5254232,561032,561189,2024-03-31,2024-04-01
+1,00:55:00,"3pt jump shot (outside left) missed by Sophie Swanson(Purdue), rebound defensive (team) Vermont",12 - 17,5254232,561032,561189,2024-03-31,2024-04-01
+1,01:15:00,Substitution Vermont: in Nikola Priede,12 - 17,5254232,561032,561189,2024-03-31,2024-04-01
+1,01:15:00,Substitution Vermont: in Keira Hanson,12 - 17,5254232,561032,561189,2024-03-31,2024-04-01
+1,01:15:00,Substitution Vermont: out Anna Olson,12 - 17,5254232,561032,561189,2024-03-31,2024-04-01
+1,01:15:00,Substitution Vermont: out Bella Vito,12 - 17,5254232,561032,561189,2024-03-31,2024-04-01
+1,01:15:00,Substitution Purdue: in Mila Reynolds,12 - 17,5254232,561032,561189,2024-03-31,2024-04-01
+1,01:15:00,Substitution Purdue: out Mary Ashley Stevenson,12 - 17,5254232,561032,561189,2024-03-31,2024-04-01
+1,01:17:00,"2pt jump shot (blocked) (under the basket) missed by Andjela Matic(Vermont), block Jeanae Terry(Purdue), rebound defensive (team) Purdue",12 - 17,5254232,561032,561189,2024-03-31,2024-04-01
+1,01:40:00,"2pt layup (under the basket) made by Abbey Ellis(Purdue), assist Jeanae Terry(Purdue)",12 - 17,5254232,561032,561189,2024-03-31,2024-04-01
+1,01:50:00,"2pt jump shot (in the paint) missed by Bella Vito(Vermont), rebound defensive Mary Ashley Stevenson (Purdue)",12 - 15,5254232,561032,561189,2024-03-31,2024-04-01
+1,02:10:00,"2pt jump shot (inside right) made by Sophie Swanson(Purdue), assist Jeanae Terry(Purdue)",12 - 15,5254232,561032,561189,2024-03-31,2024-04-01
+1,02:32:00,"2pt jump shot (under the basket) made by Bella Vito(Vermont), assist Andjela Matic(Vermont)",12 - 13,5254232,561032,561189,2024-03-31,2024-04-01
+1,02:45:00,"2pt layup (2nd chance) (under the basket) missed by Mary Ashley Stevenson (Purdue), rebound defensive Andjela Matic(Vermont)",10 - 13,5254232,561032,561189,2024-03-31,2024-04-01
+1,02:48:00,"2pt layup (under the basket) missed by Mary Ashley Stevenson (Purdue), rebound offensive Mary Ashley Stevenson (Purdue)",10 - 13,5254232,561032,561189,2024-03-31,2024-04-01
+1,03:02:00,"3pt jump shot (outside left) missed by Emma Utterback(Vermont), rebound defensive Mary Ashley Stevenson (Purdue)",10 - 13,5254232,561032,561189,2024-03-31,2024-04-01
+1,03:10:00,"2pt driving layup (under the basket) missed by Abbey Ellis(Purdue), rebound defensive Bella Vito(Vermont)",10 - 13,5254232,561032,561189,2024-03-31,2024-04-01
+1,03:19:00,3pt jump shot (off turnover) (outside left) missed by Andjela Matic(Vermont),10 - 13,5254232,561032,561189,2024-03-31,2024-04-01
+1,03:50:00,Turnover lost ball (inside left) Mary Ashley Stevenson (Purdue),10 - 13,5254232,561032,561189,2024-03-31,2024-04-01
+1,03:53:00,"2pt pull up jump shot (in the paint) missed by Jeanae Terry(Purdue), rebound offensive Mary Ashley Stevenson (Purdue)",10 - 13,5254232,561032,561189,2024-03-31,2024-04-01
+1,04:06:00,"2pt floating jump shot (off turnover) (inside left) missed by Andjela Matic(Vermont), rebound defensive Jeanae Terry(Purdue)",10 - 13,5254232,561032,561189,2024-03-31,2024-04-01
+1,04:13:00,"Turnover bad pass (outside right) Jeanae Terry(Purdue), steal Bella Vito(Vermont), steal Bella Vito(Vermont)",10 - 13,5254232,561032,561189,2024-03-31,2024-04-01
+1,04:25:00,Substitution Vermont: in Andjela Matic,10 - 13,5254232,561032,561189,2024-03-31,2024-04-01
+1,04:25:00,Substitution Vermont: out Keira Hanson,10 - 13,5254232,561032,561189,2024-03-31,2024-04-01
+1,04:25:00,Substitution Purdue: in Sophie Swanson,10 - 13,5254232,561032,561189,2024-03-31,2024-04-01
+1,04:25:00,Substitution Purdue: in Jayla Smith,10 - 13,5254232,561032,561189,2024-03-31,2024-04-01
+1,04:25:00,Substitution Purdue: out Alaina Harper,10 - 13,5254232,561032,561189,2024-03-31,2024-04-01
+1,04:25:00,Substitution Purdue: out Rashunda Jones,10 - 13,5254232,561032,561189,2024-03-31,2024-04-01
+1,04:25:00,Timeout commercial,10 - 13,5254232,561032,561189,2024-03-31,2024-04-01
+1,04:25:00,Turnover bad pass (in the paint) Emma Utterback(Vermont),10 - 13,5254232,561032,561189,2024-03-31,2024-04-01
+1,04:31:00,"2pt jump shot (2nd chance) (under the basket) missed by Rashunda Jones(Purdue), rebound defensive Delaney Richason(Vermont), rebound defensive Anna Olson(Vermont)",10 - 13,5254232,561032,561189,2024-03-31,2024-04-01
+1,04:34:00,"2pt jump shot (in the paint) missed by Rashunda Jones(Purdue), rebound offensive Rashunda Jones(Purdue)",10 - 13,5254232,561032,561189,2024-03-31,2024-04-01
+1,04:43:00,"3pt jump shot (outside left) missed by Delaney Richason(Vermont), rebound defensive Jeanae Terry(Purdue)",10 - 13,5254232,561032,561189,2024-03-31,2024-04-01
+1,05:01:00,3pt jump shot (outside center) made by Abbey Ellis(Purdue),10 - 13,5254232,561032,561189,2024-03-31,2024-04-01
+1,05:15:00,2pt pull up jump shot (inside right) made by Keira Hanson(Vermont),10 - 10,5254232,561032,561189,2024-03-31,2024-04-01
+1,05:33:00,2pt jump shot (under the basket) made by Mary Ashley Stevenson (Purdue),8 - 10,5254232,561032,561189,2024-03-31,2024-04-01
+1,05:40:00,"2pt layup (in the paint) missed by Emma Utterback(Vermont), rebound defensive Rashunda Jones(Purdue)",8 - 8,5254232,561032,561189,2024-03-31,2024-04-01
+1,06:07:00,2pt driving layup (under the basket) made by Abbey Ellis(Purdue),8 - 8,5254232,561032,561189,2024-03-31,2024-04-01
+1,06:26:00,2pt pull up jump shot (in the paint) made by Emma Utterback(Vermont),8 - 6,5254232,561032,561189,2024-03-31,2024-04-01
+1,06:45:00,"2pt jump shot (off turnover) (in the paint) made by Alaina Harper(Purdue), assist Mary Ashley Stevenson (Purdue)",6 - 6,5254232,561032,561189,2024-03-31,2024-04-01
+1,06:57:00,"Turnover bad pass (in the paint) Keira Hanson(Vermont), steal Jeanae Terry(Purdue), steal Jeanae Terry(Purdue)",6 - 4,5254232,561032,561189,2024-03-31,2024-04-01
+1,07:26:00,2pt pull up jump shot (inside left) made by Jeanae Terry(Purdue),6 - 4,5254232,561032,561189,2024-03-31,2024-04-01
+1,07:51:00,2pt jump shot (inside right) made by Bella Vito(Vermont),6 - 2,5254232,561032,561189,2024-03-31,2024-04-01
+1,08:01:00,"2pt jump shot (inside right) missed by Alaina Harper(Purdue), rebound defensive Emma Utterback(Vermont)",4 - 2,5254232,561032,561189,2024-03-31,2024-04-01
+1,08:14:00,2pt pull up jump shot (inside right) made by Keira Hanson(Vermont),4 - 2,5254232,561032,561189,2024-03-31,2024-04-01
+1,08:24:00,"2pt layup (under the basket) missed by Mary Ashley Stevenson (Purdue), rebound defensive Anna Olson(Vermont)",2 - 2,5254232,561032,561189,2024-03-31,2024-04-01
+1,08:33:00,"2pt layup (under the basket) missed by Anna Olson(Vermont), rebound defensive Alaina Harper(Purdue)",2 - 2,5254232,561032,561189,2024-03-31,2024-04-01
+1,08:57:00,2pt layup (under the basket) made by Jeanae Terry(Purdue),2 - 2,5254232,561032,561189,2024-03-31,2024-04-01
+1,09:18:00,2pt pull up jump shot (2nd chance) (inside right) made by Emma Utterback(Vermont),2 - 0,5254232,561032,561189,2024-03-31,2024-04-01
+1,09:34:00,"2pt jump shot (under the basket) missed by Anna Olson(Vermont), rebound offensive Anna Olson(Vermont)",0 - 0,5254232,561032,561189,2024-03-31,2024-04-01
+1,09:43:00,"2pt pull up jump shot (in the paint) missed by Rashunda Jones(Purdue), rebound defensive Keira Hanson(Vermont)",0 - 0,5254232,561032,561189,2024-03-31,2024-04-01
+1,10:00:00,"Jump ball start period, won Mary Ashley Stevenson (Purdue), lost Anna Olson(Vermont)",0 - 0,5254232,561032,561189,2024-03-31,2024-04-01
+1,10:00:00,Period start,0 - 0,5254232,561032,561189,2024-03-31,2024-04-01
+1,10:00:00,Game start,0 - 0,5254232,561032,561189,2024-03-31,2024-04-01
+4,06:29:00,Substitution LSU: in Last-Tear Poa,67 - 77,5254217,560818,560850,2024-04-01,2024-04-02
+4,06:29:00,Substitution LSU: out Flau'jae Johnson,67 - 77,5254217,560818,560850,2024-04-01,2024-04-02
+4,06:29:00,"2pt driving layup (blocked) (under the basket) missed by Kate Martin(IOWA), block Angel Reese(LSU), rebound offensive (team) IOWA",67 - 77,5254217,560818,560850,2024-04-01,2024-04-02
+4,06:41:00,"2pt jump shot (inside right) missed by Aneesah Morrow(LSU), rebound defensive Caitlin Clark(IOWA)",67 - 77,5254217,560818,560850,2024-04-01,2024-04-02
+4,06:52:00,"2pt layup (2nd chance;off turnover) (under the basket) made by Kate Martin(IOWA), assist Caitlin Clark(IOWA)",67 - 77,5254217,560818,560850,2024-04-01,2024-04-02
+4,07:08:00,"3pt jump shot (off turnover) (outside right) missed by Caitlin Clark(IOWA), rebound offensive Kate Martin(IOWA)",67 - 75,5254217,560818,560850,2024-04-01,2024-04-02
+4,07:17:00,"Foul personal (back court) Aneesah Morrow(LSU), foul on Kate Martin(IOWA)",67 - 75,5254217,560818,560850,2024-04-01,2024-04-02
+4,07:18:00,"Turnover lost ball (in the paint) Flau'jae Johnson(LSU), steal Kate Martin(IOWA)",67 - 75,5254217,560818,560850,2024-04-01,2024-04-02
+4,07:31:00,Turnover bad pass (inside left) Caitlin Clark(IOWA),67 - 75,5254217,560818,560850,2024-04-01,2024-04-02
+4,07:47:00,Free throw 2 of 2 made by Hailey Van Lith(LSU),67 - 75,5254217,560818,560850,2024-04-01,2024-04-02
+4,07:47:00,Free throw 1 of 2 made by Hailey Van Lith(LSU),66 - 75,5254217,560818,560850,2024-04-01,2024-04-02
+4,07:47:00,Foul personal (shooting;2 free throws) (under the basket) Sydney Affolter(IOWA),65 - 75,5254217,560818,560850,2024-04-01,2024-04-02
+4,08:04:00,3pt pull up jump shot (outside left) made by Caitlin Clark(IOWA),65 - 75,5254217,560818,560850,2024-04-01,2024-04-02
+4,08:17:00,"2pt layup (under the basket) made by Aneesah Morrow(LSU), assist Mikaylah Williams(LSU)",65 - 72,5254217,560818,560850,2024-04-01,2024-04-02
+4,08:28:00,"2pt driving layup (under the basket) made by Kate Martin(IOWA), assist Caitlin Clark(IOWA)",63 - 72,5254217,560818,560850,2024-04-01,2024-04-02
+4,08:41:00,"2pt layup (under the basket) missed by Angel Reese(LSU), rebound defensive Caitlin Clark(IOWA)",63 - 70,5254217,560818,560850,2024-04-01,2024-04-02
+4,08:55:00,Substitution IOWA: in Hannah Stuelke,63 - 70,5254217,560818,560850,2024-04-01,2024-04-02
+4,08:55:00,Substitution IOWA: out Addison O'Grady,63 - 70,5254217,560818,560850,2024-04-01,2024-04-02
+4,08:55:00,Free throw 2 of 2 made by Addison O'Grady(IOWA),63 - 70,5254217,560818,560850,2024-04-01,2024-04-02
+4,08:55:00,"Free throw 1 of 2 missed by Addison O'Grady(IOWA), rebound offensive dead ball IOWA",63 - 69,5254217,560818,560850,2024-04-01,2024-04-02
+4,08:55:00,Foul personal (shooting;2 free throws) (under the basket) Angel Reese(LSU),63 - 69,5254217,560818,560850,2024-04-01,2024-04-02
+4,09:08:00,2pt driving layup (under the basket) made by Aneesah Morrow(LSU),63 - 69,5254217,560818,560850,2024-04-01,2024-04-02
+4,09:25:00,"Foul personal (back court) Addison O'Grady(IOWA), foul on Angel Reese(LSU)",61 - 69,5254217,560818,560850,2024-04-01,2024-04-02
+4,09:27:00,"2pt jump shot (inside left) missed by Addison O'Grady(IOWA), rebound defensive dead ball LSU",61 - 69,5254217,560818,560850,2024-04-01,2024-04-02
+4,09:46:00,"3pt jump shot (outside left wing) made by Mikaylah Williams(LSU), assist Aneesah Morrow(LSU), assist Aneesah Morrow(LSU)",61 - 69,5254217,560818,560850,2024-04-01,2024-04-02
+4,10:00:00,Period start,58 - 69,5254217,560818,560850,2024-04-01,2024-04-02
+4,10:00:00,Substitution IOWA: in Addison O'Grady,58 - 69,5254217,560818,560850,2024-04-01,2024-04-02
+4,10:00:00,Substitution IOWA: out AJ Ediger,58 - 69,5254217,560818,560850,2024-04-01,2024-04-02
+3,00:00:00,Period end (confirmed),58 - 69,5254217,560818,560850,2024-04-01,2024-04-02
+3,00:00:00,"3pt pull up jump shot (outside left) missed by Flau'jae Johnson(LSU), rebound defensive dead ball IOWA",58 - 69,5254217,560818,560850,2024-04-01,2024-04-02
+3,00:08:00,"2pt driving layup (off turnover) (under the basket) missed by Caitlin Clark(IOWA), rebound defensive Angel Reese(LSU)",58 - 69,5254217,560818,560850,2024-04-01,2024-04-02
+3,00:35:00,Substitution IOWA: in AJ Ediger,58 - 69,5254217,560818,560850,2024-04-01,2024-04-02
+3,00:35:00,Substitution IOWA: in Sydney Affolter,58 - 69,5254217,560818,560850,2024-04-01,2024-04-02
+3,00:35:00,Substitution IOWA: out Hannah Stuelke,58 - 69,5254217,560818,560850,2024-04-01,2024-04-02
+3,00:35:00,Substitution IOWA: out Kylie Feuerbach,58 - 69,5254217,560818,560850,2024-04-01,2024-04-02
+3,00:35:00,Turnover bad pass (in the paint) Hailey Van Lith(LSU),58 - 69,5254217,560818,560850,2024-04-01,2024-04-02
+3,00:44:00,Substitution IOWA: in Hannah Stuelke,58 - 69,5254217,560818,560850,2024-04-01,2024-04-02
+3,00:44:00,Substitution IOWA: out Addison O'Grady,58 - 69,5254217,560818,560850,2024-04-01,2024-04-02
+3,00:44:00,Substitution IOWA: in Kate Martin,58 - 69,5254217,560818,560850,2024-04-01,2024-04-02
+3,00:44:00,Substitution IOWA: out Sydney Affolter,58 - 69,5254217,560818,560850,2024-04-01,2024-04-02
+3,00:44:00,Free throw 2 of 2 made by Sydney Affolter(IOWA),58 - 69,5254217,560818,560850,2024-04-01,2024-04-02
+3,00:44:00,Free throw 1 of 2 made by Sydney Affolter(IOWA),58 - 68,5254217,560818,560850,2024-04-01,2024-04-02
+3,00:44:00,Substitution LSU: in Mikaylah Williams,58 - 67,5254217,560818,560850,2024-04-01,2024-04-02
+3,00:44:00,Substitution LSU: out Last-Tear Poa,58 - 67,5254217,560818,560850,2024-04-01,2024-04-02
+3,00:44:00,Foul personal (2 free throws) (back court) Aneesah Morrow(LSU),58 - 67,5254217,560818,560850,2024-04-01,2024-04-02
+3,00:46:00,"3pt jump shot (outside center) missed by Last-Tear Poa(LSU), rebound defensive dead ball IOWA",58 - 69,5254217,560818,560850,2024-04-01,2024-04-02
+3,00:58:00,"2pt driving layup (off turnover;fast break) (under the basket) made by Addison O'Grady(IOWA), assist Caitlin Clark(IOWA)",58 - 69,5254217,560818,560850,2024-04-01,2024-04-02
+3,01:04:00,"Turnover lost ball (in the paint) Angel Reese(LSU), steal Caitlin Clark(IOWA)",58 - 69,5254217,560818,560850,2024-04-01,2024-04-02
+3,01:19:00,Substitution IOWA: in Kylie Feuerbach,58 - 65,5254217,560818,560850,2024-04-01,2024-04-02
+3,01:19:00,Substitution IOWA: out Kate Martin,58 - 65,5254217,560818,560850,2024-04-01,2024-04-02
+3,01:19:00,"2pt layup (blocked) (under the basket) missed by Kate Martin(IOWA), block Flau'jae Johnson(LSU), rebound defensive (team) LSU",58 - 65,5254217,560818,560850,2024-04-01,2024-04-02
+3,01:23:00,2pt layup (2nd chance) (under the basket) made by Flau'jae Johnson(LSU),58 - 65,5254217,560818,560850,2024-04-01,2024-04-02
+3,01:28:00,"2pt layup (2nd chance) (under the basket) missed by Angel Reese(LSU), rebound offensive Angel Reese(LSU)",56 - 65,5254217,560818,560850,2024-04-01,2024-04-02
+3,01:30:00,"2pt layup (2nd chance) (under the basket) missed by Angel Reese(LSU), rebound offensive Angel Reese(LSU)",56 - 65,5254217,560818,560850,2024-04-01,2024-04-02
+3,01:34:00,"2pt driving layup (in the paint) missed by Hailey Van Lith(LSU), rebound offensive Angel Reese(LSU)",56 - 65,5254217,560818,560850,2024-04-01,2024-04-02
+3,01:42:00,"3pt jump shot (outside left) missed by Kate Martin(IOWA), rebound defensive Hailey Van Lith(LSU)",56 - 65,5254217,560818,560850,2024-04-01,2024-04-02
+3,01:47:00,2pt layup (2nd chance) (under the basket) made by Aneesah Morrow(LSU),56 - 65,5254217,560818,560850,2024-04-01,2024-04-02
+3,01:55:00,"2pt pull up jump shot (inside left) missed by Flau'jae Johnson(LSU), rebound offensive Aneesah Morrow(LSU)",54 - 65,5254217,560818,560850,2024-04-01,2024-04-02
+3,02:10:00,Substitution LSU: in Hailey Van Lith,54 - 65,5254217,560818,560850,2024-04-01,2024-04-02
+3,02:10:00,Substitution LSU: out Mikaylah Williams,54 - 65,5254217,560818,560850,2024-04-01,2024-04-02
+3,02:10:00,"Foul personal (back court) Sydney Affolter(IOWA), foul on Aneesah Morrow(LSU)",54 - 65,5254217,560818,560850,2024-04-01,2024-04-02
+3,02:12:00,"3pt jump shot (outside center) missed by Caitlin Clark(IOWA), rebound defensive dead ball LSU",54 - 65,5254217,560818,560850,2024-04-01,2024-04-02
+3,02:22:00,"2pt driving layup (off turnover;fast break) (under the basket) made by Angel Reese(LSU), assist Last-Tear Poa(LSU)",54 - 65,5254217,560818,560850,2024-04-01,2024-04-02
+3,02:27:00,"Turnover lost ball (in the paint) Kate Martin(IOWA), steal Flau'jae Johnson(LSU)",52 - 65,5254217,560818,560850,2024-04-01,2024-04-02
+3,02:45:00,Substitution LSU: in Last-Tear Poa,52 - 65,5254217,560818,560850,2024-04-01,2024-04-02
+3,02:45:00,Substitution LSU: out Hailey Van Lith,52 - 65,5254217,560818,560850,2024-04-01,2024-04-02
+3,02:45:00,Turnover (outside right) LSU,52 - 65,5254217,560818,560850,2024-04-01,2024-04-02
+3,03:00:00,2pt turnaround jump shot (in the paint) made by Kate Martin(IOWA),52 - 65,5254217,560818,560850,2024-04-01,2024-04-02
+3,03:20:00,"2pt pull up jump shot (inside right) missed by Mikaylah Williams(LSU), rebound defensive Kate Martin(IOWA)",52 - 63,5254217,560818,560850,2024-04-01,2024-04-02
+3,03:28:00,"3pt jump shot (2nd chance) (outside center) missed by Kate Martin(IOWA), rebound defensive Mikaylah Williams(LSU)",52 - 63,5254217,560818,560850,2024-04-01,2024-04-02
+3,03:32:00,"2pt driving layup (2nd chance) (under the basket) missed by Caitlin Clark(IOWA), rebound offensive Caitlin Clark(IOWA)",52 - 63,5254217,560818,560850,2024-04-01,2024-04-02
+3,03:45:00,"2pt driving layup (blocked) (in the paint) missed by Sydney Affolter(IOWA), block Flau'jae Johnson(LSU), rebound offensive (team) IOWA",52 - 63,5254217,560818,560850,2024-04-01,2024-04-02
+3,03:50:00,"Free throw 2 of 2 (2nd chance) missed by Angel Reese(LSU), rebound defensive Caitlin Clark(IOWA)",52 - 63,5254217,560818,560850,2024-04-01,2024-04-02
+3,03:50:00,"Free throw 1 of 2 (2nd chance) missed by Angel Reese(LSU), rebound offensive dead ball LSU",52 - 63,5254217,560818,560850,2024-04-01,2024-04-02
+3,03:50:00,Foul personal (shooting;2 free throws) (under the basket) Kate Martin(IOWA),52 - 63,5254217,560818,560850,2024-04-01,2024-04-02
+3,03:51:00,"2pt layup (under the basket) missed by Angel Reese(LSU), rebound offensive Angel Reese(LSU)",52 - 63,5254217,560818,560850,2024-04-01,2024-04-02
+3,04:04:00,"2pt driving layup (off turnover;fast break) (under the basket) made by Sydney Affolter(IOWA), assist Caitlin Clark(IOWA)",52 - 63,5254217,560818,560850,2024-04-01,2024-04-02
+3,04:10:00,"Turnover bad pass (inside center) Flau'jae Johnson(LSU), steal Caitlin Clark(IOWA)",52 - 61,5254217,560818,560850,2024-04-01,2024-04-02
+3,04:12:00,Substitution IOWA: in Sydney Affolter,52 - 61,5254217,560818,560850,2024-04-01,2024-04-02
+3,04:12:00,Substitution IOWA: out Kylie Feuerbach,52 - 61,5254217,560818,560850,2024-04-01,2024-04-02
+3,04:17:00,"Turnover bad pass (inside left) Kate Martin(IOWA), steal Hailey Van Lith(LSU)",52 - 61,5254217,560818,560850,2024-04-01,2024-04-02
+3,04:23:00,Substitution LSU: in Flau'jae Johnson,52 - 61,5254217,560818,560850,2024-04-01,2024-04-02
+3,04:23:00,Substitution LSU: out Last-Tear Poa,52 - 61,5254217,560818,560850,2024-04-01,2024-04-02
+3,04:23:00,Timeout commercial,52 - 61,5254217,560818,560850,2024-04-01,2024-04-02
+3,04:31:00,"2pt layup (2nd chance) (under the basket) missed by Aneesah Morrow(LSU), rebound defensive Caitlin Clark(IOWA)",52 - 61,5254217,560818,560850,2024-04-01,2024-04-02
+3,04:32:00,"2pt layup (2nd chance) (under the basket) missed by Aneesah Morrow(LSU), rebound offensive Aneesah Morrow(LSU)",52 - 61,5254217,560818,560850,2024-04-01,2024-04-02
+3,04:36:00,"2pt driving layup (in the paint) missed by Angel Reese(LSU), rebound offensive Aneesah Morrow(LSU)",52 - 61,5254217,560818,560850,2024-04-01,2024-04-02
+3,04:48:00,"3pt jump shot (outside center) missed by Caitlin Clark(IOWA), rebound defensive Angel Reese(LSU)",52 - 61,5254217,560818,560850,2024-04-01,2024-04-02
+3,04:57:00,"2pt jump shot (inside center) missed by Last-Tear Poa(LSU), rebound defensive Kate Martin(IOWA)",52 - 61,5254217,560818,560850,2024-04-01,2024-04-02
+3,05:09:00,3pt step back jump shot (outside center) made by Caitlin Clark(IOWA),52 - 61,5254217,560818,560850,2024-04-01,2024-04-02
+3,05:15:00,"Foul personal (outside right) Last-Tear Poa(LSU), foul on Kylie Feuerbach(IOWA)",52 - 58,5254217,560818,560850,2024-04-01,2024-04-02
+3,05:20:00,Substitution LSU: in Hailey Van Lith,52 - 58,5254217,560818,560850,2024-04-01,2024-04-02
+3,05:20:00,Substitution LSU: out Flau'jae Johnson,52 - 58,5254217,560818,560850,2024-04-01,2024-04-02
+3,05:20:00,Substitution IOWA: in Kylie Feuerbach,52 - 58,5254217,560818,560850,2024-04-01,2024-04-02
+3,05:20:00,Substitution IOWA: out Sydney Affolter,52 - 58,5254217,560818,560850,2024-04-01,2024-04-02
+3,05:20:00,"Foul personal (outside right) Flau'jae Johnson(LSU), foul on Caitlin Clark(IOWA)",52 - 58,5254217,560818,560850,2024-04-01,2024-04-02
+3,05:28:00,"2pt driving layup (under the basket) missed by Flau'jae Johnson(LSU), rebound defensive Addison O'Grady(IOWA)",52 - 58,5254217,560818,560850,2024-04-01,2024-04-02
+3,05:37:00,"2pt driving layup (under the basket) missed by Sydney Affolter(IOWA), rebound defensive Aneesah Morrow(LSU)",52 - 61,5254217,560818,560850,2024-04-01,2024-04-02
+3,05:43:00,Foul personal (inside center) Mikaylah Williams(LSU),52 - 58,5254217,560818,560850,2024-04-01,2024-04-02
+3,06:05:00,Free throw 2 of 2 (2nd chance) made by Angel Reese(LSU),52 - 58,5254217,560818,560850,2024-04-01,2024-04-02
+3,06:05:00,"Free throw 1 of 2 (2nd chance) missed by Angel Reese(LSU), rebound offensive dead ball LSU",51 - 58,5254217,560818,560850,2024-04-01,2024-04-02
+3,06:05:00,Foul personal (shooting;2 free throws) (under the basket) Addison O'Grady(IOWA),51 - 58,5254217,560818,560850,2024-04-01,2024-04-02
+3,06:06:00,"2pt layup (blocked) (under the basket) missed by Angel Reese(LSU), block Addison O'Grady(IOWA), rebound offensive Angel Reese(LSU)",51 - 58,5254217,560818,560850,2024-04-01,2024-04-02
+3,06:20:00,"3pt jump shot (outside left) missed by Caitlin Clark(IOWA), rebound defensive Aneesah Morrow(LSU)",51 - 58,5254217,560818,560850,2024-04-01,2024-04-02
+3,06:39:00,"2pt jump shot (2nd chance) (inside center) missed by Aneesah Morrow(LSU), rebound defensive Kate Martin(IOWA)",51 - 58,5254217,560818,560850,2024-04-01,2024-04-02
+3,06:50:00,"2pt layup (2nd chance) (under the basket) missed by Angel Reese(LSU), rebound offensive Flau'jae Johnson(LSU)",51 - 58,5254217,560818,560850,2024-04-01,2024-04-02
+3,06:55:00,"2pt jump shot (inside left) missed by Mikaylah Williams(LSU), rebound offensive Angel Reese(LSU)",51 - 58,5254217,560818,560850,2024-04-01,2024-04-02
+3,07:02:00,"2pt layup (blocked) (under the basket) missed by Addison O'Grady(IOWA), block Flau'jae Johnson(LSU), rebound defensive Flau'jae Johnson(LSU)",51 - 58,5254217,560818,560850,2024-04-01,2024-04-02
+3,07:12:00,2pt layup (2nd chance) (under the basket) made by Flau'jae Johnson(LSU),51 - 58,5254217,560818,560850,2024-04-01,2024-04-02
+3,07:15:00,"2pt layup (under the basket) missed by Angel Reese(LSU), rebound offensive Flau'jae Johnson(LSU)",49 - 58,5254217,560818,560850,2024-04-01,2024-04-02
+3,07:32:00,3pt pull up jump shot (outside left) made by Caitlin Clark(IOWA),49 - 58,5254217,560818,560850,2024-04-01,2024-04-02
+3,07:41:00,"3pt jump shot (outside right) missed by Last-Tear Poa(LSU), rebound defensive (team) IOWA",49 - 55,5254217,560818,560850,2024-04-01,2024-04-02
+3,08:02:00,Substitution LSU: in Last-Tear Poa,49 - 55,5254217,560818,560850,2024-04-01,2024-04-02
+3,08:02:00,Substitution LSU: out Hailey Van Lith,49 - 55,5254217,560818,560850,2024-04-01,2024-04-02
+3,08:02:00,Timeout commercial,49 - 55,5254217,560818,560850,2024-04-01,2024-04-02
+3,08:02:00,Timeout short LSU,49 - 55,5254217,560818,560850,2024-04-01,2024-04-02
+3,08:06:00,3pt step back jump shot (outside left) made by Caitlin Clark(IOWA),49 - 55,5254217,560818,560850,2024-04-01,2024-04-02
+3,08:23:00,"3pt jump shot (outside left) missed by Hailey Van Lith(LSU), rebound defensive Kate Martin(IOWA)",49 - 52,5254217,560818,560850,2024-04-01,2024-04-02
+3,08:42:00,"2pt driving layup (under the basket) made by Kate Martin(IOWA), assist Caitlin Clark(IOWA)",49 - 52,5254217,560818,560850,2024-04-01,2024-04-02
+3,08:49:00,"2pt driving layup (under the basket) made by Flau'jae Johnson(LSU), assist Angel Reese(LSU)",49 - 50,5254217,560818,560850,2024-04-01,2024-04-02
+3,09:00:00,"2pt driving layup (under the basket) missed by Sydney Affolter(IOWA), rebound defensive Mikaylah Williams(LSU)",47 - 50,5254217,560818,560850,2024-04-01,2024-04-02
+3,09:08:00,"3pt jump shot (outside right) missed by Flau'jae Johnson(LSU), rebound defensive Addison O'Grady(IOWA)",47 - 50,5254217,560818,560850,2024-04-01,2024-04-02
+3,09:26:00,Free throw 2 of 2 made by Kate Martin(IOWA),47 - 50,5254217,560818,560850,2024-04-01,2024-04-02
+3,09:26:00,Free throw 1 of 2 made by Kate Martin(IOWA),47 - 49,5254217,560818,560850,2024-04-01,2024-04-02
+3,09:26:00,Foul personal (shooting;2 free throws) (under the basket) Flau'jae Johnson(LSU),47 - 48,5254217,560818,560850,2024-04-01,2024-04-02
+3,09:35:00,Free throw 2 of 2 made by Flau'jae Johnson(LSU),47 - 48,5254217,560818,560850,2024-04-01,2024-04-02
+3,09:35:00,Free throw 1 of 2 made by Flau'jae Johnson(LSU),46 - 48,5254217,560818,560850,2024-04-01,2024-04-02
+3,09:35:00,Substitution IOWA: in Addison O'Grady,45 - 48,5254217,560818,560850,2024-04-01,2024-04-02
+3,09:35:00,Substitution IOWA: out Hannah Stuelke,45 - 48,5254217,560818,560850,2024-04-01,2024-04-02
+3,09:35:00,Foul personal (shooting;2 free throws) (under the basket) Hannah Stuelke(IOWA),45 - 48,5254217,560818,560850,2024-04-01,2024-04-02
+3,09:46:00,3pt pull up jump shot (outside right) made by Caitlin Clark(IOWA),45 - 48,5254217,560818,560850,2024-04-01,2024-04-02
+3,10:00:00,Period start,45 - 45,5254217,560818,560850,2024-04-01,2024-04-02
+3,10:00:00,Substitution LSU: in Angel Reese,45 - 45,5254217,560818,560850,2024-04-01,2024-04-02
+3,10:00:00,Substitution LSU: out Aalyah Del Rosario,45 - 45,5254217,560818,560850,2024-04-01,2024-04-02
+3,10:00:00,Substitution IOWA: in Hannah Stuelke,45 - 45,5254217,560818,560850,2024-04-01,2024-04-02
+3,10:00:00,Substitution IOWA: out Addison O'Grady,45 - 45,5254217,560818,560850,2024-04-01,2024-04-02
+2,00:00:00,Period end (confirmed),45 - 45,5254217,560818,560850,2024-04-01,2024-04-02
+2,00:00:00,2pt driving layup (under the basket) made by Flau'jae Johnson(LSU),45 - 45,5254217,560818,560850,2024-04-01,2024-04-02
+2,00:13:00,"2pt jump shot (in the paint) made by Addison O'Grady(IOWA), assist Caitlin Clark(IOWA)",43 - 45,5254217,560818,560850,2024-04-01,2024-04-02
+2,00:44:00,2pt pull up jump shot (inside center) made by Flau'jae Johnson(LSU),43 - 43,5254217,560818,560850,2024-04-01,2024-04-02
+2,00:54:00,2pt driving layup (under the basket) made by Caitlin Clark(IOWA),41 - 43,5254217,560818,560850,2024-04-01,2024-04-02
+2,01:03:00,Substitution LSU: in Aalyah Del Rosario,41 - 41,5254217,560818,560850,2024-04-01,2024-04-02
+2,01:03:00,Substitution LSU: out Angel Reese,41 - 41,5254217,560818,560850,2024-04-01,2024-04-02
+2,01:03:00,"Foul personal (back court) Angel Reese(LSU), foul on Addison O'Grady(IOWA)",41 - 41,5254217,560818,560850,2024-04-01,2024-04-02
+2,01:03:00,"2pt turnaround jump shot (in the paint) missed by Aneesah Morrow(LSU), rebound defensive dead ball IOWA",41 - 41,5254217,560818,560850,2024-04-01,2024-04-02
+2,01:18:00,2pt driving layup (under the basket) made by Caitlin Clark(IOWA),41 - 41,5254217,560818,560850,2024-04-01,2024-04-02
+2,01:28:00,"3pt jump shot (outside left wing) missed by Mikaylah Williams(LSU), rebound defensive Addison O'Grady(IOWA)",41 - 39,5254217,560818,560850,2024-04-01,2024-04-02
+2,01:35:00,"2pt driving layup (in the paint) missed by Sydney Affolter(IOWA), rebound defensive Angel Reese(LSU)",41 - 39,5254217,560818,560850,2024-04-01,2024-04-02
+2,01:48:00,Free throw 2 of 2 made by Hailey Van Lith(LSU),41 - 39,5254217,560818,560850,2024-04-01,2024-04-02
+2,01:48:00,Free throw 1 of 2 made by Hailey Van Lith(LSU),40 - 39,5254217,560818,560850,2024-04-01,2024-04-02
+2,01:48:00,Foul personal (shooting;2 free throws) (in the paint) Caitlin Clark(IOWA),39 - 39,5254217,560818,560850,2024-04-01,2024-04-02
+2,01:55:00,"2pt layup (under the basket) missed by Addison O'Grady(IOWA), rebound defensive Aneesah Morrow(LSU)",39 - 39,5254217,560818,560850,2024-04-01,2024-04-02
+2,02:13:00,"2pt turnaround jump shot (2nd chance) (in the paint) missed by Aneesah Morrow(LSU), rebound defensive Kate Martin(IOWA)",39 - 39,5254217,560818,560850,2024-04-01,2024-04-02
+2,02:17:00,"2pt jump shot (inside right) missed by Angel Reese(LSU), rebound offensive Aneesah Morrow(LSU)",39 - 39,5254217,560818,560850,2024-04-01,2024-04-02
+2,02:25:00,"Foul personal (inside center) Gabbie Marshall(IOWA), foul on Flau'jae Johnson(LSU)",39 - 39,5254217,560818,560850,2024-04-01,2024-04-02
+2,02:34:00,2pt driving layup (under the basket) made by Sydney Affolter(IOWA),39 - 39,5254217,560818,560850,2024-04-01,2024-04-02
+2,02:40:00,Substitution IOWA: in Kate Martin,39 - 37,5254217,560818,560850,2024-04-01,2024-04-02
+2,02:40:00,Substitution IOWA: out Kylie Feuerbach,39 - 37,5254217,560818,560850,2024-04-01,2024-04-02
+2,03:02:00,Free throw 2 of 2 made by Angel Reese(LSU),39 - 37,5254217,560818,560850,2024-04-01,2024-04-02
+2,03:02:00,"Free throw 1 of 2 missed by Angel Reese(LSU), rebound offensive dead ball LSU",38 - 37,5254217,560818,560850,2024-04-01,2024-04-02
+2,03:02:00,Substitution IOWA: in Addison O'Grady,38 - 37,5254217,560818,560850,2024-04-01,2024-04-02
+2,03:02:00,Substitution IOWA: in Kylie Feuerbach,38 - 37,5254217,560818,560850,2024-04-01,2024-04-02
+2,03:02:00,Substitution IOWA: out Hannah Stuelke,38 - 37,5254217,560818,560850,2024-04-01,2024-04-02
+2,03:02:00,Substitution IOWA: out Kate Martin,38 - 37,5254217,560818,560850,2024-04-01,2024-04-02
+2,03:02:00,Timeout commercial,38 - 37,5254217,560818,560850,2024-04-01,2024-04-02
+2,03:02:00,Foul personal (shooting;2 free throws) (under the basket) Hannah Stuelke(IOWA),38 - 37,5254217,560818,560850,2024-04-01,2024-04-02
+2,03:28:00,"3pt pull up jump shot (outside left) missed by Caitlin Clark(IOWA), rebound defensive Angel Reese(LSU)",38 - 37,5254217,560818,560850,2024-04-01,2024-04-02
+2,03:34:00,"2pt layup (2nd chance) (under the basket) missed by Mikaylah Williams(LSU), rebound defensive Caitlin Clark(IOWA)",38 - 37,5254217,560818,560850,2024-04-01,2024-04-02
+2,03:37:00,"2pt layup (under the basket) missed by Hailey Van Lith(LSU), rebound offensive Mikaylah Williams(LSU)",38 - 37,5254217,560818,560850,2024-04-01,2024-04-02
+2,03:48:00,"3pt jump shot (outside left) missed by Gabbie Marshall(IOWA), rebound defensive Mikaylah Williams(LSU)",38 - 37,5254217,560818,560850,2024-04-01,2024-04-02
+2,03:57:00,"3pt jump shot (2nd chance) (outside right) missed by Hailey Van Lith(LSU), rebound defensive Gabbie Marshall(IOWA)",38 - 37,5254217,560818,560850,2024-04-01,2024-04-02
+2,04:04:00,"3pt jump shot (outside right) missed by Hailey Van Lith(LSU), rebound offensive Mikaylah Williams(LSU)",38 - 37,5254217,560818,560850,2024-04-01,2024-04-02
+2,04:23:00,"3pt jump shot (outside left) made by Caitlin Clark(IOWA), assist Gabbie Marshall(IOWA)",38 - 37,5254217,560818,560850,2024-04-01,2024-04-02
+2,04:36:00,"2pt layup (under the basket) missed by Angel Reese(LSU), rebound defensive Sydney Affolter(IOWA)",38 - 34,5254217,560818,560850,2024-04-01,2024-04-02
+2,04:48:00,"2pt layup (blocked) (under the basket) missed by Hannah Stuelke(IOWA), block Angel Reese(LSU), rebound defensive Aneesah Morrow(LSU)",38 - 34,5254217,560818,560850,2024-04-01,2024-04-02
+2,05:12:00,2pt jump shot (inside left) made by Flau'jae Johnson(LSU),38 - 34,5254217,560818,560850,2024-04-01,2024-04-02
+2,05:34:00,"3pt jump shot (outside left wing) missed by Sydney Affolter(IOWA), rebound defensive Mikaylah Williams(LSU)",36 - 34,5254217,560818,560850,2024-04-01,2024-04-02
+2,05:46:00,"Foul personal (back court) Flau'jae Johnson(LSU), foul on Gabbie Marshall(IOWA)",36 - 34,5254217,560818,560850,2024-04-01,2024-04-02
+2,05:48:00,"2pt jump shot (inside center) missed by Angel Reese(LSU), rebound defensive Kate Martin(IOWA), rebound defensive Gabbie Marshall(IOWA)",36 - 34,5254217,560818,560850,2024-04-01,2024-04-02
+2,06:00:00,2pt driving layup (under the basket) made by Hannah Stuelke(IOWA),36 - 34,5254217,560818,560850,2024-04-01,2024-04-02
+2,06:21:00,2pt layup (under the basket) made by Angel Reese(LSU),36 - 32,5254217,560818,560850,2024-04-01,2024-04-02
+2,06:38:00,Free throw 2 of 2 made by Hannah Stuelke(IOWA),34 - 32,5254217,560818,560850,2024-04-01,2024-04-02
+2,06:38:00,Free throw 1 of 2 made by Hannah Stuelke(IOWA),34 - 31,5254217,560818,560850,2024-04-01,2024-04-02
+2,06:38:00,Substitution LSU: in Angel Reese,34 - 30,5254217,560818,560850,2024-04-01,2024-04-02
+2,06:38:00,Substitution LSU: out Aalyah Del Rosario,34 - 30,5254217,560818,560850,2024-04-01,2024-04-02
+2,06:38:00,Foul personal (shooting;2 free throws) (under the basket) Aalyah Del Rosario(LSU),34 - 30,5254217,560818,560850,2024-04-01,2024-04-02
+2,06:48:00,"2pt jump shot (off turnover) (in the paint) missed by Aneesah Morrow(LSU), rebound defensive Hannah Stuelke(IOWA)",34 - 30,5254217,560818,560850,2024-04-01,2024-04-02
+2,07:10:00,Turnover bad pass (inside right) Caitlin Clark(IOWA),34 - 30,5254217,560818,560850,2024-04-01,2024-04-02
+2,07:19:00,"2pt pull up jump shot (in the paint) missed by Mikaylah Williams(LSU), rebound defensive Hannah Stuelke(IOWA)",34 - 30,5254217,560818,560850,2024-04-01,2024-04-02
+2,07:31:00,"2pt driving layup (off turnover) (under the basket) missed by Hannah Stuelke(IOWA), rebound defensive Aalyah Del Rosario(LSU)",34 - 30,5254217,560818,560850,2024-04-01,2024-04-02
+2,07:41:00,Turnover travel (inside left) Aneesah Morrow(LSU),34 - 30,5254217,560818,560850,2024-04-01,2024-04-02
+2,08:01:00,Free throw 2 of 2 (off turnover) made by Caitlin Clark(IOWA),34 - 30,5254217,560818,560850,2024-04-01,2024-04-02
+2,08:01:00,"Free throw 1 of 2 (off turnover) missed by Caitlin Clark(IOWA), rebound offensive dead ball IOWA, rebound offensive dead ball IOWA",34 - 29,5254217,560818,560850,2024-04-01,2024-04-02
+2,08:01:00,Substitution LSU: in Aalyah Del Rosario,34 - 29,5254217,560818,560850,2024-04-01,2024-04-02
+2,08:01:00,Substitution LSU: out Angel Reese,34 - 29,5254217,560818,560850,2024-04-01,2024-04-02
+2,08:01:00,Foul personal (shooting;2 free throws) (in the paint) Angel Reese(LSU),34 - 29,5254217,560818,560850,2024-04-01,2024-04-02
+2,08:17:00,Turnover travel (in the paint) Mikaylah Williams(LSU),34 - 29,5254217,560818,560850,2024-04-01,2024-04-02
+2,08:31:00,"Turnover lost ball Sydney Affolter(IOWA), steal Aneesah Morrow(LSU)",34 - 29,5254217,560818,560850,2024-04-01,2024-04-02
+2,08:31:00,Jump ball held ball LSU,34 - 29,5254217,560818,560850,2024-04-01,2024-04-02
+2,08:44:00,Substitution IOWA: in Hannah Stuelke,34 - 29,5254217,560818,560850,2024-04-01,2024-04-02
+2,08:44:00,Substitution IOWA: out AJ Ediger,34 - 29,5254217,560818,560850,2024-04-01,2024-04-02
+2,08:44:00,"2pt layup (blocked) (under the basket) missed by AJ Ediger(IOWA), block Angel Reese(LSU), rebound offensive (team) IOWA",34 - 29,5254217,560818,560850,2024-04-01,2024-04-02
+2,08:59:00,"2pt pull up jump shot (in the paint) missed by Mikaylah Williams(LSU), rebound defensive Sydney Affolter(IOWA)",34 - 29,5254217,560818,560850,2024-04-01,2024-04-02
+2,09:20:00,"3pt jump shot (outside right) made by Sydney Affolter(IOWA), assist Caitlin Clark(IOWA)",34 - 29,5254217,560818,560850,2024-04-01,2024-04-02
+2,09:34:00,3pt jump shot (outside left) made by Hailey Van Lith(LSU),34 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+2,09:52:00,"3pt step back jump shot (outside right) missed by Caitlin Clark(IOWA), rebound defensive Angel Reese(LSU)",31 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+2,10:00:00,Period start,31 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,00:00:00,Period end (confirmed),31 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,00:03:00,"3pt jump shot (outside left) missed by Kate Martin(IOWA), rebound defensive Mikaylah Williams(LSU)",31 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,00:39:00,"2pt driving layup (off turnover;fast break) (under the basket) made by Mikaylah Williams(LSU), assist Angel Reese(LSU)",31 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,00:45:00,"Turnover bad pass (inside right) Caitlin Clark(IOWA), steal Angel Reese(LSU), steal Angel Reese(LSU)",29 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,00:58:00,2pt pull up jump shot (off turnover) (inside left) made by Flau'jae Johnson(LSU),29 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,01:14:00,Turnover 5sec (team) (inside left) IOWA,27 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,01:14:00,Substitution IOWA: in AJ Ediger,27 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,01:14:00,Substitution IOWA: out Hannah Stuelke,27 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,01:14:00,Turnover out of bounds (back court) Aneesah Morrow(LSU),27 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,01:16:00,Turnover (in the paint) IOWA,27 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,01:19:00,"3pt jump shot (outside left wing) missed by Gabbie Marshall(IOWA), rebound defensive Aneesah Morrow(LSU)",27 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,01:22:00,Substitution LSU: in Hailey Van Lith,27 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,01:22:00,Substitution LSU: out Last-Tear Poa,27 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,01:22:00,Substitution IOWA: in Sydney Affolter,27 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,01:22:00,Substitution IOWA: out Kylie Feuerbach,27 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,01:22:00,"Foul personal (outside center) Last-Tear Poa(LSU), foul on Caitlin Clark(IOWA)",27 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,01:31:00,2pt driving layup (off turnover;fast break) (under the basket) made by Angel Reese(LSU),27 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,01:35:00,"Turnover bad pass (inside center) Caitlin Clark(IOWA), steal Angel Reese(LSU)",25 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,01:57:00,"2pt driving layup (fast break) (under the basket) made by Angel Reese(LSU), assist Aneesah Morrow(LSU)",25 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,02:02:00,"2pt driving layup (under the basket) missed by Kate Martin(IOWA), rebound defensive Aneesah Morrow(LSU)",23 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,02:11:00,"2pt jump shot (inside right) missed by Aneesah Morrow(LSU), rebound defensive Hannah Stuelke(IOWA)",23 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,02:25:00,"3pt pull up jump shot (outside left) missed by Caitlin Clark(IOWA), rebound defensive Aneesah Morrow(LSU)",23 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,02:48:00,"2pt layup (off turnover) (under the basket) missed by Angel Reese(LSU), rebound defensive Kylie Feuerbach(IOWA), rebound defensive Kylie Feuerbach(IOWA)",23 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,03:03:00,Substitution IOWA: in Kate Martin,23 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,03:03:00,Substitution IOWA: out Sydney Affolter,23 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,03:03:00,"Foul offensive (under the basket) Sydney Affolter(IOWA), turnover offensive Sydney Affolter(IOWA), foul on Aneesah Morrow(LSU)",23 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,03:16:00,"2pt layup (under the basket) made by Angel Reese(LSU), assist Mikaylah Williams(LSU)",23 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,03:29:00,Free throw 1 of 1 made by Caitlin Clark(IOWA),21 - 26,5254217,560818,560850,2024-04-01,2024-04-02
+1,03:29:00,Substitution IOWA: in Kylie Feuerbach,21 - 25,5254217,560818,560850,2024-04-01,2024-04-02
+1,03:29:00,Substitution IOWA: out Kate Martin,21 - 25,5254217,560818,560850,2024-04-01,2024-04-02
+1,03:29:00,Timeout commercial,21 - 25,5254217,560818,560850,2024-04-01,2024-04-02
+1,03:29:00,Foul personal (shooting;1 free throw) (under the basket) Last-Tear Poa(LSU),21 - 25,5254217,560818,560850,2024-04-01,2024-04-02
+1,03:29:00,2pt driving layup (under the basket) made by Caitlin Clark(IOWA),21 - 25,5254217,560818,560850,2024-04-01,2024-04-02
+1,03:47:00,2pt layup (2nd chance) (under the basket) made by Angel Reese(LSU),21 - 23,5254217,560818,560850,2024-04-01,2024-04-02
+1,03:52:00,"3pt jump shot (outside right) missed by Mikaylah Williams(LSU), rebound offensive Angel Reese(LSU)",19 - 23,5254217,560818,560850,2024-04-01,2024-04-02
+1,03:59:00,"2pt pull up jump shot (in the paint) missed by Caitlin Clark(IOWA), rebound defensive Angel Reese(LSU)",19 - 23,5254217,560818,560850,2024-04-01,2024-04-02
+1,04:15:00,"2pt layup (under the basket) made by Aneesah Morrow(LSU), assist Last-Tear Poa(LSU)",19 - 23,5254217,560818,560850,2024-04-01,2024-04-02
+1,04:30:00,"3pt jump shot (outside center) made by Sydney Affolter(IOWA), assist Hannah Stuelke(IOWA)",17 - 23,5254217,560818,560850,2024-04-01,2024-04-02
+1,04:50:00,"3pt jump shot (outside left wing) made by Mikaylah Williams(LSU), assist Flau'jae Johnson(LSU)",17 - 20,5254217,560818,560850,2024-04-01,2024-04-02
+1,05:15:00,"3pt jump shot (outside left) made by Gabbie Marshall(IOWA), assist Sydney Affolter(IOWA)",14 - 20,5254217,560818,560850,2024-04-01,2024-04-02
+1,05:30:00,2pt layup (2nd chance) (under the basket) made by Angel Reese(LSU),14 - 17,5254217,560818,560850,2024-04-01,2024-04-02
+1,05:34:00,"2pt floating jump shot (in the paint) missed by Mikaylah Williams(LSU), rebound offensive Angel Reese(LSU), rebound offensive Angel Reese(LSU)",12 - 17,5254217,560818,560850,2024-04-01,2024-04-02
+1,05:44:00,"3pt step back jump shot (outside center) missed by Caitlin Clark(IOWA), rebound defensive Aneesah Morrow(LSU)",12 - 17,5254217,560818,560850,2024-04-01,2024-04-02
+1,05:52:00,"3pt jump shot (outside left) made by Last-Tear Poa(LSU), assist Angel Reese(LSU)",12 - 17,5254217,560818,560850,2024-04-01,2024-04-02
+1,06:03:00,Substitution IOWA: in Hannah Stuelke,9 - 17,5254217,560818,560850,2024-04-01,2024-04-02
+1,06:03:00,Substitution IOWA: out Addison O'Grady,9 - 17,5254217,560818,560850,2024-04-01,2024-04-02
+1,06:03:00,Timeout commercial,9 - 17,5254217,560818,560850,2024-04-01,2024-04-02
+1,06:03:00,Timeout short LSU,9 - 17,5254217,560818,560850,2024-04-01,2024-04-02
+1,06:07:00,"2pt driving layup (under the basket) made by Sydney Affolter(IOWA), assist Caitlin Clark(IOWA)",9 - 17,5254217,560818,560850,2024-04-01,2024-04-02
+1,06:16:00,"3pt jump shot (outside right) made by Mikaylah Williams(LSU), assist Angel Reese(LSU)",9 - 15,5254217,560818,560850,2024-04-01,2024-04-02
+1,06:41:00,"3pt jump shot (outside left) made by Kate Martin(IOWA), assist Caitlin Clark(IOWA)",6 - 15,5254217,560818,560850,2024-04-01,2024-04-02
+1,07:01:00,"2pt layup (under the basket) made by Aneesah Morrow(LSU), assist Flau'jae Johnson(LSU)",6 - 12,5254217,560818,560850,2024-04-01,2024-04-02
+1,07:17:00,3pt pull up jump shot (off turnover) (outside center) made by Caitlin Clark(IOWA),4 - 12,5254217,560818,560850,2024-04-01,2024-04-02
+1,07:28:00,Substitution LSU: in Last-Tear Poa,4 - 9,5254217,560818,560850,2024-04-01,2024-04-02
+1,07:28:00,Substitution LSU: out Hailey Van Lith,4 - 9,5254217,560818,560850,2024-04-01,2024-04-02
+1,07:28:00,Substitution IOWA: in Addison O'Grady,4 - 9,5254217,560818,560850,2024-04-01,2024-04-02
+1,07:28:00,Substitution IOWA: out Hannah Stuelke,4 - 9,5254217,560818,560850,2024-04-01,2024-04-02
+1,07:28:00,Turnover travel (outside right) Mikaylah Williams(LSU),4 - 9,5254217,560818,560850,2024-04-01,2024-04-02
+1,07:37:00,"2pt driving layup (under the basket) missed by Kate Martin(IOWA), rebound defensive Angel Reese(LSU)",4 - 9,5254217,560818,560850,2024-04-01,2024-04-02
+1,07:46:00,"3pt pull up jump shot (outside left) missed by Flau'jae Johnson(LSU), rebound defensive Sydney Affolter(IOWA)",4 - 9,5254217,560818,560850,2024-04-01,2024-04-02
+1,07:53:00,"2pt driving layup (under the basket) made by Kate Martin(IOWA), assist Caitlin Clark(IOWA)",4 - 9,5254217,560818,560850,2024-04-01,2024-04-02
+1,08:07:00,"2pt layup (under the basket) made by Aneesah Morrow(LSU), assist Mikaylah Williams(LSU)",4 - 7,5254217,560818,560850,2024-04-01,2024-04-02
+1,08:19:00,"2pt driving layup (off turnover;fast break) (under the basket) made by Hannah Stuelke(IOWA), assist Gabbie Marshall(IOWA), assist Gabbie Marshall(IOWA)",2 - 7,5254217,560818,560850,2024-04-01,2024-04-02
+1,08:23:00,"Turnover bad pass (inside left) Mikaylah Williams(LSU), steal Gabbie Marshall(IOWA)",2 - 5,5254217,560818,560850,2024-04-01,2024-04-02
+1,08:42:00,2pt driving layup (under the basket) made by Caitlin Clark(IOWA),2 - 5,5254217,560818,560850,2024-04-01,2024-04-02
+1,08:56:00,2pt pull up jump shot (inside left) made by Hailey Van Lith(LSU),2 - 3,5254217,560818,560850,2024-04-01,2024-04-02
+1,09:07:00,"3pt jump shot (outside left) missed by Caitlin Clark(IOWA), rebound defensive Flau'jae Johnson(LSU)",0 - 3,5254217,560818,560850,2024-04-01,2024-04-02
+1,09:14:00,"3pt jump shot (2nd chance;blocked) (outside left) missed by Flau'jae Johnson(LSU), block Gabbie Marshall(IOWA), rebound defensive Hannah Stuelke(IOWA)",0 - 3,5254217,560818,560850,2024-04-01,2024-04-02
+1,09:17:00,"Foul personal (in the paint) Hannah Stuelke(IOWA), foul on Angel Reese(LSU)",0 - 3,5254217,560818,560850,2024-04-01,2024-04-02
+1,09:18:00,"2pt jump shot (2nd chance) (inside left) missed by Aneesah Morrow(LSU), rebound offensive Angel Reese(LSU), rebound offensive Angel Reese(LSU)",0 - 3,5254217,560818,560850,2024-04-01,2024-04-02
+1,09:26:00,"2pt layup (in the paint) missed by Angel Reese(LSU), rebound offensive (team) LSU",0 - 3,5254217,560818,560850,2024-04-01,2024-04-02
+1,09:44:00,3pt jump shot (outside left) made by Caitlin Clark(IOWA),0 - 3,5254217,560818,560850,2024-04-01,2024-04-02
+1,09:55:00,"3pt jump shot (outside left) missed by Mikaylah Williams(LSU), rebound defensive Hannah Stuelke(IOWA)",0 - 0,5254217,560818,560850,2024-04-01,2024-04-02
+1,10:00:00,"Jump ball start period, won Angel Reese(LSU), lost Hannah Stuelke(IOWA)",0 - 0,5254217,560818,560850,2024-04-01,2024-04-02
+1,10:00:00,Period start,0 - 0,5254217,560818,560850,2024-04-01,2024-04-02
+1,10:00:00,Game start,0 - 0,5254217,560818,560850,2024-04-01,2024-04-02
+4,00:31:00,Foul personal (2 free throws) (inside left) Halle Douglass(WIS),62 - 60,5254233,561227,561062,2024-04-01,2024-04-02
+4,00:38:00,"Turnover bad pass (inside center) Brooke Schramek(WIS), steal Julia Martinez(STL)",62 - 60,5254233,561227,561062,2024-04-01,2024-04-02
+4,00:40:00,Substitution STL: in Brooklyn Gray,62 - 60,5254233,561227,561062,2024-04-01,2024-04-02
+4,00:40:00,Substitution STL: out Peyton Kennedy,62 - 60,5254233,561227,561062,2024-04-01,2024-04-02
+4,00:40:00,Substitution WIS: in Brooke Schramek,62 - 60,5254233,561227,561062,2024-04-01,2024-04-02
+4,00:40:00,Substitution WIS: out D'Yanis Jimenez,62 - 60,5254233,561227,561062,2024-04-01,2024-04-02
+4,00:40:00,Timeout short WIS,62 - 60,5254233,561227,561062,2024-04-01,2024-04-02
+4,00:40:00,Free throw 2 of 2 (off turnover) made by Tierra Simon(STL),62 - 60,5254233,561227,561062,2024-04-01,2024-04-02
+4,00:40:00,"Free throw 1 of 2 (off turnover) missed by Tierra Simon(STL), rebound offensive dead ball STL",61 - 60,5254233,561227,561062,2024-04-01,2024-04-02
+4,00:40:00,Foul personal (2 free throws) (outside left) D'Yanis Jimenez(WIS),61 - 60,5254233,561227,561062,2024-04-01,2024-04-02
+4,00:40:00,Foul (back court) STL,61 - 60,5254233,561227,561062,2024-04-01,2024-04-02
+4,00:46:00,"Turnover lost ball (outside center) Ronnie Porter(WIS), steal Julia Martinez(STL)",61 - 60,5254233,561227,561062,2024-04-01,2024-04-02
+4,00:53:00,2pt jump shot (inside right) made by Peyton Kennedy(STL),61 - 60,5254233,561227,561062,2024-04-01,2024-04-02
+4,00:59:00,Timeout short STL,59 - 60,5254233,561227,561062,2024-04-01,2024-04-02
+4,00:59:00,Free throw 2 of 2 made by Ronnie Porter(WIS),59 - 60,5254233,561227,561062,2024-04-01,2024-04-02
+4,00:59:00,Free throw 1 of 2 made by Ronnie Porter(WIS),59 - 59,5254233,561227,561062,2024-04-01,2024-04-02
+4,00:59:00,Foul personal (2 free throws) (inside right) Kennedy Calhoun(STL),59 - 58,5254233,561227,561062,2024-04-01,2024-04-02
+4,01:05:00,2pt driving layup (under the basket) made by Kennedy Calhoun(STL),59 - 58,5254233,561227,561062,2024-04-01,2024-04-02
+4,01:19:00,"3pt jump shot (outside left wing) made by Tessa Grady(WIS), assist D'Yanis Jimenez(WIS)",57 - 58,5254233,561227,561062,2024-04-01,2024-04-02
+4,01:34:00,Free throw 2 of 2 made by Julia Martinez(STL),57 - 55,5254233,561227,561062,2024-04-01,2024-04-02
+4,01:34:00,Free throw 1 of 2 made by Julia Martinez(STL),56 - 55,5254233,561227,561062,2024-04-01,2024-04-02
+4,01:34:00,Foul personal (2 free throws) (back court) Ronnie Porter(WIS),55 - 55,5254233,561227,561062,2024-04-01,2024-04-02
+4,01:34:00,Foul (outside center) STL,55 - 55,5254233,561227,561062,2024-04-01,2024-04-02
+4,01:38:00,"3pt jump shot (off turnover) (outside right) missed by Tessa Grady(WIS), rebound defensive Julia Martinez(STL)",55 - 55,5254233,561227,561062,2024-04-01,2024-04-02
+4,02:05:00,"Turnover bad pass (inside right) Julia Martinez(STL), steal Halle Douglass(WIS)",55 - 55,5254233,561227,561062,2024-04-01,2024-04-02
+4,02:23:00,Free throw 2 of 2 (2nd chance) made by Ronnie Porter(WIS),55 - 55,5254233,561227,561062,2024-04-01,2024-04-02
+4,02:23:00,Free throw 1 of 2 (2nd chance) made by Ronnie Porter(WIS),55 - 54,5254233,561227,561062,2024-04-01,2024-04-02
+4,02:23:00,Foul personal (shooting;2 free throws) (in the paint) Julia Martinez(STL),55 - 53,5254233,561227,561062,2024-04-01,2024-04-02
+4,02:25:00,"3pt jump shot (outside right) missed by Ronnie Porter(WIS), rebound offensive Ronnie Porter(WIS)",55 - 53,5254233,561227,561062,2024-04-01,2024-04-02
+4,02:48:00,Free throw 2 of 2 made by Kyla McMakin(STL),55 - 53,5254233,561227,561062,2024-04-01,2024-04-02
+4,02:48:00,Free throw 1 of 2 made by Kyla McMakin(STL),54 - 53,5254233,561227,561062,2024-04-01,2024-04-02
+4,02:48:00,Foul personal (2 free throws) (inside left) Natalie Leuzinger(WIS),53 - 53,5254233,561227,561062,2024-04-01,2024-04-02
+4,03:02:00,Substitution STL: in Peyton Kennedy,53 - 53,5254233,561227,561062,2024-04-01,2024-04-02
+4,03:02:00,Substitution STL: out Marcavia Shavers,53 - 53,5254233,561227,561062,2024-04-01,2024-04-02
+4,03:04:00,"3pt jump shot (2nd chance) (outside left) missed by Halle Douglass(WIS), rebound defensive (team) STL",53 - 53,5254233,561227,561062,2024-04-01,2024-04-02
+4,03:16:00,Jump ball held ball WIS,53 - 53,5254233,561227,561062,2024-04-01,2024-04-02
+4,03:16:00,"2pt jump shot (inside right) missed by Ronnie Porter(WIS), rebound offensive Natalie Leuzinger(WIS)",53 - 53,5254233,561227,561062,2024-04-01,2024-04-02
+4,03:39:00,"2pt jump shot (in the paint) missed by Julia Martinez(STL), rebound defensive Halle Douglass(WIS)",53 - 53,5254233,561227,561062,2024-04-01,2024-04-02
+4,03:59:00,Free throw 2 of 2 made by Ronnie Porter(WIS),53 - 53,5254233,561227,561062,2024-04-01,2024-04-02
+4,03:59:00,"Free throw 1 of 2 missed by Ronnie Porter(WIS), rebound offensive dead ball WIS",53 - 52,5254233,561227,561062,2024-04-01,2024-04-02
+4,03:59:00,Foul personal (shooting;2 free throws) (in the paint) Kennedy Calhoun(STL),53 - 52,5254233,561227,561062,2024-04-01,2024-04-02
+4,04:07:00,"2pt hook shot (off turnover) (under the basket) missed by Marcavia Shavers(STL), rebound defensive Ronnie Porter(WIS)",53 - 52,5254233,561227,561062,2024-04-01,2024-04-02
+4,04:15:00,Turnover travel (back court) Halle Douglass(WIS),53 - 52,5254233,561227,561062,2024-04-01,2024-04-02
+4,04:16:00,"2pt layup (off turnover) (in the paint) missed by Kennedy Calhoun(STL), rebound defensive Halle Douglass(WIS)",53 - 52,5254233,561227,561062,2024-04-01,2024-04-02
+4,04:40:00,"Foul offensive (back court) Tessa Grady(WIS), turnover offensive Tessa Grady(WIS), foul on Marcavia Shavers(STL)",53 - 52,5254233,561227,561062,2024-04-01,2024-04-02
+4,04:43:00,Substitution STL: in Marcavia Shavers,53 - 52,5254233,561227,561062,2024-04-01,2024-04-02
+4,04:43:00,Substitution STL: in Kennedy Calhoun,53 - 52,5254233,561227,561062,2024-04-01,2024-04-02
+4,04:43:00,Substitution STL: out Brooklyn Gray,53 - 52,5254233,561227,561062,2024-04-01,2024-04-02
+4,04:43:00,Substitution STL: out Peyton Kennedy,53 - 52,5254233,561227,561062,2024-04-01,2024-04-02
+4,04:43:00,Timeout commercial,53 - 52,5254233,561227,561062,2024-04-01,2024-04-02
+4,04:43:00,"Foul personal (in the paint) Peyton Kennedy(STL), foul on Halle Douglass(WIS)",53 - 52,5254233,561227,561062,2024-04-01,2024-04-02
+4,04:43:00,"3pt jump shot (off turnover) (outside right) missed by Halle Douglass(WIS), rebound offensive dead ball WIS",53 - 52,5254233,561227,561062,2024-04-01,2024-04-02
+4,05:05:00,Turnover bad pass (in the paint) Julia Martinez(STL),53 - 52,5254233,561227,561062,2024-04-01,2024-04-02
+4,05:31:00,"2pt layup (2nd chance) (under the basket) made by D'Yanis Jimenez(WIS), assist Halle Douglass(WIS)",53 - 52,5254233,561227,561062,2024-04-01,2024-04-02
+4,05:35:00,"3pt jump shot (outside left) missed by Tessa Grady(WIS), rebound offensive Halle Douglass(WIS)",53 - 50,5254233,561227,561062,2024-04-01,2024-04-02
+4,05:50:00,Free throw 2 of 2 made by Peyton Kennedy(STL),53 - 50,5254233,561227,561062,2024-04-01,2024-04-02
+4,05:50:00,Free throw 1 of 2 made by Peyton Kennedy(STL),52 - 50,5254233,561227,561062,2024-04-01,2024-04-02
+4,05:50:00,Foul personal (shooting;2 free throws) (inside left) D'Yanis Jimenez(WIS),51 - 50,5254233,561227,561062,2024-04-01,2024-04-02
+4,06:04:00,"Foul personal (inside left) Halle Douglass(WIS), foul on Peyton Kennedy(STL), foul on Peyton Kennedy(STL)",51 - 50,5254233,561227,561062,2024-04-01,2024-04-02
+4,06:24:00,"2pt layup (under the basket) made by D'Yanis Jimenez(WIS), assist Ronnie Porter(WIS), assist Tessa Grady(WIS)",51 - 50,5254233,561227,561062,2024-04-01,2024-04-02
+4,06:35:00,Free throw 2 of 2 (2nd chance) made by Brooklyn Gray(STL),51 - 48,5254233,561227,561062,2024-04-01,2024-04-02
+4,06:35:00,"Free throw 1 of 2 (2nd chance) missed by Brooklyn Gray(STL), rebound offensive dead ball STL",50 - 48,5254233,561227,561062,2024-04-01,2024-04-02
+4,06:35:00,Foul personal (shooting;2 free throws) (inside right) D'Yanis Jimenez(WIS),50 - 48,5254233,561227,561062,2024-04-01,2024-04-02
+4,06:46:00,Jump ball held ball STL,50 - 48,5254233,561227,561062,2024-04-01,2024-04-02
+4,06:48:00,"3pt jump shot (outside center) missed by Peyton Kennedy(STL), rebound offensive Brooklyn Gray(STL)",50 - 48,5254233,561227,561062,2024-04-01,2024-04-02
+4,07:08:00,Substitution STL: in Brooklyn Gray,50 - 48,5254233,561227,561062,2024-04-01,2024-04-02
+4,07:08:00,Substitution STL: out Kennedy Calhoun,50 - 48,5254233,561227,561062,2024-04-01,2024-04-02
+4,07:08:00,Timeout short STL,50 - 48,5254233,561227,561062,2024-04-01,2024-04-02
+4,07:15:00,2pt driving layup (2nd chance) (under the basket) made by Ronnie Porter(WIS),50 - 48,5254233,561227,561062,2024-04-01,2024-04-02
+4,07:32:00,"3pt jump shot (outside left) missed by Tessa Grady(WIS), rebound offensive (team) WIS",50 - 46,5254233,561227,561062,2024-04-01,2024-04-02
+4,07:50:00,"2pt jump shot (inside center) missed by Kyla McMakin(STL), rebound defensive Tessa Grady(WIS)",50 - 46,5254233,561227,561062,2024-04-01,2024-04-02
+4,08:06:00,"3pt jump shot (off turnover) (outside left) made by Tessa Grady(WIS), assist Halle Douglass(WIS)",50 - 46,5254233,561227,561062,2024-04-01,2024-04-02
+4,08:20:00,"Turnover bad pass (inside center) Julia Martinez(STL), steal Natalie Leuzinger(WIS)",50 - 43,5254233,561227,561062,2024-04-01,2024-04-02
+4,08:33:00,"Foul personal (inside right) D'Yanis Jimenez(WIS), foul on Kyla McMakin(STL)",50 - 43,5254233,561227,561062,2024-04-01,2024-04-02
+4,08:48:00,Free throw 2 of 2 made by Natalie Leuzinger(WIS),50 - 43,5254233,561227,561062,2024-04-01,2024-04-02
+4,08:48:00,"Free throw 1 of 2 missed by Natalie Leuzinger(WIS), rebound offensive dead ball WIS",50 - 42,5254233,561227,561062,2024-04-01,2024-04-02
+4,08:48:00,Foul personal (shooting;2 free throws) (under the basket) Tierra Simon(STL),50 - 42,5254233,561227,561062,2024-04-01,2024-04-02
+4,09:13:00,2pt pull up jump shot (inside left) made by Kyla McMakin(STL),50 - 42,5254233,561227,561062,2024-04-01,2024-04-02
+4,09:40:00,"3pt jump shot (outside left) missed by Ronnie Porter(WIS), rebound defensive Tierra Simon(STL)",48 - 42,5254233,561227,561062,2024-04-01,2024-04-02
+4,10:00:00,Period start,48 - 42,5254233,561227,561062,2024-04-01,2024-04-02
+4,10:00:00,Substitution STL: in Julia Martinez,48 - 42,5254233,561227,561062,2024-04-01,2024-04-02
+4,10:00:00,Substitution STL: out Camreé Clegg,48 - 42,5254233,561227,561062,2024-04-01,2024-04-02
+3,00:00:00,Period end (confirmed),48 - 42,5254233,561227,561062,2024-04-01,2024-04-02
+3,00:02:00,2pt floating jump shot (in the paint) made by D'Yanis Jimenez(WIS),48 - 42,5254233,561227,561062,2024-04-01,2024-04-02
+3,00:28:00,"3pt jump shot (outside left) missed by Camreé Clegg(STL), rebound defensive D'Yanis Jimenez(WIS)",48 - 40,5254233,561227,561062,2024-04-01,2024-04-02
+3,00:34:00,2pt driving layup (under the basket) made by Ronnie Porter(WIS),48 - 40,5254233,561227,561062,2024-04-01,2024-04-02
+3,00:56:00,"3pt jump shot (outside center) made by Camreé Clegg(STL), assist Kennedy Calhoun(STL)",48 - 38,5254233,561227,561062,2024-04-01,2024-04-02
+3,01:01:00,Substitution STL: in Kyla McMakin,45 - 38,5254233,561227,561062,2024-04-01,2024-04-02
+3,01:01:00,Substitution STL: out Julia Martinez,45 - 38,5254233,561227,561062,2024-04-01,2024-04-02
+3,01:01:00,"Foul personal (in the paint) Ronnie Porter(WIS), foul on Peyton Kennedy(STL)",45 - 38,5254233,561227,561062,2024-04-01,2024-04-02
+3,01:31:00,2pt driving layup (2nd chance;off turnover) (under the basket) made by Halle Douglass(WIS),45 - 38,5254233,561227,561062,2024-04-01,2024-04-02
+3,01:39:00,"2pt driving layup (off turnover) (in the paint) missed by Ronnie Porter(WIS), rebound offensive Tessa Grady(WIS), rebound offensive Halle Douglass(WIS)",45 - 36,5254233,561227,561062,2024-04-01,2024-04-02
+3,01:59:00,"Turnover lost ball (in the paint) Kennedy Calhoun(STL), steal Halle Douglass(WIS)",45 - 36,5254233,561227,561062,2024-04-01,2024-04-02
+3,02:14:00,Free throw 2 of 2 made by D'Yanis Jimenez(WIS),45 - 36,5254233,561227,561062,2024-04-01,2024-04-02
+3,02:14:00,Free throw 1 of 2 made by D'Yanis Jimenez(WIS),45 - 35,5254233,561227,561062,2024-04-01,2024-04-02
+3,02:14:00,Substitution STL: in Tierra Simon,45 - 34,5254233,561227,561062,2024-04-01,2024-04-02
+3,02:14:00,Substitution STL: in Camreé Clegg,45 - 34,5254233,561227,561062,2024-04-01,2024-04-02
+3,02:14:00,Substitution STL: out Brooklyn Gray,45 - 34,5254233,561227,561062,2024-04-01,2024-04-02
+3,02:14:00,Substitution STL: out Marcavia Shavers,45 - 34,5254233,561227,561062,2024-04-01,2024-04-02
+3,02:14:00,Foul personal (2 free throws) (inside center) Brooklyn Gray(STL),45 - 34,5254233,561227,561062,2024-04-01,2024-04-02
+3,02:37:00,"2pt layup (under the basket) made by Marcavia Shavers(STL), assist Julia Martinez(STL)",45 - 34,5254233,561227,561062,2024-04-01,2024-04-02
+3,02:54:00,"Free throw 2 of 2 (off turnover) missed by Tessa Grady(WIS), rebound defensive Peyton Kennedy(STL)",43 - 34,5254233,561227,561062,2024-04-01,2024-04-02
+3,02:54:00,Free throw 1 of 2 (off turnover) made by Tessa Grady(WIS),43 - 34,5254233,561227,561062,2024-04-01,2024-04-02
+3,02:54:00,Foul personal (shooting;2 free throws) (in the paint) Peyton Kennedy(STL),43 - 33,5254233,561227,561062,2024-04-01,2024-04-02
+3,03:05:00,Substitution STL: in Peyton Kennedy,43 - 33,5254233,561227,561062,2024-04-01,2024-04-02
+3,03:05:00,Substitution STL: out Tierra Simon,43 - 33,5254233,561227,561062,2024-04-01,2024-04-02
+3,03:05:00,Turnover shot clock (team) (in the paint) STL,43 - 33,5254233,561227,561062,2024-04-01,2024-04-02
+3,03:08:00,"2pt layup (under the basket) missed by Marcavia Shavers(STL), rebound offensive Marcavia Shavers(STL)",43 - 33,5254233,561227,561062,2024-04-01,2024-04-02
+3,03:38:00,2pt driving layup (under the basket) made by Ronnie Porter(WIS),43 - 33,5254233,561227,561062,2024-04-01,2024-04-02
+3,03:51:00,Substitution STL: in Julia Martinez,43 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,03:51:00,Substitution STL: out Kyla McMakin,43 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,03:51:00,Free throw 2 of 2 (off turnover) made by Kyla McMakin(STL),43 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,03:51:00,"Free throw 1 of 2 (off turnover) missed by Kyla McMakin(STL), rebound offensive dead ball STL",42 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,03:51:00,Substitution WIS: in D'Yanis Jimenez,42 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,03:51:00,Substitution WIS: out Brooke Schramek,42 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,03:51:00,Foul personal (shooting;2 free throws) (inside right) Tessa Grady(WIS),42 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,04:06:00,"Turnover bad pass (inside center) Brooke Schramek(WIS), steal Tierra Simon(STL)",42 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,04:24:00,2pt driving layup (off turnover;fast break) (under the basket) made by Kennedy Calhoun(STL),42 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,04:30:00,"Turnover lost ball (outside center) Brooke Schramek(WIS), steal Kennedy Calhoun(STL)",40 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,04:44:00,"2pt jump shot (off turnover) (inside left) missed by Kyla McMakin(STL), rebound defensive (team) WIS",40 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,04:49:00,Substitution WIS: in Tessa Grady,40 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,04:49:00,Substitution WIS: out D'Yanis Jimenez,40 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,04:49:00,Substitution STL: in Brooklyn Gray,40 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,04:49:00,Substitution STL: out Peyton Kennedy,40 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,05:05:00,Substitution STL: in Peyton Kennedy,40 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,05:05:00,Substitution STL: out Brooklyn Gray,40 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,04:49:00,Timeout commercial,40 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,05:05:00,Substitution STL: in Brooklyn Gray,40 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,05:05:00,Substitution STL: out Peyton Kennedy,40 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,05:05:00,Turnover bad pass (inside left) Ronnie Porter(WIS),40 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,05:12:00,Substitution STL: in Peyton Kennedy,40 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,05:12:00,Substitution STL: out Brooklyn Gray,40 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,05:12:00,Substitution STL: in Brooklyn Gray,40 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,05:12:00,Substitution STL: out Peyton Kennedy,40 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,05:12:00,Substitution STL: in Marcavia Shavers,40 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,05:12:00,Substitution STL: in Kennedy Calhoun,40 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,05:12:00,Substitution STL: out Brooklyn Gray,40 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,05:12:00,Substitution STL: out Julia Martinez,40 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,05:12:00,"Foul personal (under the basket) Julia Martinez(STL), foul on Natalie Leuzinger(WIS)",40 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,05:12:00,"3pt jump shot (2nd chance) (outside right) missed by Ronnie Porter(WIS), rebound offensive dead ball WIS",40 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,05:21:00,"3pt jump shot (outside center) missed by Brooke Schramek(WIS), rebound offensive Natalie Leuzinger(WIS)",40 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,05:37:00,2pt layup (2nd chance) (under the basket) made by Kyla McMakin(STL),40 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,05:40:00,"2pt layup (under the basket) missed by Kyla McMakin(STL), rebound offensive Kyla McMakin(STL)",38 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,05:57:00,"Foul personal (outside center) Ronnie Porter(WIS), foul on Tierra Simon(STL)",38 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,06:08:00,"3pt jump shot (outside left) made by Natalie Leuzinger(WIS), assist D'Yanis Jimenez(WIS)",38 - 31,5254233,561227,561062,2024-04-01,2024-04-02
+3,06:27:00,"2pt jump shot (inside left) made by Kyla McMakin(STL), assist Tierra Simon(STL), assist Tierra Simon(STL)",38 - 28,5254233,561227,561062,2024-04-01,2024-04-02
+3,06:34:00,Substitution STL: in Tierra Simon,36 - 28,5254233,561227,561062,2024-04-01,2024-04-02
+3,06:34:00,Substitution STL: out Kennedy Calhoun,36 - 28,5254233,561227,561062,2024-04-01,2024-04-02
+3,06:34:00,Jump ball held ball STL,36 - 28,5254233,561227,561062,2024-04-01,2024-04-02
+3,06:43:00,"Foul personal (in the paint) Brooke Schramek(WIS), foul on Peyton Kennedy(STL), foul on Kennedy Calhoun(STL)",36 - 28,5254233,561227,561062,2024-04-01,2024-04-02
+3,06:56:00,Free throw 2 of 2 made by Ronnie Porter(WIS),36 - 28,5254233,561227,561062,2024-04-01,2024-04-02
+3,06:56:00,Free throw 1 of 2 made by Ronnie Porter(WIS),36 - 27,5254233,561227,561062,2024-04-01,2024-04-02
+3,06:56:00,Substitution STL: in Kennedy Calhoun,36 - 26,5254233,561227,561062,2024-04-01,2024-04-02
+3,06:56:00,Substitution STL: out Tierra Simon,36 - 26,5254233,561227,561062,2024-04-01,2024-04-02
+3,06:56:00,Substitution STL: in Brooklyn Gray,36 - 26,5254233,561227,561062,2024-04-01,2024-04-02
+3,06:56:00,Substitution STL: out Kennedy Calhoun,36 - 26,5254233,561227,561062,2024-04-01,2024-04-02
+3,06:56:00,Foul personal (shooting;2 free throws) (inside left) Kennedy Calhoun(STL),36 - 26,5254233,561227,561062,2024-04-01,2024-04-02
+3,07:07:00,"2pt jump shot (2nd chance;off turnover) (in the paint) made by Kyla McMakin(STL), assist Kennedy Calhoun(STL)",36 - 26,5254233,561227,561062,2024-04-01,2024-04-02
+3,07:22:00,"2pt layup (off turnover) (in the paint) missed by Julia Martinez(STL), rebound offensive Julia Martinez(STL)",34 - 26,5254233,561227,561062,2024-04-01,2024-04-02
+3,07:37:00,Turnover shot clock (team) (inside left) WIS,34 - 26,5254233,561227,561062,2024-04-01,2024-04-02
+3,07:37:00,"2pt jump shot (inside left) missed by Natalie Leuzinger(WIS), rebound offensive dead ball WIS",34 - 26,5254233,561227,561062,2024-04-01,2024-04-02
+3,07:59:00,"Foul personal (inside center) Julia Martinez(STL), foul on Halle Douglass(WIS)",34 - 26,5254233,561227,561062,2024-04-01,2024-04-02
+3,08:13:00,"2pt layup (in the paint) made by Julia Martinez(STL), assist Peyton Kennedy(STL)",34 - 26,5254233,561227,561062,2024-04-01,2024-04-02
+3,08:35:00,Free throw 2 of 2 made by Brooke Schramek(WIS),32 - 26,5254233,561227,561062,2024-04-01,2024-04-02
+3,08:35:00,Free throw 1 of 2 made by Brooke Schramek(WIS),32 - 26,5254233,561227,561062,2024-04-01,2024-04-02
+3,08:35:00,Foul personal (shooting;2 free throws) (under the basket) Tierra Simon(STL),32 - 24,5254233,561227,561062,2024-04-01,2024-04-02
+3,08:35:00,Foul (back court) WIS,32 - 24,5254233,561227,561062,2024-04-01,2024-04-02
+3,08:35:00,2pt layup (in the paint) missed by Brooke Schramek(WIS),32 - 26,5254233,561227,561062,2024-04-01,2024-04-02
+3,08:40:00,2pt layup (under the basket) made by Peyton Kennedy(STL),32 - 24,5254233,561227,561062,2024-04-01,2024-04-02
+3,08:53:00,"2pt driving layup (in the paint) missed by Natalie Leuzinger(WIS), rebound defensive Tierra Simon(STL)",30 - 24,5254233,561227,561062,2024-04-01,2024-04-02
+3,09:20:00,"2pt jump shot (inside center) missed by Peyton Kennedy(STL), rebound defensive (team) WIS",30 - 24,5254233,561227,561062,2024-04-01,2024-04-02
+3,09:40:00,2pt jump shot (inside right) made by D'Yanis Jimenez(WIS),30 - 24,5254233,561227,561062,2024-04-01,2024-04-02
+3,10:00:00,Period start,30 - 22,5254233,561227,561062,2024-04-01,2024-04-02
+3,10:00:00,Substitution STL: in Tierra Simon,30 - 22,5254233,561227,561062,2024-04-01,2024-04-02
+3,10:00:00,Substitution STL: out Brooklyn Gray,30 - 22,5254233,561227,561062,2024-04-01,2024-04-02
+2,00:00:00,Period end (confirmed),30 - 22,5254233,561227,561062,2024-04-01,2024-04-02
+2,00:04:00,Free throw 2 of 2 (fast break) made by D'Yanis Jimenez(WIS),30 - 22,5254233,561227,561062,2024-04-01,2024-04-02
+2,00:04:00,Free throw 1 of 2 (fast break) made by D'Yanis Jimenez(WIS),30 - 21,5254233,561227,561062,2024-04-01,2024-04-02
+2,00:04:00,Foul personal (2 free throws) (back court) Julia Martinez(STL),30 - 20,5254233,561227,561062,2024-04-01,2024-04-02
+2,00:05:00,"3pt jump shot (outside right) missed by Peyton Kennedy(STL), rebound defensive dead ball WIS",30 - 20,5254233,561227,561062,2024-04-01,2024-04-02
+2,00:10:00,Substitution STL: in Peyton Kennedy,30 - 20,5254233,561227,561062,2024-04-01,2024-04-02
+2,00:10:00,Substitution STL: out Marcavia Shavers,30 - 20,5254233,561227,561062,2024-04-01,2024-04-02
+2,00:10:00,Free throw 2 of 2 (off turnover) made by Brooke Schramek(WIS),30 - 20,5254233,561227,561062,2024-04-01,2024-04-02
+2,00:10:00,"Free throw 1 of 2 (off turnover) missed by Brooke Schramek(WIS), rebound offensive dead ball WIS",30 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,00:10:00,Foul personal (shooting;2 free throws) (under the basket) Marcavia Shavers(STL),30 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,00:20:00,"Turnover bad pass (inside center) Kennedy Calhoun(STL), steal D'Yanis Jimenez(WIS)",30 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,00:29:00,"3pt jump shot (outside right) missed by Natalie Leuzinger(WIS), rebound defensive Kennedy Calhoun(STL)",30 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,00:31:00,Substitution STL: in Marcavia Shavers,30 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,00:31:00,Substitution STL: out Peyton Kennedy,30 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,00:31:00,"Foul personal (in the paint) Kennedy Calhoun(STL), foul on Ronnie Porter(WIS)",30 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,00:38:00,Free throw 1 of 1 (fast break;off turnover) made by Kennedy Calhoun(STL),30 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,00:38:00,Foul personal (shooting;1 free throw) (under the basket) Ronnie Porter(WIS),29 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,00:38:00,2pt driving layup (off turnover;fast break) (under the basket) made by Kennedy Calhoun(STL),29 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,00:42:00,"Turnover bad pass (inside left) Brooke Schramek(WIS), steal Kennedy Calhoun(STL)",27 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,01:01:00,"2pt jump shot (off turnover) (inside center) missed by Kyla McMakin(STL), rebound defensive Ronnie Porter(WIS)",27 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,01:27:00,Substitution STL: in Brooklyn Gray,27 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,01:27:00,Substitution STL: out Tierra Simon,27 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,01:27:00,Turnover bad pass (in the paint) Halle Douglass(WIS),27 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,01:52:00,Timeout short WIS,27 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,01:52:00,2pt driving layup (fast break) (under the basket) made by Julia Martinez(STL),27 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,01:58:00,"2pt driving layup (under the basket) missed by Ronnie Porter(WIS), rebound defensive Julia Martinez(STL)",25 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,02:16:00,Substitution WIS: in D'Yanis Jimenez,25 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,02:16:00,Substitution WIS: out Sania Copeland,25 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,02:16:00,"3pt jump shot (2nd chance;off turnover) (outside right) missed by Peyton Kennedy(STL), rebound defensive Brooke Schramek(WIS)",25 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,02:20:00,"2pt layup (off turnover) (in the paint) missed by Julia Martinez(STL), rebound offensive Julia Martinez(STL)",25 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,02:37:00,"Foul personal (back court) Sania Copeland(WIS), foul on Kennedy Calhoun(STL)",25 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,02:37:00,"Turnover lost ball (inside left) Sania Copeland(WIS), steal Kennedy Calhoun(STL)",25 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,02:55:00,"2pt driving layup (under the basket) made by Tierra Simon(STL), assist Kennedy Calhoun(STL)",25 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,03:06:00,"2pt driving layup (under the basket) missed by Brooke Schramek(WIS), rebound defensive Tierra Simon(STL)",23 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,03:14:00,"2pt layup (2nd chance) (in the paint) missed by Peyton Kennedy(STL), rebound defensive Brooke Schramek(WIS)",23 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,03:21:00,Substitution STL: in Julia Martinez,23 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,03:21:00,Substitution STL: out Brooklyn Gray,23 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,03:21:00,Substitution STL: in Kennedy Calhoun,23 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,03:21:00,Substitution STL: out Julia Martinez,23 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,03:21:00,"Foul personal (in the paint) Natalie Leuzinger(WIS), foul on Tierra Simon(STL)",23 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,03:23:00,"2pt jump shot (inside right) missed by Brooklyn Gray(STL), rebound offensive Tierra Simon(STL)",23 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,03:29:00,Substitution WIS: in Natalie Leuzinger,23 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,03:29:00,Substitution WIS: out D'Yanis Jimenez,23 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,03:29:00,Jump ball held ball STL,23 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,03:46:00,"3pt jump shot (outside left) missed by Sania Copeland(WIS), rebound defensive Brooklyn Gray(STL)",23 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,04:20:00,2pt floating jump shot (in the paint) made by Peyton Kennedy(STL),23 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,04:36:00,"3pt jump shot (2nd chance) (outside center) made by Halle Douglass(WIS), assist Ronnie Porter(WIS)",21 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+2,04:51:00,Substitution WIS: in Sania Copeland,21 - 16,5254233,561227,561062,2024-04-01,2024-04-02
+2,04:51:00,Substitution WIS: out Natalie Leuzinger,21 - 16,5254233,561227,561062,2024-04-01,2024-04-02
+2,04:51:00,Timeout commercial,21 - 16,5254233,561227,561062,2024-04-01,2024-04-02
+2,04:51:00,"2pt layup (blocked) (in the paint) missed by Natalie Leuzinger(WIS), block Tierra Simon(STL), block Tierra Simon(STL), rebound offensive (team) WIS",21 - 16,5254233,561227,561062,2024-04-01,2024-04-02
+2,05:09:00,"2pt jump shot (inside left) made by Kyla McMakin(STL), assist Julia Martinez(STL)",21 - 16,5254233,561227,561062,2024-04-01,2024-04-02
+2,05:20:00,"Foul personal (back court) Brooke Schramek(WIS), foul on Kyla McMakin(STL)",19 - 16,5254233,561227,561062,2024-04-01,2024-04-02
+2,05:24:00,"3pt jump shot (outside left) missed by D'Yanis Jimenez(WIS), rebound defensive Kyla McMakin(STL)",19 - 16,5254233,561227,561062,2024-04-01,2024-04-02
+2,05:38:00,Substitution WIS: in D'Yanis Jimenez,19 - 16,5254233,561227,561062,2024-04-01,2024-04-02
+2,05:38:00,Substitution WIS: out Sania Copeland,19 - 16,5254233,561227,561062,2024-04-01,2024-04-02
+2,05:59:00,"Foul personal (back court) Peyton Kennedy(STL), foul on Halle Douglass(WIS)",19 - 16,5254233,561227,561062,2024-04-01,2024-04-02
+2,05:59:00,"2pt layup (in the paint) missed by Peyton Kennedy(STL), rebound defensive dead ball WIS",19 - 16,5254233,561227,561062,2024-04-01,2024-04-02
+2,06:15:00,"2pt driving layup (blocked) (in the paint) missed by Halle Douglass(WIS), block Brooklyn Gray(STL), rebound defensive Julia Martinez(STL)",19 - 16,5254233,561227,561062,2024-04-01,2024-04-02
+2,06:24:00,Substitution STL: in Brooklyn Gray,19 - 16,5254233,561227,561062,2024-04-01,2024-04-02
+2,06:24:00,Substitution STL: out Kennedy Calhoun,19 - 16,5254233,561227,561062,2024-04-01,2024-04-02
+2,06:24:00,"2pt layup (under the basket) missed by Tierra Simon(STL), rebound defensive (team) WIS",19 - 16,5254233,561227,561062,2024-04-01,2024-04-02
+2,06:39:00,"3pt jump shot (2nd chance) (outside right wing) missed by Natalie Leuzinger(WIS), rebound defensive Peyton Kennedy(STL)",19 - 16,5254233,561227,561062,2024-04-01,2024-04-02
+2,06:54:00,"2pt driving layup (under the basket) missed by Ronnie Porter(WIS), rebound offensive (team) WIS",19 - 16,5254233,561227,561062,2024-04-01,2024-04-02
+2,07:15:00,2pt layup (2nd chance) (under the basket) made by Tierra Simon(STL),19 - 16,5254233,561227,561062,2024-04-01,2024-04-02
+2,07:19:00,"2pt layup (in the paint) missed by Tierra Simon(STL), rebound offensive Tierra Simon(STL)",17 - 16,5254233,561227,561062,2024-04-01,2024-04-02
+2,07:43:00,"2pt driving layup (under the basket) missed by Sania Copeland(WIS), rebound defensive Kennedy Calhoun(STL)",17 - 16,5254233,561227,561062,2024-04-01,2024-04-02
+2,07:51:00,"2pt jump shot (inside left) missed by Kyla McMakin(STL), rebound defensive Halle Douglass(WIS)",17 - 16,5254233,561227,561062,2024-04-01,2024-04-02
+2,08:10:00,Free throw 1 of 1 made by Natalie Leuzinger(WIS),17 - 16,5254233,561227,561062,2024-04-01,2024-04-02
+2,08:10:00,Foul personal (shooting;1 free throw) (under the basket) Peyton Kennedy(STL),17 - 15,5254233,561227,561062,2024-04-01,2024-04-02
+2,08:10:00,2pt driving layup (under the basket) made by Natalie Leuzinger(WIS),17 - 15,5254233,561227,561062,2024-04-01,2024-04-02
+2,08:29:00,"2pt driving layup (in the paint) missed by Julia Martinez(STL), rebound defensive Ronnie Porter(WIS)",17 - 13,5254233,561227,561062,2024-04-01,2024-04-02
+2,08:52:00,"3pt jump shot (off turnover) (outside right) missed by Sania Copeland(WIS), rebound defensive Tierra Simon(STL)",17 - 13,5254233,561227,561062,2024-04-01,2024-04-02
+2,09:15:00,Substitution STL: in Peyton Kennedy,17 - 13,5254233,561227,561062,2024-04-01,2024-04-02
+2,09:15:00,Substitution STL: out Brooklyn Gray,17 - 13,5254233,561227,561062,2024-04-01,2024-04-02
+2,09:15:00,Turnover dribbling (outside center) Kennedy Calhoun(STL),17 - 13,5254233,561227,561062,2024-04-01,2024-04-02
+2,09:20:00,"Turnover lost ball (inside center) Sania Copeland(WIS), steal Kennedy Calhoun(STL)",17 - 13,5254233,561227,561062,2024-04-01,2024-04-02
+2,09:41:00,"Turnover lost ball (outside right) Kyla McMakin(STL), steal Halle Douglass(WIS)",17 - 13,5254233,561227,561062,2024-04-01,2024-04-02
+2,09:49:00,"Turnover bad pass (inside right) Brooke Schramek(WIS), steal Brooklyn Gray(STL)",17 - 13,5254233,561227,561062,2024-04-01,2024-04-02
+2,10:00:00,Period start,17 - 13,5254233,561227,561062,2024-04-01,2024-04-02
+2,10:00:00,Substitution STL: in Kennedy Calhoun,17 - 13,5254233,561227,561062,2024-04-01,2024-04-02
+2,10:00:00,Substitution STL: out Camreé Clegg,17 - 13,5254233,561227,561062,2024-04-01,2024-04-02
+2,10:00:00,Substitution WIS: in Sania Copeland,17 - 13,5254233,561227,561062,2024-04-01,2024-04-02
+2,10:00:00,Substitution WIS: in Halle Douglass,17 - 13,5254233,561227,561062,2024-04-01,2024-04-02
+2,10:00:00,Substitution WIS: out Imbie Jones,17 - 13,5254233,561227,561062,2024-04-01,2024-04-02
+2,10:00:00,Substitution WIS: out D'Yanis Jimenez,17 - 13,5254233,561227,561062,2024-04-01,2024-04-02
+1,04:40:00,Substitution WIS: in Ronnie Porter,17 - 13,5254233,561227,561062,2024-04-01,2024-04-02
+1,04:40:00,Substitution WIS: out D'Yanis Jimenez,17 - 13,5254233,561227,561062,2024-04-01,2024-04-02
+1,00:00:00,Period end (confirmed),17 - 13,5254233,561227,561062,2024-04-01,2024-04-02
+1,00:04:00,"2pt layup (under the basket) made by Tierra Simon(STL), assist Julia Martinez(STL)",17 - 13,5254233,561227,561062,2024-04-01,2024-04-02
+1,00:30:00,"2pt floating jump shot (inside left) made by Ronnie Porter(WIS), assist Natalie Leuzinger(WIS)",15 - 13,5254233,561227,561062,2024-04-01,2024-04-02
+1,00:51:00,Substitution STL: in Tierra Simon,15 - 11,5254233,561227,561062,2024-04-01,2024-04-02
+1,00:51:00,Substitution STL: in Kyla McMakin,15 - 11,5254233,561227,561062,2024-04-01,2024-04-02
+1,00:51:00,Substitution STL: out Peyton Kennedy,15 - 11,5254233,561227,561062,2024-04-01,2024-04-02
+1,00:51:00,Substitution STL: out Kennedy Calhoun,15 - 11,5254233,561227,561062,2024-04-01,2024-04-02
+1,00:51:00,Substitution WIS: in Natalie Leuzinger,15 - 11,5254233,561227,561062,2024-04-01,2024-04-02
+1,00:51:00,Substitution WIS: in Brooke Schramek,15 - 11,5254233,561227,561062,2024-04-01,2024-04-02
+1,00:51:00,Substitution WIS: out Sania Copeland,15 - 11,5254233,561227,561062,2024-04-01,2024-04-02
+1,00:51:00,Substitution WIS: out Halle Douglass,15 - 11,5254233,561227,561062,2024-04-01,2024-04-02
+1,00:55:00,"2pt layup (off turnover) (in the paint) missed by Brooklyn Gray(STL), rebound defensive Imbie Jones(WIS)",15 - 11,5254233,561227,561062,2024-04-01,2024-04-02
+1,01:01:00,"Turnover bad pass (in the paint) Ronnie Porter(WIS), steal Brooklyn Gray(STL)",15 - 11,5254233,561227,561062,2024-04-01,2024-04-02
+1,01:30:00,"3pt jump shot (outside left) missed by Peyton Kennedy(STL), rebound defensive Sania Copeland(WIS)",15 - 11,5254233,561227,561062,2024-04-01,2024-04-02
+1,01:39:00,"3pt jump shot (outside left) missed by Sania Copeland(WIS), rebound defensive Peyton Kennedy(STL)",15 - 11,5254233,561227,561062,2024-04-01,2024-04-02
+1,01:48:00,"2pt jump shot (2nd chance) (inside right) missed by Brooklyn Gray(STL), rebound defensive D'Yanis Jimenez(WIS)",15 - 11,5254233,561227,561062,2024-04-01,2024-04-02
+1,02:05:00,"3pt jump shot (outside left wing) missed by Camreé Clegg(STL), rebound offensive Brooklyn Gray(STL)",15 - 11,5254233,561227,561062,2024-04-01,2024-04-02
+1,02:12:00,"2pt layup (under the basket) missed by Ronnie Porter(WIS), rebound defensive Julia Martinez(STL)",15 - 11,5254233,561227,561062,2024-04-01,2024-04-02
+1,02:29:00,Substitution STL: in Brooklyn Gray,15 - 11,5254233,561227,561062,2024-04-01,2024-04-02
+1,02:29:00,Substitution STL: out Marcavia Shavers,15 - 11,5254233,561227,561062,2024-04-01,2024-04-02
+1,02:29:00,"2pt driving layup (under the basket) missed by Marcavia Shavers(STL), rebound defensive (team) WIS",15 - 11,5254233,561227,561062,2024-04-01,2024-04-02
+1,02:38:00,Turnover (inside center) Marcavia Shavers(STL),15 - 11,5254233,561227,561062,2024-04-01,2024-04-02
+1,02:44:00,"3pt jump shot (off turnover) (outside left) made by Sania Copeland(WIS), assist Halle Douglass(WIS)",15 - 11,5254233,561227,561062,2024-04-01,2024-04-02
+1,03:00:00,Substitution STL: in Camreé Clegg,15 - 8,5254233,561227,561062,2024-04-01,2024-04-02
+1,03:00:00,Substitution STL: out Kyla McMakin,15 - 8,5254233,561227,561062,2024-04-01,2024-04-02
+1,03:00:00,Substitution WIS: in Imbie Jones,15 - 8,5254233,561227,561062,2024-04-01,2024-04-02
+1,03:00:00,Substitution WIS: in D'Yanis Jimenez,15 - 8,5254233,561227,561062,2024-04-01,2024-04-02
+1,03:00:00,Substitution WIS: out Natalie Leuzinger,15 - 8,5254233,561227,561062,2024-04-01,2024-04-02
+1,03:00:00,Substitution WIS: out Brooke Schramek,15 - 8,5254233,561227,561062,2024-04-01,2024-04-02
+1,03:00:00,Turnover travel (inside right) Marcavia Shavers(STL),15 - 8,5254233,561227,561062,2024-04-01,2024-04-02
+1,03:10:00,"3pt jump shot (outside center) missed by Brooke Schramek(WIS), rebound defensive Julia Martinez(STL)",15 - 8,5254233,561227,561062,2024-04-01,2024-04-02
+1,04:40:00,Substitution WIS: in Ronnie Porter,17 - 13,5254233,561227,561062,2024-04-01,2024-04-02
+1,04:40:00,Substitution WIS: out D'Yanis Jimenez,17 - 13,5254233,561227,561062,2024-04-01,2024-04-02
+1,04:40:00,"3pt jump shot (2nd chance) (outside right) made by Kyla McMakin(STL), assist Julia Martinez(STL)",30 - 22,5254233,561227,561062,2024-04-01,2024-04-02
+1,03:40:00,"2pt layup (under the basket) missed by Brooke Schramek(WIS), rebound defensive Peyton Kennedy(STL)",12 - 8,5254233,561227,561062,2024-04-01,2024-04-02
+1,03:59:00,"2pt layup (in the paint) made by Marcavia Shavers(STL), assist Julia Martinez(STL)",12 - 8,5254233,561227,561062,2024-04-01,2024-04-02
+1,04:12:00,2pt layup (in the paint) made by Ronnie Porter(WIS),15 - 11,5254233,561227,561062,2024-04-01,2024-04-02
+1,03:35:00,"2pt layup (in the paint) missed by Peyton Kennedy(STL), rebound defensive Brooke Schramek(WIS)",25 - 19,5254233,561227,561062,2024-04-01,2024-04-02
+1,04:40:00,Substitution STL: in Marcavia Shavers,10 - 6,5254233,561227,561062,2024-04-01,2024-04-02
+1,04:40:00,Substitution STL: in Julia Martinez,10 - 6,5254233,561227,561062,2024-04-01,2024-04-02
+1,04:40:00,Substitution STL: out Brooklyn Gray,10 - 6,5254233,561227,561062,2024-04-01,2024-04-02
+1,04:40:00,Substitution STL: out Tierra Simon,10 - 6,5254233,561227,561062,2024-04-01,2024-04-02
+1,04:40:00,Timeout commercial,10 - 6,5254233,561227,561062,2024-04-01,2024-04-02
+1,04:40:00,"Foul personal (in the paint) Halle Douglass(WIS), foul on Peyton Kennedy(STL)",10 - 6,5254233,561227,561062,2024-04-01,2024-04-02
+1,04:41:00,"3pt jump shot (outside left) missed by Kyla McMakin(STL), rebound offensive dead ball STL",10 - 6,5254233,561227,561062,2024-04-01,2024-04-02
+1,04:54:00,"2pt driving layup (fast break) (under the basket) made by Sania Copeland(WIS), assist Brooke Schramek(WIS)",10 - 6,5254233,561227,561062,2024-04-01,2024-04-02
+1,05:01:00,"3pt jump shot (outside center) missed by Brooklyn Gray(STL), rebound defensive Natalie Leuzinger(WIS)",10 - 4,5254233,561227,561062,2024-04-01,2024-04-02
+1,05:38:00,"2pt driving layup (under the basket) made by Natalie Leuzinger(WIS), assist Halle Douglass(WIS)",10 - 4,5254233,561227,561062,2024-04-01,2024-04-02
+1,05:56:00,2pt pull up jump shot (2nd chance) (in the paint) made by Peyton Kennedy(STL),10 - 2,5254233,561227,561062,2024-04-01,2024-04-02
+1,06:02:00,"3pt jump shot (outside right) missed by Peyton Kennedy(STL), rebound offensive Peyton Kennedy(STL)",8 - 2,5254233,561227,561062,2024-04-01,2024-04-02
+1,06:21:00,"2pt layup (under the basket) made by Halle Douglass(WIS), assist Brooke Schramek(WIS)",8 - 2,5254233,561227,561062,2024-04-01,2024-04-02
+1,06:49:00,"3pt jump shot (outside center) made by Peyton Kennedy(STL), assist Kennedy Calhoun(STL)",8 - 0,5254233,561227,561062,2024-04-01,2024-04-02
+1,07:12:00,"2pt driving layup (off turnover) (under the basket) missed by Natalie Leuzinger(WIS), rebound defensive Tierra Simon(STL)",5 - 0,5254233,561227,561062,2024-04-01,2024-04-02
+1,07:20:00,"Turnover lost ball (inside right) Kennedy Calhoun(STL), steal D'Yanis Jimenez(WIS)",5 - 0,5254233,561227,561062,2024-04-01,2024-04-02
+1,07:26:00,"Turnover lost ball (inside left) Brooke Schramek(WIS), steal Kennedy Calhoun(STL)",5 - 0,5254233,561227,561062,2024-04-01,2024-04-02
+1,07:38:00,Substitution WIS: in D'Yanis Jimenez,5 - 0,5254233,561227,561062,2024-04-01,2024-04-02
+1,07:38:00,Substitution WIS: out Ronnie Porter,5 - 0,5254233,561227,561062,2024-04-01,2024-04-02
+1,07:38:00,"Foul offensive (inside right) Tierra Simon(STL), turnover offensive Tierra Simon(STL), foul on Ronnie Porter(WIS)",5 - 0,5254233,561227,561062,2024-04-01,2024-04-02
+1,07:40:00,"3pt jump shot (outside right) missed by Natalie Leuzinger(WIS), rebound defensive Tierra Simon(STL)",5 - 0,5254233,561227,561062,2024-04-01,2024-04-02
+1,07:46:00,"2pt driving layup (off turnover) (under the basket) missed by Kennedy Calhoun(STL), rebound defensive Halle Douglass(WIS)",5 - 0,5254233,561227,561062,2024-04-01,2024-04-02
+1,07:50:00,"Turnover lost ball (outside center) Sania Copeland(WIS), steal Kennedy Calhoun(STL)",5 - 0,5254233,561227,561062,2024-04-01,2024-04-02
+1,08:02:00,2pt driving layup (off turnover;fast break) (under the basket) made by Peyton Kennedy(STL),5 - 0,5254233,561227,561062,2024-04-01,2024-04-02
+1,08:09:00,"Turnover bad pass (inside right) Sania Copeland(WIS), steal Peyton Kennedy(STL)",3 - 0,5254233,561227,561062,2024-04-01,2024-04-02
+1,08:25:00,"2pt jump shot (in the paint) missed by Brooklyn Gray(STL), rebound defensive Halle Douglass(WIS)",3 - 0,5254233,561227,561062,2024-04-01,2024-04-02
+1,08:36:00,3pt jump shot (2nd chance) (outside center) missed by Sania Copeland(WIS),3 - 0,5254233,561227,561062,2024-04-01,2024-04-02
+1,08:50:00,"2pt hook shot (blocked) (inside right) missed by Ronnie Porter(WIS), block Tierra Simon(STL), rebound offensive (team) WIS",3 - 0,5254233,561227,561062,2024-04-01,2024-04-02
+1,09:06:00,Substitution WIS: in Halle Douglass,3 - 0,5254233,561227,561062,2024-04-01,2024-04-02
+1,09:06:00,Substitution WIS: out Serah Williams,3 - 0,5254233,561227,561062,2024-04-01,2024-04-02
+1,09:06:00,"3pt jump shot (2nd chance) (outside right) made by Kennedy Calhoun(STL), assist Tierra Simon(STL)",3 - 0,5254233,561227,561062,2024-04-01,2024-04-02
+1,09:13:00,"3pt jump shot (outside right) missed by Peyton Kennedy(STL), rebound offensive Peyton Kennedy(STL)",0 - 0,5254233,561227,561062,2024-04-01,2024-04-02
+1,09:20:00,"2pt layup (under the basket) missed by Serah Williams(WIS), rebound defensive Brooklyn Gray(STL)",0 - 0,5254233,561227,561062,2024-04-01,2024-04-02
+1,09:30:00,"3pt jump shot (outside center) missed by Brooklyn Gray(STL), rebound defensive Sania Copeland(WIS)",0 - 0,5254233,561227,561062,2024-04-01,2024-04-02
+1,10:00:00,"Jump ball start period, won Tierra Simon(STL), lost Serah Williams(WIS)",0 - 0,5254233,561227,561062,2024-04-01,2024-04-02
+1,10:00:00,Period start,0 - 0,5254233,561227,561062,2024-04-01,2024-04-02
+1,10:00:00,Game start,0 - 0,5254233,561227,561062,2024-04-01,2024-04-02
+4,06:10:00,Timeout commercial,48 - 45,5254229,561233,560900,2024-04-01,2024-04-02
+4,06:10:00,Timeout short Wyoming,48 - 45,5254229,561233,560900,2024-04-01,2024-04-02
+4,06:10:00,Turnover bad pass (under the basket) Tess Barnes(Wyoming),48 - 45,5254229,561233,560900,2024-04-01,2024-04-02
+4,06:22:00,2pt pull up jump shot (inside center) made by Amaya Battle(Minnesota),48 - 45,5254229,561233,560900,2024-04-01,2024-04-02
+4,06:39:00,"2pt hook shot (in the paint) missed by Allyson Fertig(Wyoming), rebound defensive Niamya Holloway(Minnesota)",46 - 45,5254229,561233,560900,2024-04-01,2024-04-02
+4,06:53:00,Free throw 2 of 2 made by Amaya Battle(Minnesota),46 - 45,5254229,561233,560900,2024-04-01,2024-04-02
+4,06:53:00,Free throw 1 of 2 made by Amaya Battle(Minnesota),45 - 45,5254229,561233,560900,2024-04-01,2024-04-02
+4,06:53:00,Substitution Wyoming: in Kati Ollilainen,44 - 45,5254229,561233,560900,2024-04-01,2024-04-02
+4,06:53:00,Substitution Wyoming: out Emily Mellema,44 - 45,5254229,561233,560900,2024-04-01,2024-04-02
+4,06:53:00,Foul personal (shooting;2 free throws) (under the basket) Emily Mellema(Wyoming),44 - 45,5254229,561233,560900,2024-04-01,2024-04-02
+4,06:56:00,"Foul personal (inside right) Emily Mellema(Wyoming), foul on Amaya Battle(Minnesota)",44 - 45,5254229,561233,560900,2024-04-01,2024-04-02
+4,07:08:00,Free throw 2 of 2 made by Allyson Fertig(Wyoming),44 - 45,5254229,561233,560900,2024-04-01,2024-04-02
+4,07:08:00,Free throw 1 of 2 made by Allyson Fertig(Wyoming),44 - 44,5254229,561233,560900,2024-04-01,2024-04-02
+4,07:08:00,Substitution Minnesota: in Maggie Czinano,44 - 43,5254229,561233,560900,2024-04-01,2024-04-02
+4,07:08:00,Substitution Minnesota: out Janay Sanders,44 - 43,5254229,561233,560900,2024-04-01,2024-04-02
+4,07:08:00,Foul personal (shooting;2 free throws) (under the basket) Niamya Holloway(Minnesota),44 - 43,5254229,561233,560900,2024-04-01,2024-04-02
+4,07:23:00,"2pt hook shot (in the paint) made by Mallory Heyer(Minnesota), assist Amaya Battle(Minnesota)",44 - 43,5254229,561233,560900,2024-04-01,2024-04-02
+4,07:32:00,"2pt layup (blocked) (under the basket) missed by Emily Mellema(Wyoming), block Niamya Holloway(Minnesota), rebound defensive Niamya Holloway(Minnesota)",42 - 43,5254229,561233,560900,2024-04-01,2024-04-02
+4,07:43:00,"2pt jump shot (2nd chance) (inside center) missed by Niamya Holloway(Minnesota), rebound defensive McKinley Dickerson(Wyoming)",42 - 43,5254229,561233,560900,2024-04-01,2024-04-02
+4,07:49:00,"Free throw 1 of 1 (2nd chance) missed by Niamya Holloway(Minnesota), rebound offensive Mallory Heyer(Minnesota)",42 - 43,5254229,561233,560900,2024-04-01,2024-04-02
+4,07:49:00,Foul personal (shooting;1 free throw) (under the basket) Tess Barnes(Wyoming),42 - 43,5254229,561233,560900,2024-04-01,2024-04-02
+4,07:49:00,"2pt layup (2nd chance) (under the basket) made by Niamya Holloway(Minnesota), assist Amaya Battle(Minnesota)",42 - 43,5254229,561233,560900,2024-04-01,2024-04-02
+4,07:55:00,"2pt driving layup (in the paint) missed by Janay Sanders(Minnesota), rebound offensive Janay Sanders(Minnesota)",40 - 43,5254229,561233,560900,2024-04-01,2024-04-02
+4,08:08:00,Free throw 2 of 2 made by Allyson Fertig(Wyoming),40 - 43,5254229,561233,560900,2024-04-01,2024-04-02
+4,08:08:00,"Free throw 1 of 2 missed by Allyson Fertig(Wyoming), rebound offensive dead ball Wyoming",40 - 42,5254229,561233,560900,2024-04-01,2024-04-02
+4,08:08:00,Substitution Minnesota: in Niamya Holloway,40 - 42,5254229,561233,560900,2024-04-01,2024-04-02
+4,08:08:00,Substitution Minnesota: out Sophie Hart,40 - 42,5254229,561233,560900,2024-04-01,2024-04-02
+4,08:08:00,Substitution Wyoming: in McKinley Dickerson,40 - 42,5254229,561233,560900,2024-04-01,2024-04-02
+4,08:08:00,Substitution Wyoming: in Tess Barnes,40 - 42,5254229,561233,560900,2024-04-01,2024-04-02
+4,08:08:00,Substitution Wyoming: out Malene Pedersen,40 - 42,5254229,561233,560900,2024-04-01,2024-04-02
+4,08:08:00,Substitution Wyoming: out Madi Symons,40 - 42,5254229,561233,560900,2024-04-01,2024-04-02
+4,08:08:00,Foul personal (shooting;2 free throws) (under the basket) Sophie Hart(Minnesota),40 - 42,5254229,561233,560900,2024-04-01,2024-04-02
+4,08:30:00,"2pt jump shot (in the paint) missed by Sophie Hart(Minnesota), rebound defensive Allyson Fertig(Wyoming)",40 - 42,5254229,561233,560900,2024-04-01,2024-04-02
+4,08:58:00,2pt layup (under the basket) made by Madi Symons(Wyoming),40 - 42,5254229,561233,560900,2024-04-01,2024-04-02
+4,09:14:00,"3pt jump shot (outside center) missed by Grace Grocholski(Minnesota), rebound defensive Allyson Fertig(Wyoming)",40 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+4,09:19:00,"2pt driving layup (blocked) (under the basket) missed by Malene Pedersen(Wyoming), block Grace Grocholski(Minnesota), rebound defensive Grace Grocholski(Minnesota)",40 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+4,09:50:00,"2pt pull up jump shot (inside right) missed by Amaya Battle(Minnesota), rebound defensive Allyson Fertig(Wyoming)",40 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+4,10:00:00,Period start,40 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+4,10:00:00,Substitution Minnesota: in Janay Sanders,40 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+4,10:00:00,Substitution Minnesota: out Maggie Czinano,40 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+4,10:00:00,Substitution Wyoming: in Madi Symons,40 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+4,10:00:00,Substitution Wyoming: out Maren McKenna,40 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,00:00:00,Period end (confirmed),40 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,00:01:00,"2pt jump shot (off turnover) (inside left) missed by Amaya Battle(Minnesota), rebound defensive (team) Wyoming",40 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,00:03:00,Substitution Minnesota: in Sophie Hart,40 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,00:03:00,Substitution Minnesota: in Amaya Battle,40 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,00:03:00,Substitution Minnesota: out Niamya Holloway,40 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,00:03:00,Substitution Minnesota: out Janay Sanders,40 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,00:03:00,Turnover bad pass (back court) Maren McKenna(Wyoming),40 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,00:03:00,Substitution Minnesota: in Niamya Holloway,40 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,00:03:00,Substitution Minnesota: in Janay Sanders,40 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,00:03:00,Substitution Minnesota: out Sophie Hart,40 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,00:03:00,Substitution Minnesota: out Amaya Battle,40 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,00:03:00,Substitution Wyoming: in Maren McKenna,40 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,00:03:00,Substitution Wyoming: out Madi Symons,40 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,00:03:00,"Foul personal (back court) Amaya Battle(Minnesota), foul on Malene Pedersen(Wyoming)",40 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,00:05:00,"2pt pull up jump shot (off turnover) (inside center) missed by Amaya Battle(Minnesota), rebound defensive Malene Pedersen(Wyoming)",40 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,00:27:00,"Turnover bad pass (inside center) Ola Ustowska(Wyoming), steal Maggie Czinano(Minnesota)",40 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,00:44:00,2pt jump shot (off turnover) (in the paint) made by Sophie Hart(Minnesota),40 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,01:11:00,Substitution Minnesota: in Sophie Hart,38 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,01:11:00,Substitution Minnesota: in Amaya Battle,38 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,01:11:00,Substitution Minnesota: out Niamya Holloway,38 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,01:11:00,Substitution Minnesota: out Janay Sanders,38 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,01:11:00,Turnover bad pass (outside center) Ola Ustowska(Wyoming),38 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,01:16:00,"2pt jump shot (inside right wing) missed by Grace Grocholski(Minnesota), rebound defensive Ola Ustowska(Wyoming)",38 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,01:19:00,Substitution Minnesota: in Mallory Heyer,38 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,01:19:00,Substitution Minnesota: out Amaya Battle,38 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,01:19:00,Substitution Wyoming: in Allyson Fertig,38 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,01:19:00,Substitution Wyoming: in Ola Ustowska,38 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,01:19:00,Substitution Wyoming: in Malene Pedersen,38 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,01:19:00,Substitution Wyoming: out McKinley Dickerson,38 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,01:19:00,Substitution Wyoming: out Maren McKenna,38 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,01:19:00,Substitution Wyoming: out Marta Savic,38 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,01:19:00,"Foul personal (in the paint) Maren McKenna(Wyoming), foul on Amaya Battle(Minnesota)",38 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,01:24:00,"2pt layup (in the paint) missed by Marta Savic(Wyoming), rebound defensive Grace Grocholski(Minnesota)",38 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,01:41:00,2pt turnaround jump shot (inside left) made by Grace Grocholski(Minnesota),38 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,02:03:00,"2pt pull up jump shot (in the paint) missed by Maren McKenna(Wyoming), rebound defensive Niamya Holloway(Minnesota), rebound defensive Niamya Holloway(Minnesota)",36 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,02:21:00,"2pt pull up jump shot (inside right) missed by Amaya Battle(Minnesota), rebound defensive Maren McKenna(Wyoming)",36 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,02:31:00,Substitution Minnesota: in Niamya Holloway,36 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,02:31:00,Substitution Minnesota: in Janay Sanders,36 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,02:31:00,Substitution Minnesota: out Sophie Hart,36 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,02:31:00,Substitution Minnesota: out Mallory Heyer,36 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,02:31:00,Substitution Wyoming: in Madi Symons,36 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,02:31:00,Substitution Wyoming: in Emily Mellema,36 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,02:31:00,Substitution Wyoming: out Kati Ollilainen,36 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,02:31:00,Substitution Wyoming: out Tess Barnes,36 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,02:32:00,"3pt jump shot (outside right) missed by McKinley Dickerson(Wyoming), rebound defensive Maggie Czinano(Minnesota), rebound defensive Grace Grocholski(Minnesota)",36 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,02:53:00,2pt pull up jump shot (in the paint) made by Amaya Battle(Minnesota),36 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,03:24:00,"2pt hook shot (under the basket) made by Marta Savic(Wyoming), assist Tess Barnes(Wyoming)",34 - 40,5254229,561233,560900,2024-04-01,2024-04-02
+3,03:34:00,Substitution Wyoming: in Marta Savic,34 - 38,5254229,561233,560900,2024-04-01,2024-04-02
+3,03:34:00,Substitution Wyoming: out Allyson Fertig,34 - 38,5254229,561233,560900,2024-04-01,2024-04-02
+3,03:38:00,"2pt pull up jump shot (inside center) missed by Amaya Battle(Minnesota), rebound defensive (team) Wyoming",34 - 38,5254229,561233,560900,2024-04-01,2024-04-02
+3,04:00:00,"3pt jump shot (outside right) made by Tess Barnes(Wyoming), assist Maren McKenna(Wyoming)",34 - 38,5254229,561233,560900,2024-04-01,2024-04-02
+3,04:14:00,"3pt jump shot (outside right) missed by Mallory Heyer(Minnesota), rebound defensive Allyson Fertig(Wyoming)",34 - 35,5254229,561233,560900,2024-04-01,2024-04-02
+3,04:25:00,"Free throw 1 of 1 missed by Allyson Fertig(Wyoming), rebound defensive Grace Grocholski(Minnesota)",34 - 35,5254229,561233,560900,2024-04-01,2024-04-02
+3,04:25:00,Substitution Minnesota: in Sophie Hart,34 - 35,5254229,561233,560900,2024-04-01,2024-04-02
+3,04:25:00,Substitution Minnesota: in Grace Grocholski,34 - 35,5254229,561233,560900,2024-04-01,2024-04-02
+3,04:25:00,Substitution Minnesota: out Niamya Holloway,34 - 35,5254229,561233,560900,2024-04-01,2024-04-02
+3,04:25:00,Substitution Minnesota: out Janay Sanders,34 - 35,5254229,561233,560900,2024-04-01,2024-04-02
+3,04:25:00,Substitution Wyoming: in Maren McKenna,34 - 35,5254229,561233,560900,2024-04-01,2024-04-02
+3,04:25:00,Substitution Wyoming: out Malene Pedersen,34 - 35,5254229,561233,560900,2024-04-01,2024-04-02
+3,04:25:00,Timeout commercial,34 - 35,5254229,561233,560900,2024-04-01,2024-04-02
+3,04:25:00,Foul personal (shooting;1 free throw) (under the basket) Niamya Holloway(Minnesota),34 - 35,5254229,561233,560900,2024-04-01,2024-04-02
+3,04:25:00,"2pt layup (under the basket) made by Allyson Fertig(Wyoming), assist Malene Pedersen(Wyoming)",34 - 35,5254229,561233,560900,2024-04-01,2024-04-02
+3,04:39:00,2pt driving layup (off turnover;fast break) (under the basket) made by Mallory Heyer(Minnesota),34 - 33,5254229,561233,560900,2024-04-01,2024-04-02
+3,04:46:00,"Turnover bad pass (outside left) Kati Ollilainen(Wyoming), steal Maggie Czinano(Minnesota)",32 - 33,5254229,561233,560900,2024-04-01,2024-04-02
+3,04:59:00,"2pt pull up jump shot (2nd chance) (in the paint) missed by Amaya Battle(Minnesota), rebound defensive Allyson Fertig(Wyoming)",32 - 33,5254229,561233,560900,2024-04-01,2024-04-02
+3,05:10:00,"2pt hook shot (blocked) (in the paint) missed by Niamya Holloway(Minnesota), block Allyson Fertig(Wyoming), rebound offensive Maggie Czinano(Minnesota)",32 - 33,5254229,561233,560900,2024-04-01,2024-04-02
+3,05:29:00,"Free throw 2 of 2 missed by McKinley Dickerson(Wyoming), rebound defensive Mallory Heyer(Minnesota)",32 - 33,5254229,561233,560900,2024-04-01,2024-04-02
+3,05:29:00,Free throw 1 of 2 made by McKinley Dickerson(Wyoming),32 - 33,5254229,561233,560900,2024-04-01,2024-04-02
+3,05:29:00,Foul personal (shooting;2 free throws) (under the basket) Maggie Czinano(Minnesota),32 - 32,5254229,561233,560900,2024-04-01,2024-04-02
+3,05:30:00,Substitution Minnesota: in Janay Sanders,32 - 32,5254229,561233,560900,2024-04-01,2024-04-02
+3,05:30:00,Substitution Minnesota: out Grace Grocholski,32 - 32,5254229,561233,560900,2024-04-01,2024-04-02
+3,05:30:00,Substitution Wyoming: in Kati Ollilainen,32 - 32,5254229,561233,560900,2024-04-01,2024-04-02
+3,05:30:00,Substitution Wyoming: out Emily Mellema,32 - 32,5254229,561233,560900,2024-04-01,2024-04-02
+3,05:30:00,Jump ball held ball Wyoming,32 - 32,5254229,561233,560900,2024-04-01,2024-04-02
+3,05:49:00,"3pt jump shot (outside left) made by Maggie Czinano(Minnesota), assist Amaya Battle(Minnesota)",32 - 32,5254229,561233,560900,2024-04-01,2024-04-02
+3,06:05:00,2pt hook shot (off turnover) (under the basket) made by Allyson Fertig(Wyoming),29 - 32,5254229,561233,560900,2024-04-01,2024-04-02
+3,06:20:00,Turnover travel (in the paint) Amaya Battle(Minnesota),29 - 30,5254229,561233,560900,2024-04-01,2024-04-02
+3,06:38:00,Substitution Minnesota: in Niamya Holloway,29 - 30,5254229,561233,560900,2024-04-01,2024-04-02
+3,06:38:00,Substitution Minnesota: out Sophie Hart,29 - 30,5254229,561233,560900,2024-04-01,2024-04-02
+3,06:38:00,Substitution Wyoming: in McKinley Dickerson,29 - 30,5254229,561233,560900,2024-04-01,2024-04-02
+3,06:38:00,Substitution Wyoming: out Ola Ustowska,29 - 30,5254229,561233,560900,2024-04-01,2024-04-02
+3,06:38:00,Timeout commercial,29 - 30,5254229,561233,560900,2024-04-01,2024-04-02
+3,06:38:00,Timeout short Minnesota,29 - 30,5254229,561233,560900,2024-04-01,2024-04-02
+3,06:47:00,"3pt jump shot (outside right) made by Malene Pedersen(Wyoming), assist Tess Barnes(Wyoming)",29 - 30,5254229,561233,560900,2024-04-01,2024-04-02
+3,07:13:00,"Free throw 2 of 2 missed by Sophie Hart(Minnesota), rebound defensive Allyson Fertig(Wyoming), rebound defensive Allyson Fertig(Wyoming)",29 - 27,5254229,561233,560900,2024-04-01,2024-04-02
+3,07:13:00,"Free throw 1 of 2 missed by Sophie Hart(Minnesota), rebound offensive dead ball Minnesota",29 - 27,5254229,561233,560900,2024-04-01,2024-04-02
+3,07:13:00,Substitution Minnesota: in Maggie Czinano,29 - 27,5254229,561233,560900,2024-04-01,2024-04-02
+3,07:13:00,Substitution Minnesota: out Janay Sanders,29 - 27,5254229,561233,560900,2024-04-01,2024-04-02
+3,07:13:00,Foul personal (shooting;2 free throws) (under the basket) Allyson Fertig(Wyoming),29 - 27,5254229,561233,560900,2024-04-01,2024-04-02
+3,07:31:00,2pt pull up jump shot (off turnover) (inside left) made by Emily Mellema(Wyoming),29 - 27,5254229,561233,560900,2024-04-01,2024-04-02
+3,07:54:00,"Turnover bad pass (inside right) Grace Grocholski(Minnesota), steal Tess Barnes(Wyoming)",29 - 25,5254229,561233,560900,2024-04-01,2024-04-02
+3,08:06:00,"2pt driving layup (2nd chance;off turnover) (under the basket) missed by Tess Barnes(Wyoming), rebound defensive Grace Grocholski(Minnesota)",29 - 25,5254229,561233,560900,2024-04-01,2024-04-02
+3,08:24:00,"3pt jump shot (off turnover) (outside right) missed by Malene Pedersen(Wyoming), rebound offensive Emily Mellema(Wyoming)",29 - 25,5254229,561233,560900,2024-04-01,2024-04-02
+3,08:32:00,Turnover travel (under the basket) Mallory Heyer(Minnesota),29 - 25,5254229,561233,560900,2024-04-01,2024-04-02
+3,09:03:00,"3pt jump shot (outside left) missed by Tess Barnes(Wyoming), rebound defensive (team) Minnesota",29 - 25,5254229,561233,560900,2024-04-01,2024-04-02
+3,09:15:00,"2pt jump shot (inside left) missed by Amaya Battle(Minnesota), rebound offensive Janay Sanders(Minnesota), rebound defensive Ola Ustowska(Wyoming)",29 - 25,5254229,561233,560900,2024-04-01,2024-04-02
+3,09:27:00,Free throw 2 of 2 made by Allyson Fertig(Wyoming),29 - 25,5254229,561233,560900,2024-04-01,2024-04-02
+3,09:27:00,"Free throw 1 of 2 missed by Allyson Fertig(Wyoming), rebound offensive dead ball Wyoming",29 - 24,5254229,561233,560900,2024-04-01,2024-04-02
+3,09:27:00,Foul personal (shooting;2 free throws) (under the basket) Sophie Hart(Minnesota),29 - 24,5254229,561233,560900,2024-04-01,2024-04-02
+3,09:47:00,"2pt pull up jump shot (inside left) missed by Amaya Battle(Minnesota), rebound defensive Ola Ustowska(Wyoming)",29 - 24,5254229,561233,560900,2024-04-01,2024-04-02
+3,10:00:00,Period start,29 - 24,5254229,561233,560900,2024-04-01,2024-04-02
+3,10:00:00,Substitution Minnesota: in Janay Sanders,29 - 24,5254229,561233,560900,2024-04-01,2024-04-02
+3,10:00:00,Substitution Minnesota: out Maggie Czinano,29 - 24,5254229,561233,560900,2024-04-01,2024-04-02
+3,10:00:00,Substitution Wyoming: in Allyson Fertig,29 - 24,5254229,561233,560900,2024-04-01,2024-04-02
+3,10:00:00,Substitution Wyoming: in Malene Pedersen,29 - 24,5254229,561233,560900,2024-04-01,2024-04-02
+3,10:00:00,Substitution Wyoming: in Emily Mellema,29 - 24,5254229,561233,560900,2024-04-01,2024-04-02
+3,10:00:00,Substitution Wyoming: out McKinley Dickerson,29 - 24,5254229,561233,560900,2024-04-01,2024-04-02
+3,10:00:00,Substitution Wyoming: out Marta Savic,29 - 24,5254229,561233,560900,2024-04-01,2024-04-02
+3,10:00:00,Substitution Wyoming: out Kati Ollilainen,29 - 24,5254229,561233,560900,2024-04-01,2024-04-02
+2,00:00:00,Period end (confirmed),29 - 24,5254229,561233,560900,2024-04-01,2024-04-02
+2,00:05:00,Free throw 2 of 2 made by McKinley Dickerson(Wyoming),29 - 24,5254229,561233,560900,2024-04-01,2024-04-02
+2,00:06:00,Free throw 1 of 2 made by McKinley Dickerson(Wyoming),29 - 23,5254229,561233,560900,2024-04-01,2024-04-02
+2,00:06:00,Foul personal (shooting;2 free throws) (in the paint) Sophie Hart(Minnesota),29 - 22,5254229,561233,560900,2024-04-01,2024-04-02
+2,00:29:00,2pt jump shot (inside left) made by Amaya Battle(Minnesota),29 - 22,5254229,561233,560900,2024-04-01,2024-04-02
+2,00:30:00,Substitution Minnesota: in Sophie Hart,27 - 22,5254229,561233,560900,2024-04-01,2024-04-02
+2,00:30:00,Substitution Minnesota: in Mallory Heyer,27 - 22,5254229,561233,560900,2024-04-01,2024-04-02
+2,00:30:00,Substitution Minnesota: out Niamya Holloway,27 - 22,5254229,561233,560900,2024-04-01,2024-04-02
+2,00:30:00,Substitution Minnesota: out Janay Sanders,27 - 22,5254229,561233,560900,2024-04-01,2024-04-02
+2,00:30:00,"Foul personal (inside center) Kati Ollilainen(Wyoming), foul on Amaya Battle(Minnesota)",27 - 22,5254229,561233,560900,2024-04-01,2024-04-02
+2,00:50:00,2pt driving layup (under the basket) made by Tess Barnes(Wyoming),27 - 22,5254229,561233,560900,2024-04-01,2024-04-02
+2,01:09:00,2pt pull up jump shot (in the paint) made by Amaya Battle(Minnesota),27 - 20,5254229,561233,560900,2024-04-01,2024-04-02
+2,01:21:00,"2pt jump shot (inside right) missed by Ola Ustowska(Wyoming), rebound defensive Amaya Battle(Minnesota)",25 - 20,5254229,561233,560900,2024-04-01,2024-04-02
+2,01:31:00,"2pt layup (blocked) (under the basket) missed by Janay Sanders(Minnesota), block Marta Savic(Wyoming), rebound defensive Tess Barnes(Wyoming)",25 - 20,5254229,561233,560900,2024-04-01,2024-04-02
+2,01:58:00,"3pt jump shot (off turnover) (outside right) missed by McKinley Dickerson(Wyoming), rebound defensive Grace Grocholski(Minnesota)",25 - 20,5254229,561233,560900,2024-04-01,2024-04-02
+2,02:14:00,Substitution Minnesota: in Niamya Holloway,25 - 20,5254229,561233,560900,2024-04-01,2024-04-02
+2,02:14:00,Substitution Minnesota: in Janay Sanders,25 - 20,5254229,561233,560900,2024-04-01,2024-04-02
+2,02:14:00,Substitution Minnesota: out Sophie Hart,25 - 20,5254229,561233,560900,2024-04-01,2024-04-02
+2,02:14:00,Substitution Minnesota: out Mallory Heyer,25 - 20,5254229,561233,560900,2024-04-01,2024-04-02
+2,02:14:00,Substitution Wyoming: in McKinley Dickerson,25 - 20,5254229,561233,560900,2024-04-01,2024-04-02
+2,02:14:00,Substitution Wyoming: in Ola Ustowska,25 - 20,5254229,561233,560900,2024-04-01,2024-04-02
+2,02:14:00,Substitution Wyoming: in Marta Savic,25 - 20,5254229,561233,560900,2024-04-01,2024-04-02
+2,02:14:00,Substitution Wyoming: in Kati Ollilainen,25 - 20,5254229,561233,560900,2024-04-01,2024-04-02
+2,02:14:00,Substitution Wyoming: in Tess Barnes,25 - 20,5254229,561233,560900,2024-04-01,2024-04-02
+2,02:14:00,Substitution Wyoming: out Allyson Fertig,25 - 20,5254229,561233,560900,2024-04-01,2024-04-02
+2,02:14:00,Substitution Wyoming: out Maren McKenna,25 - 20,5254229,561233,560900,2024-04-01,2024-04-02
+2,02:14:00,Substitution Wyoming: out Malene Pedersen,25 - 20,5254229,561233,560900,2024-04-01,2024-04-02
+2,02:14:00,Substitution Wyoming: out Madi Symons,25 - 20,5254229,561233,560900,2024-04-01,2024-04-02
+2,02:14:00,Substitution Wyoming: out Emily Mellema,25 - 20,5254229,561233,560900,2024-04-01,2024-04-02
+2,02:14:00,"Foul personal (back court) Mallory Heyer(Minnesota), foul on Maren McKenna(Wyoming)",25 - 20,5254229,561233,560900,2024-04-01,2024-04-02
+2,02:18:00,"Turnover lost ball (inside left) Mallory Heyer(Minnesota), steal Maren McKenna(Wyoming)",25 - 20,5254229,561233,560900,2024-04-01,2024-04-02
+2,02:44:00,"2pt pull up jump shot (in the paint) missed by Emily Mellema(Wyoming), rebound defensive Mallory Heyer(Minnesota)",25 - 20,5254229,561233,560900,2024-04-01,2024-04-02
+2,02:56:00,"2pt floating jump shot (in the paint) missed by Amaya Battle(Minnesota), rebound defensive Emily Mellema(Wyoming)",25 - 20,5254229,561233,560900,2024-04-01,2024-04-02
+2,03:15:00,2pt driving layup (under the basket) made by Malene Pedersen(Wyoming),25 - 20,5254229,561233,560900,2024-04-01,2024-04-02
+2,03:43:00,"2pt hook shot (under the basket) missed by Sophie Hart(Minnesota), rebound defensive Allyson Fertig(Wyoming)",25 - 18,5254229,561233,560900,2024-04-01,2024-04-02
+2,04:09:00,"2pt layup (under the basket) made by Allyson Fertig(Wyoming), assist Emily Mellema(Wyoming)",25 - 18,5254229,561233,560900,2024-04-01,2024-04-02
+2,04:26:00,"2pt pull up jump shot (inside right) missed by Amaya Battle(Minnesota), rebound defensive Emily Mellema(Wyoming)",25 - 16,5254229,561233,560900,2024-04-01,2024-04-02
+2,04:37:00,"2pt layup (in the paint) missed by Allyson Fertig(Wyoming), rebound defensive Mallory Heyer(Minnesota)",25 - 16,5254229,561233,560900,2024-04-01,2024-04-02
+2,04:55:00,2pt driving layup (in the paint) made by Amaya Battle(Minnesota),25 - 16,5254229,561233,560900,2024-04-01,2024-04-02
+2,05:08:00,"2pt jump shot (inside right) missed by Malene Pedersen(Wyoming), rebound defensive Grace Grocholski(Minnesota)",23 - 16,5254229,561233,560900,2024-04-01,2024-04-02
+2,05:41:00,2pt hook shot (in the paint) made by Sophie Hart(Minnesota),23 - 16,5254229,561233,560900,2024-04-01,2024-04-02
+2,06:02:00,Substitution Minnesota: in Sophie Hart,21 - 16,5254229,561233,560900,2024-04-01,2024-04-02
+2,06:02:00,Substitution Minnesota: in Maggie Czinano,21 - 16,5254229,561233,560900,2024-04-01,2024-04-02
+2,06:02:00,Substitution Minnesota: out Niamya Holloway,21 - 16,5254229,561233,560900,2024-04-01,2024-04-02
+2,06:02:00,Substitution Minnesota: out Janay Sanders,21 - 16,5254229,561233,560900,2024-04-01,2024-04-02
+2,06:02:00,Substitution Wyoming: in Madi Symons,21 - 16,5254229,561233,560900,2024-04-01,2024-04-02
+2,06:02:00,Substitution Wyoming: out Tess Barnes,21 - 16,5254229,561233,560900,2024-04-01,2024-04-02
+2,06:02:00,Timeout commercial,21 - 16,5254229,561233,560900,2024-04-01,2024-04-02
+2,06:05:00,"3pt jump shot (outside right) made by Maren McKenna(Wyoming), assist Emily Mellema(Wyoming)",21 - 16,5254229,561233,560900,2024-04-01,2024-04-02
+2,06:18:00,2pt turnaround jump shot (in the paint) made by Amaya Battle(Minnesota),21 - 13,5254229,561233,560900,2024-04-01,2024-04-02
+2,06:34:00,"2pt layup (in the paint) made by Allyson Fertig(Wyoming), assist Malene Pedersen(Wyoming)",19 - 13,5254229,561233,560900,2024-04-01,2024-04-02
+2,06:47:00,2pt layup (in the paint) made by Amaya Battle(Minnesota),19 - 11,5254229,561233,560900,2024-04-01,2024-04-02
+2,07:10:00,"2pt layup (under the basket) made by Allyson Fertig(Wyoming), assist Malene Pedersen(Wyoming)",17 - 11,5254229,561233,560900,2024-04-01,2024-04-02
+2,07:26:00,"2pt driving layup (off turnover) (in the paint) missed by Mallory Heyer(Minnesota), rebound defensive Emily Mellema(Wyoming)",17 - 9,5254229,561233,560900,2024-04-01,2024-04-02
+2,07:49:00,"Turnover bad pass (outside center) Maren McKenna(Wyoming), steal Niamya Holloway(Minnesota)",17 - 9,5254229,561233,560900,2024-04-01,2024-04-02
+2,08:15:00,"3pt jump shot (outside right) missed by Mallory Heyer(Minnesota), rebound defensive Maren McKenna(Wyoming)",17 - 9,5254229,561233,560900,2024-04-01,2024-04-02
+2,08:40:00,2pt layup (under the basket) made by Allyson Fertig(Wyoming),17 - 9,5254229,561233,560900,2024-04-01,2024-04-02
+2,08:59:00,"2pt pull up jump shot (inside right) missed by Amaya Battle(Minnesota), rebound defensive Maren McKenna(Wyoming)",17 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+2,09:17:00,"3pt jump shot (outside right) missed by Tess Barnes(Wyoming), rebound defensive Janay Sanders(Minnesota)",17 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+2,09:35:00,"2pt hook shot (under the basket) missed by Niamya Holloway(Minnesota), rebound defensive Maren McKenna(Wyoming)",17 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+2,09:48:00,"2pt pull up jump shot (inside right) missed by Maren McKenna(Wyoming), rebound defensive Mallory Heyer(Minnesota)",17 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+2,10:00:00,Period start,17 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+2,10:00:00,Substitution Minnesota: in Janay Sanders,17 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+2,10:00:00,Substitution Minnesota: out Maggie Czinano,17 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+2,10:00:00,Substitution Wyoming: in Maren McKenna,17 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+2,10:00:00,Substitution Wyoming: in Malene Pedersen,17 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+2,10:00:00,Substitution Wyoming: in Emily Mellema,17 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+2,10:00:00,Substitution Wyoming: out McKinley Dickerson,17 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+2,10:00:00,Substitution Wyoming: out Ola Ustowska,17 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+2,10:00:00,Substitution Wyoming: out Kati Ollilainen,17 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,00:00:00,Period end (confirmed),17 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,00:10:00,2pt pull up jump shot (inside right) made by Amaya Battle(Minnesota),17 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,00:18:00,"3pt jump shot (outside right) missed by Ola Ustowska(Wyoming), rebound defensive Niamya Holloway(Minnesota)",15 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,00:22:00,Turnover (outside right) Wyoming,15 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,00:41:00,"Foul personal (in the paint) Grace Grocholski(Minnesota), foul on Ola Ustowska(Wyoming)",15 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,00:47:00,Substitution Minnesota: in Niamya Holloway,15 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,00:47:00,Substitution Minnesota: out Sophie Hart,15 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,00:47:00,Free throw 1 of 1 made by Sophie Hart(Minnesota),15 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,00:47:00,Substitution Minnesota: in Maggie Czinano,14 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,00:47:00,Substitution Minnesota: out Janay Sanders,14 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,00:47:00,Foul personal (shooting;1 free throw) (under the basket) Allyson Fertig(Wyoming),14 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,00:47:00,"2pt layup (under the basket) made by Sophie Hart(Minnesota), assist Amaya Battle(Minnesota)",14 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,01:00:00,Substitution Minnesota: in Sophie Hart,17 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,01:00:00,Substitution Minnesota: out Niamya Holloway,17 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,00:59:00,"3pt jump shot (outside center) missed by McKinley Dickerson(Wyoming), rebound defensive Sophie Hart(Minnesota)",12 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,01:11:00,"3pt jump shot (off turnover) (outside right) made by Mallory Heyer(Minnesota), assist Janay Sanders(Minnesota)",12 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,01:29:00,Substitution Wyoming: in Ola Ustowska,9 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,01:29:00,Substitution Wyoming: out Malene Pedersen,9 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,01:29:00,Turnover other (inside center) Malene Pedersen(Wyoming),9 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,01:44:00,"2pt layup (off turnover;blocked) (in the paint) missed by Grace Grocholski(Minnesota), block Allyson Fertig(Wyoming), rebound defensive Allyson Fertig(Wyoming), rebound defensive Allyson Fertig(Wyoming)",9 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,02:02:00,Substitution Minnesota: in Grace Grocholski,9 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,02:02:00,Substitution Minnesota: out Maggie Czinano,9 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,02:02:00,Substitution Wyoming: in Kati Ollilainen,9 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,02:02:00,Substitution Wyoming: in Tess Barnes,9 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,02:02:00,Substitution Wyoming: out Madi Symons,9 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,02:02:00,Substitution Wyoming: out Emily Mellema,9 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,02:02:00,"Turnover lost ball (inside left) McKinley Dickerson(Wyoming), steal Amaya Battle(Minnesota)",9 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,02:14:00,2pt hook shot (in the paint) made by Niamya Holloway(Minnesota),9 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,02:34:00,Free throw 1 of 1 made by McKinley Dickerson(Wyoming),7 - 7,5254229,561233,560900,2024-04-01,2024-04-02
+1,02:34:00,Substitution Minnesota: in Mallory Heyer,7 - 6,5254229,561233,560900,2024-04-01,2024-04-02
+1,02:34:00,Substitution Minnesota: out Grace Grocholski,7 - 6,5254229,561233,560900,2024-04-01,2024-04-02
+1,02:34:00,Foul personal (shooting;1 free throw) (under the basket) Janay Sanders(Minnesota),7 - 6,5254229,561233,560900,2024-04-01,2024-04-02
+1,02:34:00,2pt driving layup (under the basket) made by McKinley Dickerson(Wyoming),7 - 6,5254229,561233,560900,2024-04-01,2024-04-02
+1,02:48:00,"2pt driving layup (under the basket) missed by Amaya Battle(Minnesota), rebound defensive Emily Mellema(Wyoming)",7 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,03:12:00,"2pt hook shot (under the basket) missed by Allyson Fertig(Wyoming), rebound defensive Amaya Battle(Minnesota)",7 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,03:32:00,"2pt pull up jump shot (inside left) missed by Amaya Battle(Minnesota), rebound defensive Malene Pedersen(Wyoming)",7 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,03:48:00,"2pt layup (in the paint) missed by Malene Pedersen(Wyoming), rebound defensive (team) Minnesota",7 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,04:02:00,Substitution Minnesota: in Amaya Battle,7 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,04:02:00,Substitution Minnesota: out Mallory Heyer,7 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,04:02:00,Substitution Wyoming: in Allyson Fertig,7 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,04:02:00,Substitution Wyoming: in Madi Symons,7 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,04:02:00,Substitution Wyoming: out Marta Savic,7 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,04:02:00,Substitution Wyoming: out Tess Barnes,7 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,04:02:00,Timeout commercial,7 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,04:17:00,"2pt driving layup (in the paint) missed by Janay Sanders(Minnesota), rebound defensive Marta Savic(Wyoming), rebound defensive Marta Savic(Wyoming)",7 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,04:25:00,"2pt hook shot (in the paint) missed by Marta Savic(Wyoming), rebound defensive Grace Grocholski(Minnesota)",7 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,04:46:00,2pt pull up jump shot (2nd chance;off turnover) (inside left) made by Janay Sanders(Minnesota),7 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,04:54:00,"2pt jump shot (off turnover) (in the paint) missed by Grace Grocholski(Minnesota), rebound offensive Niamya Holloway(Minnesota)",5 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,05:06:00,"Foul personal (in the paint) Marta Savic(Wyoming), foul on Niamya Holloway(Minnesota)",5 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,05:27:00,Turnover bad pass (inside right) Emily Mellema(Wyoming),5 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,05:44:00,Substitution Minnesota: in Janay Sanders,5 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,05:44:00,Substitution Minnesota: out Amaya Battle,5 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,05:44:00,Free throw 2 of 2 made by Amaya Battle(Minnesota),5 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,05:44:00,"Free throw 1 of 2 missed by Amaya Battle(Minnesota), rebound offensive dead ball Minnesota",4 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,05:44:00,Foul personal (shooting;2 free throws) (under the basket) Emily Mellema(Wyoming),4 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,05:54:00,"3pt jump shot (off turnover) (outside left) missed by Malene Pedersen(Wyoming), rebound defensive Mallory Heyer(Minnesota)",4 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,06:10:00,Substitution Minnesota: in Niamya Holloway,4 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,06:10:00,Substitution Minnesota: in Maggie Czinano,4 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,06:10:00,Substitution Minnesota: out Sophie Hart,4 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,06:10:00,Substitution Minnesota: out Janay Sanders,4 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,06:10:00,Substitution Wyoming: in McKinley Dickerson,4 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,06:10:00,Substitution Wyoming: in Marta Savic,4 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,06:10:00,Substitution Wyoming: out Allyson Fertig,4 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,06:10:00,Substitution Wyoming: out Ola Ustowska,4 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,06:10:00,Turnover 3sec (in the paint) Janay Sanders(Minnesota),4 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,06:22:00,"2pt jump shot (blocked) (under the basket) missed by Allyson Fertig(Wyoming), block Sophie Hart(Minnesota), rebound defensive Grace Grocholski(Minnesota)",4 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,06:45:00,2pt hook shot (2nd chance) (under the basket) made by Sophie Hart(Minnesota),4 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,06:50:00,"2pt pull up jump shot (inside right) missed by Amaya Battle(Minnesota), rebound offensive Sophie Hart(Minnesota)",2 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,07:07:00,"2pt layup (under the basket) made by Malene Pedersen(Wyoming), assist Allyson Fertig(Wyoming)",2 - 4,5254229,561233,560900,2024-04-01,2024-04-02
+1,07:37:00,"2pt layup (2nd chance) (under the basket) made by Sophie Hart(Minnesota), assist Janay Sanders(Minnesota)",2 - 2,5254229,561233,560900,2024-04-01,2024-04-02
+1,07:57:00,"3pt jump shot (outside center) missed by Amaya Battle(Minnesota), rebound offensive Mallory Heyer(Minnesota)",0 - 2,5254229,561233,560900,2024-04-01,2024-04-02
+1,08:09:00,"3pt jump shot (outside right) missed by Malene Pedersen(Wyoming), rebound defensive Grace Grocholski(Minnesota)",0 - 2,5254229,561233,560900,2024-04-01,2024-04-02
+1,08:26:00,"2pt layup (blocked) (under the basket) missed by Sophie Hart(Minnesota), block Allyson Fertig(Wyoming), rebound defensive Allyson Fertig(Wyoming)",0 - 2,5254229,561233,560900,2024-04-01,2024-04-02
+1,08:42:00,"2pt pull up jump shot (off turnover) (inside center) missed by Emily Mellema(Wyoming), rebound defensive Mallory Heyer(Minnesota)",0 - 2,5254229,561233,560900,2024-04-01,2024-04-02
+1,09:04:00,Turnover shot clock (team) (outside right) Minnesota,0 - 2,5254229,561233,560900,2024-04-01,2024-04-02
+1,09:21:00,"2pt jump shot (under the basket) missed by Sophie Hart(Minnesota), rebound offensive (team) Minnesota",0 - 2,5254229,561233,560900,2024-04-01,2024-04-02
+1,09:35:00,"2pt layup (under the basket) made by Allyson Fertig(Wyoming), assist Emily Mellema(Wyoming)",0 - 2,5254229,561233,560900,2024-04-01,2024-04-02
+1,09:52:00,"3pt jump shot (outside center) missed by Grace Grocholski(Minnesota), rebound defensive Emily Mellema(Wyoming)",0 - 0,5254229,561233,560900,2024-04-01,2024-04-02
+1,10:00:00,"Jump ball start period, won Sophie Hart(Minnesota), lost Allyson Fertig(Wyoming)",0 - 0,5254229,561233,560900,2024-04-01,2024-04-02
+1,10:00:00,Period start,0 - 0,5254229,561233,560900,2024-04-01,2024-04-02
+1,10:00:00,Game start,0 - 0,5254229,561233,560900,2024-04-01,2024-04-02
+4,05:31:00,Foul personal (shooting;2 free throws) (under the basket) Ice Brady(UConn),63 - 59,5254215,561101,560694,2024-04-01,2024-04-02
+4,05:34:00,"2pt pull up jump shot (inside center) missed by JuJu Watkins(Southern California), rebound offensive Rayah Marshall(Southern California)",63 - 59,5254215,561101,560694,2024-04-01,2024-04-02
+4,05:48:00,2pt driving layup (under the basket) made by Aaliyah Edwards(UConn),63 - 59,5254215,561101,560694,2024-04-01,2024-04-02
+4,06:08:00,"3pt jump shot (outside right) missed by Kayla Padilla(Southern California), rebound defensive (team) UConn",61 - 59,5254215,561101,560694,2024-04-01,2024-04-02
+4,06:27:00,"2pt jump shot (inside left) made by Ice Brady(UConn), assist Nika Muhl(UConn)",61 - 59,5254215,561101,560694,2024-04-01,2024-04-02
+4,06:55:00,"2pt pull up jump shot (blocked) (inside right) missed by JuJu Watkins(Southern California), rebound defensive Ashlynn Shade(UConn)",59 - 59,5254215,561101,560694,2024-04-01,2024-04-02
+4,07:06:00,"2pt turnaround jump shot (in the paint) missed by Ice Brady(UConn), rebound defensive Kaitlyn Davis(Southern California), rebound defensive Kaitlyn Davis(Southern California)",59 - 59,5254215,561101,560694,2024-04-01,2024-04-02
+4,07:21:00,Timeout commercial,59 - 59,5254215,561101,560694,2024-04-01,2024-04-02
+4,07:21:00,Timeout short UConn,59 - 59,5254215,561101,560694,2024-04-01,2024-04-02
+4,07:32:00,"3pt jump shot (outside left) made by McKenzie Forbes(Southern California), assist Kaitlyn Davis(Southern California), assist Kaitlyn Davis(Southern California)",59 - 59,5254215,561101,560694,2024-04-01,2024-04-02
+4,07:41:00,"2pt layup (under the basket) missed by Aaliyah Edwards(UConn), rebound defensive Rayah Marshall(Southern California), rebound defensive Rayah Marshall(Southern California)",59 - 56,5254215,561101,560694,2024-04-01,2024-04-02
+4,08:09:00,2pt driving layup (under the basket) made by JuJu Watkins(Southern California),59 - 56,5254215,561101,560694,2024-04-01,2024-04-02
+4,08:18:00,"2pt pull up jump shot (inside left) missed by Ashlynn Shade(UConn), rebound defensive Rayah Marshall(Southern California), rebound defensive Rayah Marshall(Southern California)",59 - 54,5254215,561101,560694,2024-04-01,2024-04-02
+4,08:42:00,"3pt pull up jump shot (outside left) missed by McKenzie Forbes(Southern California), rebound defensive Ashlynn Shade(UConn), rebound defensive Ashlynn Shade(UConn)",59 - 54,5254215,561101,560694,2024-04-01,2024-04-02
+4,08:47:00,"Free throw 2 of 2 missed by Ice Brady(UConn), rebound defensive McKenzie Forbes(Southern California)",59 - 54,5254215,561101,560694,2024-04-01,2024-04-02
+4,08:47:00,Free throw 1 of 2 made by Ice Brady(UConn),59 - 54,5254215,561101,560694,2024-04-01,2024-04-02
+4,08:47:00,Foul personal (shooting;2 free throws) (in the paint) Kayla Padilla(Southern California),58 - 54,5254215,561101,560694,2024-04-01,2024-04-02
+4,09:08:00,Free throw 1 of 1 made by JuJu Watkins(Southern California),58 - 54,5254215,561101,560694,2024-04-01,2024-04-02
+4,09:08:00,Foul personal (shooting;1 free throw) (under the basket) Ice Brady(UConn),58 - 53,5254215,561101,560694,2024-04-01,2024-04-02
+4,09:08:00,"2pt layup (under the basket) made by JuJu Watkins(Southern California), assist McKenzie Forbes(Southern California)",58 - 53,5254215,561101,560694,2024-04-01,2024-04-02
+4,09:27:00,Free throw 1 of 1 (2nd chance;off turnover) made by Aaliyah Edwards(UConn),58 - 51,5254215,561101,560694,2024-04-01,2024-04-02
+4,09:27:00,Substitution Southern California: in McKenzie Forbes,57 - 51,5254215,561101,560694,2024-04-01,2024-04-02
+4,09:27:00,Substitution Southern California: out Taylor Bigby,57 - 51,5254215,561101,560694,2024-04-01,2024-04-02
+4,09:27:00,Foul personal (shooting;1 free throw) (under the basket) Rayah Marshall(Southern California),57 - 51,5254215,561101,560694,2024-04-01,2024-04-02
+4,09:27:00,"2pt driving layup (2nd chance;off turnover) (under the basket) made by Aaliyah Edwards(UConn), assist Paige Bueckers(UConn)",57 - 51,5254215,561101,560694,2024-04-01,2024-04-02
+4,09:47:00,2pt driving layup (off turnover;fast break) (under the basket) missed by Paige Bueckers(UConn),55 - 51,5254215,561101,560694,2024-04-01,2024-04-02
+4,09:50:00,"Turnover bad pass (outside center) Taylor Bigby(Southern California), steal Paige Bueckers(UConn), steal Paige Bueckers(UConn)",55 - 51,5254215,561101,560694,2024-04-01,2024-04-02
+4,10:00:00,Period start,55 - 51,5254215,561101,560694,2024-04-01,2024-04-02
+4,10:00:00,Substitution Southern California: in JuJu Watkins,55 - 51,5254215,561101,560694,2024-04-01,2024-04-02
+4,10:00:00,Substitution Southern California: out Kayla Williams,55 - 51,5254215,561101,560694,2024-04-01,2024-04-02
+3,00:00:00,Period end (confirmed),55 - 51,5254215,561101,560694,2024-04-01,2024-04-02
+3,00:38:00,"Foul personal (outside right) McKenzie Forbes(Southern California), foul on Paige Bueckers(UConn)",55 - 51,5254215,561101,560694,2024-04-01,2024-04-02
+3,00:00:00,"3pt jump shot (outside left) made by Kayla Padilla(Southern California), assist Rayah Marshall(Southern California)",55 - 51,5254215,561101,560694,2024-04-01,2024-04-02
+3,00:15:00,"3pt jump shot (outside left wing) made by Ice Brady(UConn), assist Nika Muhl(UConn)",55 - 48,5254215,561101,560694,2024-04-01,2024-04-02
+3,00:38:00,Substitution Southern California: in Kayla Padilla,52 - 48,5254215,561101,560694,2024-04-01,2024-04-02
+3,00:38:00,Substitution Southern California: in Kaitlyn Davis,52 - 48,5254215,561101,560694,2024-04-01,2024-04-02
+3,00:38:00,Substitution Southern California: out McKenzie Forbes,52 - 48,5254215,561101,560694,2024-04-01,2024-04-02
+3,00:38:00,Substitution Southern California: out JuJu Watkins,52 - 48,5254215,561101,560694,2024-04-01,2024-04-02
+3,00:38:00,"Foul personal (outside left) Ice Brady(UConn), foul on JuJu Watkins(Southern California)",52 - 48,5254215,561101,560694,2024-04-01,2024-04-02
+3,00:44:00,3pt jump shot (fast break) (outside left) made by Taylor Bigby(Southern California),59 - 59,5254215,561101,560694,2024-04-01,2024-04-02
+3,00:51:00,"2pt hook shot (blocked) (in the paint) missed by Aaliyah Edwards(UConn), block JuJu Watkins(Southern California), rebound defensive JuJu Watkins(Southern California)",55 - 51,5254215,561101,560694,2024-04-01,2024-04-02
+3,01:08:00,"3pt jump shot (off turnover) (outside left) missed by McKenzie Forbes(Southern California), rebound defensive Paige Bueckers(UConn)",52 - 45,5254215,561101,560694,2024-04-01,2024-04-02
+3,01:24:00,Turnover travel (inside right) Aaliyah Edwards(UConn),52 - 45,5254215,561101,560694,2024-04-01,2024-04-02
+3,01:29:00,Turnover lost ball (inside left) JuJu Watkins(Southern California),52 - 45,5254215,561101,560694,2024-04-01,2024-04-02
+3,01:39:00,2pt pull up jump shot (in the paint) missed by Paige Bueckers(UConn),52 - 45,5254215,561101,560694,2024-04-01,2024-04-02
+3,02:08:00,"2pt pull up jump shot (inside center) missed by JuJu Watkins(Southern California), rebound defensive Paige Bueckers(UConn)",52 - 45,5254215,561101,560694,2024-04-01,2024-04-02
+3,02:14:00,"2pt pull up jump shot (in the paint) missed by Aaliyah Edwards(UConn), rebound defensive JuJu Watkins(Southern California), rebound defensive JuJu Watkins(Southern California)",52 - 45,5254215,561101,560694,2024-04-01,2024-04-02
+3,02:30:00,Timeout commercial,52 - 45,5254215,561101,560694,2024-04-01,2024-04-02
+3,02:30:00,Timeout short UConn,52 - 45,5254215,561101,560694,2024-04-01,2024-04-02
+3,02:44:00,"3pt pull up jump shot (outside left) missed by JuJu Watkins(Southern California), rebound defensive Nika Muhl(UConn), rebound defensive Nika Muhl(UConn)",52 - 45,5254215,561101,560694,2024-04-01,2024-04-02
+3,02:50:00,"2pt pull up jump shot (inside left) missed by Ashlynn Shade(UConn), rebound defensive JuJu Watkins(Southern California)",52 - 45,5254215,561101,560694,2024-04-01,2024-04-02
+3,03:05:00,Free throw 2 of 2 (2nd chance;off turnover) made by McKenzie Forbes(Southern California),52 - 45,5254215,561101,560694,2024-04-01,2024-04-02
+3,03:05:00,Free throw 1 of 2 (2nd chance;off turnover) made by McKenzie Forbes(Southern California),52 - 44,5254215,561101,560694,2024-04-01,2024-04-02
+3,03:05:00,Foul personal (2 free throws) (outside left) Nika Muhl(UConn),52 - 43,5254215,561101,560694,2024-04-01,2024-04-02
+3,03:08:00,"2pt driving layup (off turnover;blocked) (under the basket) missed by JuJu Watkins(Southern California), block Ice Brady(UConn), rebound offensive (team) Southern California, rebound offensive (team) Southern California",52 - 43,5254215,561101,560694,2024-04-01,2024-04-02
+3,03:26:00,Turnover bad pass (outside right) Nika Muhl(UConn),52 - 43,5254215,561101,560694,2024-04-01,2024-04-02
+3,03:47:00,Free throw 1 of 1 (fast break;off turnover) made by JuJu Watkins(Southern California),52 - 43,5254215,561101,560694,2024-04-01,2024-04-02
+3,03:47:00,Substitution UConn: in Ice Brady,52 - 42,5254215,561101,560694,2024-04-01,2024-04-02
+3,03:47:00,Substitution UConn: out KK Arnold,52 - 42,5254215,561101,560694,2024-04-01,2024-04-02
+3,03:47:00,Substitution Southern California: in Rayah Marshall,52 - 42,5254215,561101,560694,2024-04-01,2024-04-02
+3,03:47:00,Substitution Southern California: out Kaitlyn Davis,52 - 42,5254215,561101,560694,2024-04-01,2024-04-02
+3,03:47:00,Foul personal (shooting;1 free throw) (in the paint) KK Arnold(UConn),52 - 42,5254215,561101,560694,2024-04-01,2024-04-02
+3,03:47:00,2pt floating jump shot (off turnover;fast break) (in the paint) made by JuJu Watkins(Southern California),52 - 42,5254215,561101,560694,2024-04-01,2024-04-02
+3,03:52:00,"Turnover bad pass (inside center) Paige Bueckers(UConn), steal JuJu Watkins(Southern California)",52 - 40,5254215,561101,560694,2024-04-01,2024-04-02
+3,04:01:00,"2pt pull up jump shot (in the paint) missed by JuJu Watkins(Southern California), rebound defensive KK Arnold(UConn)",52 - 40,5254215,561101,560694,2024-04-01,2024-04-02
+3,04:14:00,2pt driving layup (off turnover;fast break) (under the basket) made by Paige Bueckers(UConn),52 - 40,5254215,561101,560694,2024-04-01,2024-04-02
+3,04:18:00,"Turnover bad pass (outside center) McKenzie Forbes(Southern California), steal Paige Bueckers(UConn)",52 - 42,5254215,561101,560694,2024-04-01,2024-04-02
+3,04:25:00,Timeout commercial,50 - 40,5254215,561101,560694,2024-04-01,2024-04-02
+3,04:25:00,"Foul personal (back court) Paige Bueckers(UConn), foul on JuJu Watkins(Southern California)",50 - 40,5254215,561101,560694,2024-04-01,2024-04-02
+3,04:31:00,3pt pull up jump shot (outside left) made by Ashlynn Shade(UConn),50 - 40,5254215,561101,560694,2024-04-01,2024-04-02
+3,04:46:00,"2pt floating jump shot (in the paint) missed by JuJu Watkins(Southern California), rebound defensive Paige Bueckers(UConn)",47 - 40,5254215,561101,560694,2024-04-01,2024-04-02
+3,05:03:00,Free throw 2 of 2 made by Aaliyah Edwards(UConn),47 - 40,5254215,561101,560694,2024-04-01,2024-04-02
+3,05:03:00,Free throw 1 of 2 made by Aaliyah Edwards(UConn),46 - 40,5254215,561101,560694,2024-04-01,2024-04-02
+3,05:03:00,Substitution Southern California: in Kayla Williams,45 - 40,5254215,561101,560694,2024-04-01,2024-04-02
+3,05:03:00,Substitution Southern California: out Kayla Padilla,45 - 40,5254215,561101,560694,2024-04-01,2024-04-02
+3,05:03:00,Foul personal (shooting;2 free throws) (in the paint) Taylor Bigby(Southern California),45 - 40,5254215,561101,560694,2024-04-01,2024-04-02
+3,05:18:00,"3pt jump shot (outside left) made by McKenzie Forbes(Southern California), assist JuJu Watkins(Southern California)",45 - 40,5254215,561101,560694,2024-04-01,2024-04-02
+3,05:31:00,2pt driving layup (under the basket) made by Paige Bueckers(UConn),45 - 37,5254215,561101,560694,2024-04-01,2024-04-02
+3,05:48:00,"2pt floating jump shot (inside right) missed by McKenzie Forbes(Southern California), rebound defensive Ashlynn Shade(UConn)",43 - 37,5254215,561101,560694,2024-04-01,2024-04-02
+3,06:01:00,3pt jump shot (outside left) missed by KK Arnold(UConn),43 - 37,5254215,561101,560694,2024-04-01,2024-04-02
+3,06:15:00,"2pt pull up jump shot (inside center) missed by Kayla Padilla(Southern California), rebound defensive Paige Bueckers(UConn), rebound defensive Paige Bueckers(UConn)",43 - 37,5254215,561101,560694,2024-04-01,2024-04-02
+3,06:32:00,Free throw 2 of 2 made by Aaliyah Edwards(UConn),43 - 37,5254215,561101,560694,2024-04-01,2024-04-02
+3,06:32:00,Free throw 1 of 2 made by Aaliyah Edwards(UConn),42 - 37,5254215,561101,560694,2024-04-01,2024-04-02
+3,06:32:00,Substitution Southern California: in Taylor Bigby,41 - 37,5254215,561101,560694,2024-04-01,2024-04-02
+3,06:32:00,Substitution Southern California: out Rayah Marshall,41 - 37,5254215,561101,560694,2024-04-01,2024-04-02
+3,06:32:00,Foul personal (shooting;2 free throws) (under the basket) Rayah Marshall(Southern California),41 - 37,5254215,561101,560694,2024-04-01,2024-04-02
+3,06:44:00,Free throw 2 of 2 made by Kaitlyn Davis(Southern California),41 - 37,5254215,561101,560694,2024-04-01,2024-04-02
+3,06:44:00,"Free throw 1 of 2 missed by Kaitlyn Davis(Southern California), rebound offensive dead ball Southern California",41 - 36,5254215,561101,560694,2024-04-01,2024-04-02
+3,06:44:00,Foul personal (shooting;2 free throws) (under the basket) Paige Bueckers(UConn),41 - 36,5254215,561101,560694,2024-04-01,2024-04-02
+3,06:58:00,"2pt pull up jump shot (in the paint) missed by Paige Bueckers(UConn), rebound defensive Rayah Marshall(Southern California), rebound defensive Rayah Marshall(Southern California)",41 - 36,5254215,561101,560694,2024-04-01,2024-04-02
+3,07:15:00,3pt jump shot (outside left) made by McKenzie Forbes(Southern California),41 - 36,5254215,561101,560694,2024-04-01,2024-04-02
+3,07:26:00,2pt driving layup (under the basket) made by Aaliyah Edwards(UConn),41 - 33,5254215,561101,560694,2024-04-01,2024-04-02
+3,07:46:00,"3pt jump shot (outside center) missed by McKenzie Forbes(Southern California), rebound offensive JuJu Watkins(Southern California), rebound defensive Ashlynn Shade(UConn)",39 - 33,5254215,561101,560694,2024-04-01,2024-04-02
+3,07:59:00,"3pt jump shot (outside left) made by Nika Muhl(UConn), assist Paige Bueckers(UConn), assist Paige Bueckers(UConn)",39 - 33,5254215,561101,560694,2024-04-01,2024-04-02
+3,08:08:00,"3pt jump shot (2nd chance) (outside left) missed by Kayla Padilla(Southern California), rebound defensive Paige Bueckers(UConn), rebound defensive Paige Bueckers(UConn)",36 - 33,5254215,561101,560694,2024-04-01,2024-04-02
+3,08:19:00,"2pt floating jump shot (in the paint) missed by JuJu Watkins(Southern California), rebound offensive JuJu Watkins(Southern California), rebound offensive JuJu Watkins(Southern California)",36 - 33,5254215,561101,560694,2024-04-01,2024-04-02
+3,08:32:00,"Foul personal (outside center) Nika Muhl(UConn), foul on JuJu Watkins(Southern California)",36 - 33,5254215,561101,560694,2024-04-01,2024-04-02
+3,08:55:00,"2pt pull up jump shot (inside center) made by Ashlynn Shade(UConn), assist Nika Muhl(UConn)",36 - 33,5254215,561101,560694,2024-04-01,2024-04-02
+3,09:14:00,"2pt jump shot (in the paint) missed by Kaitlyn Davis(Southern California), rebound defensive Paige Bueckers(UConn), rebound defensive Paige Bueckers(UConn)",34 - 33,5254215,561101,560694,2024-04-01,2024-04-02
+3,09:41:00,"Free throw 2 of 2 missed by Aaliyah Edwards(UConn), rebound defensive Rayah Marshall(Southern California)",34 - 33,5254215,561101,560694,2024-04-01,2024-04-02
+3,09:41:00,Free throw 1 of 2 made by Aaliyah Edwards(UConn),34 - 33,5254215,561101,560694,2024-04-01,2024-04-02
+3,09:41:00,Foul personal (shooting;2 free throws) (under the basket) JuJu Watkins(Southern California),33 - 33,5254215,561101,560694,2024-04-01,2024-04-02
+3,09:42:00,2pt (under the basket) missed by UConn,33 - 33,5254215,561101,560694,2024-04-01,2024-04-02
+3,10:00:00,Period start,33 - 33,5254215,561101,560694,2024-04-01,2024-04-02
+3,10:00:00,Substitution UConn: in Ashlynn Shade,33 - 33,5254215,561101,560694,2024-04-01,2024-04-02
+3,10:00:00,Substitution UConn: in KK Arnold,33 - 33,5254215,561101,560694,2024-04-01,2024-04-02
+3,10:00:00,Substitution UConn: out Ice Brady,33 - 33,5254215,561101,560694,2024-04-01,2024-04-02
+3,10:00:00,Substitution UConn: out Qadence Samuels,33 - 33,5254215,561101,560694,2024-04-01,2024-04-02
+3,10:00:00,Substitution Southern California: in McKenzie Forbes,33 - 33,5254215,561101,560694,2024-04-01,2024-04-02
+3,10:00:00,Substitution Southern California: out Taylor Bigby,33 - 33,5254215,561101,560694,2024-04-01,2024-04-02
+2,00:00:00,Period end (confirmed),33 - 33,5254215,561101,560694,2024-04-01,2024-04-02
+2,00:01:00,"Foul offensive (back court) Aaliyah Edwards(UConn), turnover offensive Aaliyah Edwards(UConn), foul on Kaitlyn Davis(Southern California)",33 - 33,5254215,561101,560694,2024-04-01,2024-04-02
+2,00:16:00,Substitution Southern California: in Taylor Bigby,33 - 33,5254215,561101,560694,2024-04-01,2024-04-02
+2,00:16:00,Substitution Southern California: out McKenzie Forbes,33 - 33,5254215,561101,560694,2024-04-01,2024-04-02
+2,00:16:00,"Foul personal (in the paint) McKenzie Forbes(Southern California), foul on Paige Bueckers(UConn)",33 - 33,5254215,561101,560694,2024-04-01,2024-04-02
+2,00:36:00,Free throw 2 of 2 (fast break) made by JuJu Watkins(Southern California),33 - 33,5254215,561101,560694,2024-04-01,2024-04-02
+2,00:36:00,Free throw 1 of 2 (fast break) made by JuJu Watkins(Southern California),33 - 32,5254215,561101,560694,2024-04-01,2024-04-02
+2,00:36:00,Foul personal (shooting;2 free throws) (under the basket) Qadence Samuels(UConn),33 - 31,5254215,561101,560694,2024-04-01,2024-04-02
+2,00:43:00,2pt driving layup (in the paint) missed by Paige Bueckers(UConn),33 - 32,5254215,561101,560694,2024-04-01,2024-04-02
+2,00:57:00,Free throw 2 of 2 (off turnover) made by Rayah Marshall(Southern California),33 - 31,5254215,561101,560694,2024-04-01,2024-04-02
+2,00:57:00,Free throw 1 of 2 (off turnover) made by Rayah Marshall(Southern California),33 - 30,5254215,561101,560694,2024-04-01,2024-04-02
+2,00:57:00,Foul personal (shooting;2 free throws) (in the paint) Ice Brady(UConn),33 - 29,5254215,561101,560694,2024-04-01,2024-04-02
+2,01:07:00,"Turnover bad pass (outside center) Ice Brady(UConn), steal Rayah Marshall(Southern California)",33 - 29,5254215,561101,560694,2024-04-01,2024-04-02
+2,01:18:00,"2pt layup (under the basket) made by Rayah Marshall(Southern California), assist McKenzie Forbes(Southern California)",33 - 29,5254215,561101,560694,2024-04-01,2024-04-02
+2,01:33:00,"2pt jump shot (inside center) made by Ice Brady(UConn), assist Paige Bueckers(UConn)",33 - 27,5254215,561101,560694,2024-04-01,2024-04-02
+2,01:54:00,"3pt jump shot (outside center) missed by McKenzie Forbes(Southern California), rebound defensive (team) UConn",31 - 27,5254215,561101,560694,2024-04-01,2024-04-02
+2,02:07:00,"2pt driving layup (blocked) (under the basket) missed by Aaliyah Edwards(UConn), block Rayah Marshall(Southern California), rebound defensive Kaitlyn Davis(Southern California), rebound defensive Kaitlyn Davis(Southern California)",31 - 27,5254215,561101,560694,2024-04-01,2024-04-02
+2,02:32:00,2pt step back jump shot (inside left) made by McKenzie Forbes(Southern California),31 - 27,5254215,561101,560694,2024-04-01,2024-04-02
+2,02:43:00,"3pt jump shot (2nd chance) (outside right) missed by Qadence Samuels(UConn), rebound defensive Kaitlyn Davis(Southern California), rebound defensive Kaitlyn Davis(Southern California)",31 - 25,5254215,561101,560694,2024-04-01,2024-04-02
+2,02:52:00,"2pt pull up jump shot (inside right) missed by Paige Bueckers(UConn), rebound offensive (team) UConn",31 - 25,5254215,561101,560694,2024-04-01,2024-04-02
+2,03:17:00,"2pt pull up jump shot (inside center) missed by JuJu Watkins(Southern California), rebound defensive Ice Brady(UConn), rebound defensive Ice Brady(UConn)",31 - 25,5254215,561101,560694,2024-04-01,2024-04-02
+2,03:28:00,"3pt pull up jump shot (outside right) made by Paige Bueckers(UConn), assist Qadence Samuels(UConn)",31 - 25,5254215,561101,560694,2024-04-01,2024-04-02
+2,03:52:00,"3pt jump shot (2nd chance) (outside center) missed by Kayla Padilla(Southern California), rebound defensive Aaliyah Edwards(UConn)",28 - 25,5254215,561101,560694,2024-04-01,2024-04-02
+2,04:06:00,Jump ball held ball Southern California,28 - 25,5254215,561101,560694,2024-04-01,2024-04-02
+2,04:10:00,"2pt layup (2nd chance) (under the basket) missed by JuJu Watkins(Southern California), rebound offensive Kaitlyn Davis(Southern California)",28 - 25,5254215,561101,560694,2024-04-01,2024-04-02
+2,04:15:00,"3pt jump shot (outside left) missed by McKenzie Forbes(Southern California), rebound offensive JuJu Watkins(Southern California), rebound offensive JuJu Watkins(Southern California)",28 - 25,5254215,561101,560694,2024-04-01,2024-04-02
+2,04:24:00,2pt pull up jump shot (inside center) made by Paige Bueckers(UConn),28 - 25,5254215,561101,560694,2024-04-01,2024-04-02
+2,04:40:00,3pt pull up jump shot (outside right) made by JuJu Watkins(Southern California),26 - 25,5254215,561101,560694,2024-04-01,2024-04-02
+2,04:56:00,Substitution UConn: in Ice Brady,26 - 22,5254215,561101,560694,2024-04-01,2024-04-02
+2,04:56:00,Substitution UConn: out KK Arnold,26 - 22,5254215,561101,560694,2024-04-01,2024-04-02
+2,04:56:00,Substitution Southern California: in Rayah Marshall,26 - 22,5254215,561101,560694,2024-04-01,2024-04-02
+2,04:56:00,Substitution Southern California: out Taylor Bigby,26 - 22,5254215,561101,560694,2024-04-01,2024-04-02
+2,04:56:00,Timeout commercial,26 - 22,5254215,561101,560694,2024-04-01,2024-04-02
+2,04:56:00,"Foul personal (inside center) KK Arnold(UConn), foul on McKenzie Forbes(Southern California), foul on Kaitlyn Davis(Southern California)",26 - 22,5254215,561101,560694,2024-04-01,2024-04-02
+2,05:10:00,"2pt driving layup (blocked) (under the basket) missed by KK Arnold(UConn), block McKenzie Forbes(Southern California), rebound defensive Kaitlyn Davis(Southern California), rebound defensive Kaitlyn Davis(Southern California)",26 - 22,5254215,561101,560694,2024-04-01,2024-04-02
+2,05:24:00,2pt driving layup (under the basket) missed by Kaitlyn Davis(Southern California),26 - 22,5254215,561101,560694,2024-04-01,2024-04-02
+2,05:35:00,Substitution Southern California: in McKenzie Forbes,26 - 22,5254215,561101,560694,2024-04-01,2024-04-02
+2,05:35:00,Substitution Southern California: out Clarice Akunwafo,26 - 22,5254215,561101,560694,2024-04-01,2024-04-02
+2,05:35:00,Free throw 2 of 2 made by Aaliyah Edwards(UConn),26 - 22,5254215,561101,560694,2024-04-01,2024-04-02
+2,05:35:00,"Free throw 1 of 2 missed by Aaliyah Edwards(UConn), rebound offensive dead ball UConn",25 - 22,5254215,561101,560694,2024-04-01,2024-04-02
+2,05:35:00,Foul personal (shooting;2 free throws) (under the basket) Clarice Akunwafo(Southern California),25 - 22,5254215,561101,560694,2024-04-01,2024-04-02
+2,06:01:00,"3pt jump shot (outside center) made by JuJu Watkins(Southern California), assist Kayla Padilla(Southern California)",25 - 22,5254215,561101,560694,2024-04-01,2024-04-02
+2,06:12:00,Substitution Southern California: in Taylor Bigby,25 - 19,5254215,561101,560694,2024-04-01,2024-04-02
+2,06:12:00,Substitution Southern California: out McKenzie Forbes,25 - 19,5254215,561101,560694,2024-04-01,2024-04-02
+2,06:12:00,Timeout commercial,24 - 19,5254215,561101,560694,2024-04-01,2024-04-02
+2,06:12:00,Timeout short Southern California,24 - 19,5254215,561101,560694,2024-04-01,2024-04-02
+2,06:17:00,"3pt jump shot (outside left) made by Qadence Samuels(UConn), assist Nika Muhl(UConn)",24 - 19,5254215,561101,560694,2024-04-01,2024-04-02
+2,06:34:00,"3pt pull up jump shot (outside center) missed by McKenzie Forbes(Southern California), rebound defensive Qadence Samuels(UConn)",21 - 19,5254215,561101,560694,2024-04-01,2024-04-02
+2,06:47:00,Substitution Southern California: in Clarice Akunwafo,21 - 19,5254215,561101,560694,2024-04-01,2024-04-02
+2,06:47:00,Substitution Southern California: out Rayah Marshall,21 - 19,5254215,561101,560694,2024-04-01,2024-04-02
+2,06:47:00,"Foul personal (outside center) KK Arnold(UConn), foul on JuJu Watkins(Southern California)",21 - 19,5254215,561101,560694,2024-04-01,2024-04-02
+2,07:00:00,"2pt driving layup (under the basket) made by KK Arnold(UConn), assist Paige Bueckers(UConn)",21 - 19,5254215,561101,560694,2024-04-01,2024-04-02
+2,07:09:00,2pt layup (in the paint) missed by Kaitlyn Davis(Southern California),21 - 19,5254215,561101,560694,2024-04-01,2024-04-02
+2,07:26:00,Foul personal (inside right) Nika Muhl(UConn),25 - 19,5254215,561101,560694,2024-04-01,2024-04-02
+2,07:32:00,"Foul personal (outside center) KK Arnold(UConn), foul on McKenzie Forbes(Southern California)",19 - 19,5254215,561101,560694,2024-04-01,2024-04-02
+2,07:52:00,3pt jump shot (off turnover) (outside right wing) made by Paige Bueckers(UConn),25 - 19,5254215,561101,560694,2024-04-01,2024-04-02
+2,08:12:00,Turnover lost ball (under the basket) JuJu Watkins(Southern California),17 - 19,5254215,561101,560694,2024-04-01,2024-04-02
+2,08:20:00,"2pt jump shot (inside right wing) missed by Nika Muhl(UConn), rebound defensive JuJu Watkins(Southern California)",17 - 19,5254215,561101,560694,2024-04-01,2024-04-02
+2,08:42:00,"2pt layup (under the basket) made by Kaitlyn Davis(Southern California), assist Rayah Marshall(Southern California)",17 - 19,5254215,561101,560694,2024-04-01,2024-04-02
+2,08:45:00,2pt (in the paint) missed by Rayah Marshall(Southern California),17 - 17,5254215,561101,560694,2024-04-01,2024-04-02
+2,09:07:00,"2pt pull up jump shot (fast break) (inside right) made by Nika Muhl(UConn), assist KK Arnold(UConn)",17 - 17,5254215,561101,560694,2024-04-01,2024-04-02
+2,09:12:00,"2pt layup (2nd chance) (under the basket) missed by Kaitlyn Davis(Southern California), rebound defensive KK Arnold(UConn)",15 - 17,5254215,561101,560694,2024-04-01,2024-04-02
+2,09:15:00,"2pt jump shot (2nd chance) (inside left) missed by Kayla Padilla(Southern California), rebound offensive Kaitlyn Davis(Southern California), rebound offensive Kaitlyn Davis(Southern California)",15 - 17,5254215,561101,560694,2024-04-01,2024-04-02
+2,09:18:00,2pt layup (blocked) (in the paint) missed by Rayah Marshall(Southern California),17 - 19,5254215,561101,560694,2024-04-01,2024-04-02
+2,09:37:00,"2pt pull up jump shot (2nd chance) (inside right) missed by Paige Bueckers(UConn), rebound defensive JuJu Watkins(Southern California), rebound defensive JuJu Watkins(Southern California)",15 - 17,5254215,561101,560694,2024-04-01,2024-04-02
+2,09:50:00,"3pt jump shot (outside left) missed by Qadence Samuels(UConn), rebound offensive Aaliyah Edwards(UConn), rebound offensive Aaliyah Edwards(UConn)",15 - 17,5254215,561101,560694,2024-04-01,2024-04-02
+2,10:00:00,Period start,15 - 17,5254215,561101,560694,2024-04-01,2024-04-02
+1,00:00:00,Period end (confirmed),15 - 17,5254215,561101,560694,2024-04-01,2024-04-02
+1,00:02:00,"2pt driving layup (off turnover;blocked) (in the paint) missed by McKenzie Forbes(Southern California), block Paige Bueckers(UConn)",15 - 17,5254215,561101,560694,2024-04-01,2024-04-02
+1,00:27:00,Substitution Southern California: in Kayla Padilla,15 - 17,5254215,561101,560694,2024-04-01,2024-04-02
+1,00:27:00,Substitution Southern California: out Kayla Williams,15 - 17,5254215,561101,560694,2024-04-01,2024-04-02
+1,00:27:00,"Foul offensive (inside right) Aaliyah Edwards(UConn), turnover offensive Aaliyah Edwards(UConn), foul on Kaitlyn Davis(Southern California)",15 - 17,5254215,561101,560694,2024-04-01,2024-04-02
+1,00:55:00,2pt step back jump shot (inside right) made by McKenzie Forbes(Southern California),15 - 17,5254215,561101,560694,2024-04-01,2024-04-02
+1,01:08:00,2pt layup (off turnover) (under the basket) made by Aaliyah Edwards(UConn),15 - 15,5254215,561101,560694,2024-04-01,2024-04-02
+1,01:23:00,Turnover (inside right) Southern California,13 - 15,5254215,561101,560694,2024-04-01,2024-04-02
+1,01:33:00,"2pt jump shot (inside left) missed by Rayah Marshall(Southern California), rebound offensive (team) Southern California",13 - 15,5254215,561101,560694,2024-04-01,2024-04-02
+1,01:54:00,Free throw 2 of 2 (2nd chance;off turnover) made by Paige Bueckers(UConn),13 - 15,5254215,561101,560694,2024-04-01,2024-04-02
+1,01:54:00,Free throw 1 of 2 (2nd chance;off turnover) made by Paige Bueckers(UConn),12 - 15,5254215,561101,560694,2024-04-01,2024-04-02
+1,01:54:00,Substitution Southern California: in Rayah Marshall,11 - 15,5254215,561101,560694,2024-04-01,2024-04-02
+1,01:54:00,Substitution Southern California: out Clarice Akunwafo,11 - 15,5254215,561101,560694,2024-04-01,2024-04-02
+1,01:54:00,Foul personal (shooting;2 free throws) (under the basket) Clarice Akunwafo(Southern California),11 - 15,5254215,561101,560694,2024-04-01,2024-04-02
+1,02:10:00,"3pt jump shot (off turnover) (outside center) missed by Paige Bueckers(UConn), rebound defensive (team) Southern California, rebound offensive (team) UConn",11 - 15,5254215,561101,560694,2024-04-01,2024-04-02
+1,02:37:00,Substitution Southern California: in Kaitlyn Davis,11 - 15,5254215,561101,560694,2024-04-01,2024-04-02
+1,02:37:00,Substitution Southern California: out Kayla Padilla,11 - 15,5254215,561101,560694,2024-04-01,2024-04-02
+1,02:37:00,Turnover dribbling (inside right) Kayla Williams(Southern California),11 - 15,5254215,561101,560694,2024-04-01,2024-04-02
+1,03:02:00,"2pt layup (off turnover) (under the basket) made by Aaliyah Edwards(UConn), assist Qadence Samuels(UConn), assist Paige Bueckers(UConn)",11 - 15,5254215,561101,560694,2024-04-01,2024-04-02
+1,03:10:00,"Turnover bad pass (in the paint) JuJu Watkins(Southern California), steal Paige Bueckers(UConn)",9 - 15,5254215,561101,560694,2024-04-01,2024-04-02
+1,03:22:00,Free throw 1 of 1 (fast break) made by Paige Bueckers(UConn),9 - 15,5254215,561101,560694,2024-04-01,2024-04-02
+1,03:22:00,Foul personal (shooting;1 free throw) (under the basket) Kayla Padilla(Southern California),8 - 15,5254215,561101,560694,2024-04-01,2024-04-02
+1,03:22:00,2pt driving layup (fast break) (under the basket) made by Paige Bueckers(UConn),8 - 15,5254215,561101,560694,2024-04-01,2024-04-02
+1,03:28:00,"2pt driving layup (off turnover) (in the paint) missed by McKenzie Forbes(Southern California), rebound defensive Paige Bueckers(UConn)",6 - 15,5254215,561101,560694,2024-04-01,2024-04-02
+1,03:38:00,"Turnover lost ball (in the paint) KK Arnold(UConn), steal Kayla Padilla(Southern California)",6 - 15,5254215,561101,560694,2024-04-01,2024-04-02
+1,03:53:00,Free throw 1 of 1 (fast break) made by McKenzie Forbes(Southern California),6 - 15,5254215,561101,560694,2024-04-01,2024-04-02
+1,03:53:00,Substitution UConn: in Qadence Samuels,6 - 14,5254215,561101,560694,2024-04-01,2024-04-02
+1,03:53:00,Substitution UConn: out Ashlynn Shade,6 - 14,5254215,561101,560694,2024-04-01,2024-04-02
+1,03:53:00,Substitution Southern California: in Kayla Williams,6 - 14,5254215,561101,560694,2024-04-01,2024-04-02
+1,03:53:00,Substitution Southern California: out Kaitlyn Davis,6 - 14,5254215,561101,560694,2024-04-01,2024-04-02
+1,03:53:00,Foul personal (shooting;1 free throw) (in the paint) Ashlynn Shade(UConn),6 - 14,5254215,561101,560694,2024-04-01,2024-04-02
+1,03:53:00,2pt driving layup (fast break) (in the paint) made by McKenzie Forbes(Southern California),6 - 14,5254215,561101,560694,2024-04-01,2024-04-02
+1,04:01:00,"2pt layup (2nd chance) (under the basket) missed by Nika Muhl(UConn), rebound defensive Clarice Akunwafo(Southern California)",6 - 12,5254215,561101,560694,2024-04-01,2024-04-02
+1,04:05:00,"3pt jump shot (2nd chance) (outside left) missed by Paige Bueckers(UConn), rebound offensive Nika Muhl(UConn)",6 - 12,5254215,561101,560694,2024-04-01,2024-04-02
+1,04:23:00,"3pt jump shot (outside right) missed by Nika Muhl(UConn), rebound offensive Ashlynn Shade(UConn), rebound offensive Ashlynn Shade(UConn)",6 - 12,5254215,561101,560694,2024-04-01,2024-04-02
+1,04:32:00,3pt pull up jump shot (outside left) missed by JuJu Watkins(Southern California),6 - 12,5254215,561101,560694,2024-04-01,2024-04-02
+1,04:40:00,"2pt jump shot (2nd chance) (inside right) missed by Ashlynn Shade(UConn), rebound defensive Clarice Akunwafo(Southern California), rebound defensive Clarice Akunwafo(Southern California)",6 - 12,5254215,561101,560694,2024-04-01,2024-04-02
+1,04:42:00,"Foul personal (loose ball) (in the paint) McKenzie Forbes(Southern California), foul on Aaliyah Edwards(UConn)",6 - 12,5254215,561101,560694,2024-04-01,2024-04-02
+1,04:44:00,"2pt jump shot (inside center) missed by Paige Bueckers(UConn), rebound offensive (team) UConn",6 - 12,5254215,561101,560694,2024-04-01,2024-04-02
+1,04:55:00,Free throw 1 of 1 (off turnover) made by JuJu Watkins(Southern California),6 - 12,5254215,561101,560694,2024-04-01,2024-04-02
+1,04:55:00,Timeout commercial,6 - 11,5254215,561101,560694,2024-04-01,2024-04-02
+1,04:55:00,Foul personal (shooting;1 free throw) (inside right) Nika Muhl(UConn),6 - 11,5254215,561101,560694,2024-04-01,2024-04-02
+1,04:55:00,2pt pull up jump shot (off turnover) (inside right) made by JuJu Watkins(Southern California),6 - 11,5254215,561101,560694,2024-04-01,2024-04-02
+1,05:14:00,Substitution Southern California: in Clarice Akunwafo,6 - 9,5254215,561101,560694,2024-04-01,2024-04-02
+1,05:14:00,Substitution Southern California: out Rayah Marshall,6 - 9,5254215,561101,560694,2024-04-01,2024-04-02
+1,05:14:00,Turnover bad pass (inside center) Aaliyah Edwards(UConn),6 - 9,5254215,561101,560694,2024-04-01,2024-04-02
+1,05:29:00,2pt pull up jump shot (inside center) made by JuJu Watkins(Southern California),6 - 9,5254215,561101,560694,2024-04-01,2024-04-02
+1,05:42:00,2pt driving layup (fast break) (under the basket) made by KK Arnold(UConn),6 - 7,5254215,561101,560694,2024-04-01,2024-04-02
+1,05:50:00,"2pt pull up jump shot (inside center) missed by McKenzie Forbes(Southern California), rebound defensive Aaliyah Edwards(UConn)",4 - 7,5254215,561101,560694,2024-04-01,2024-04-02
+1,06:12:00,"2pt layup (off turnover) (under the basket) made by Aaliyah Edwards(UConn), assist Paige Bueckers(UConn)",4 - 7,5254215,561101,560694,2024-04-01,2024-04-02
+1,06:36:00,Turnover bad pass (outside center) Kayla Padilla(Southern California),2 - 7,5254215,561101,560694,2024-04-01,2024-04-02
+1,06:45:00,Turnover bad pass (in the paint) Nika Muhl(UConn),2 - 7,5254215,561101,560694,2024-04-01,2024-04-02
+1,06:58:00,"3pt jump shot (outside left) missed by McKenzie Forbes(Southern California), rebound defensive KK Arnold(UConn)",2 - 7,5254215,561101,560694,2024-04-01,2024-04-02
+1,07:07:00,"2pt jump shot (inside center) missed by Aaliyah Edwards(UConn), rebound defensive Rayah Marshall(Southern California)",2 - 7,5254215,561101,560694,2024-04-01,2024-04-02
+1,07:22:00,Free throw 2 of 2 made by Rayah Marshall(Southern California),2 - 7,5254215,561101,560694,2024-04-01,2024-04-02
+1,07:22:00,Free throw 1 of 2 made by Rayah Marshall(Southern California),2 - 6,5254215,561101,560694,2024-04-01,2024-04-02
+1,07:22:00,Foul personal (shooting;2 free throws) (under the basket) Ashlynn Shade(UConn),2 - 5,5254215,561101,560694,2024-04-01,2024-04-02
+1,07:40:00,"2pt hook shot (in the paint) missed by Aaliyah Edwards(UConn), rebound defensive Rayah Marshall(Southern California), rebound defensive Rayah Marshall(Southern California)",2 - 5,5254215,561101,560694,2024-04-01,2024-04-02
+1,07:51:00,"2pt layup (2nd chance) (under the basket) missed by Rayah Marshall(Southern California), rebound defensive Paige Bueckers(UConn)",2 - 5,5254215,561101,560694,2024-04-01,2024-04-02
+1,07:54:00,"3pt jump shot (outside right) missed by Kayla Padilla(Southern California), rebound offensive Rayah Marshall(Southern California), rebound offensive Rayah Marshall(Southern California)",2 - 5,5254215,561101,560694,2024-04-01,2024-04-02
+1,08:04:00,"3pt jump shot (outside left wing) missed by Ashlynn Shade(UConn), rebound defensive JuJu Watkins(Southern California), rebound defensive JuJu Watkins(Southern California), rebound defensive JuJu Watkins(Southern California)",2 - 5,5254215,561101,560694,2024-04-01,2024-04-02
+1,08:21:00,"3pt jump shot (outside left) made by McKenzie Forbes(Southern California), assist Kayla Padilla(Southern California)",2 - 5,5254215,561101,560694,2024-04-01,2024-04-02
+1,08:35:00,"2pt layup (under the basket) made by Paige Bueckers(UConn), assist Aaliyah Edwards(UConn)",2 - 2,5254215,561101,560694,2024-04-01,2024-04-02
+1,08:48:00,2pt layup (2nd chance;off turnover) (under the basket) made by Rayah Marshall(Southern California),0 - 2,5254215,561101,560694,2024-04-01,2024-04-02
+1,08:51:00,"2pt pull up jump shot (2nd chance;off turnover) (inside left) missed by JuJu Watkins(Southern California), rebound offensive Rayah Marshall(Southern California), rebound offensive Rayah Marshall(Southern California)",0 - 0,5254215,561101,560694,2024-04-01,2024-04-02
+1,09:02:00,2pt driving layup (off turnover;blocked) (under the basket) missed by Kaitlyn Davis(Southern California),0 - 0,5254215,561101,560694,2024-04-01,2024-04-02
+1,09:06:00,"Turnover bad pass (inside left) Nika Muhl(UConn), steal Kayla Padilla(Southern California)",0 - 0,5254215,561101,560694,2024-04-01,2024-04-02
+1,09:25:00,"Foul offensive (back court) JuJu Watkins(Southern California), turnover offensive JuJu Watkins(Southern California), foul on KK Arnold(UConn)",0 - 0,5254215,561101,560694,2024-04-01,2024-04-02
+1,09:41:00,"3pt jump shot (2nd chance) (outside center) missed by McKenzie Forbes(Southern California), rebound offensive Kaitlyn Davis(Southern California)",0 - 0,5254215,561101,560694,2024-04-01,2024-04-02
+1,09:46:00,"3pt jump shot (outside right) missed by Kayla Padilla(Southern California), rebound offensive McKenzie Forbes(Southern California), rebound offensive McKenzie Forbes(Southern California)",0 - 0,5254215,561101,560694,2024-04-01,2024-04-02
+1,10:00:00,"Jump ball start period, won Rayah Marshall(Southern California), lost Aaliyah Edwards(UConn)",0 - 0,5254215,561101,560694,2024-04-01,2024-04-02
+1,10:00:00,Period start,0 - 0,5254215,561101,560694,2024-04-01,2024-04-02
+1,10:00:00,Game start,0 - 0,5254215,561101,560694,2024-04-01,2024-04-02
