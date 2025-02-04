@@ -315,10 +315,9 @@ get_ncaa_shots <- function(game_id, gender) {
   cross <- dplyr::cross_join(home_away_teams, teams)
   cross$similarity <- stringdist::stringsim(a = cross$full_name, b = cross$team_name)
   team_dict <- dplyr::slice_max(dplyr::slice_max(cross, order_by = similarity, by = team_name, n = 1L), order_by = similarity, by = team_id, n = 1L)
-  # team_dict <- data.frame()
-  # for (tm in teams$team_name) {
-  #   team_dict <- dplyr::bind_rows(team_dict, dplyr::slice_max(collapse::fsubset(cross, team_name == tm & !full_name %in% team_dict$full_name), similarity, n = 1L))
-  # }
+  if (length(unique(team_dict$shot_team_id)) == 1L) {
+    team_dict <- dplyr::distinct(dplyr::slice_max(cross, order_by = similarity, by = team_name, n = 1L), shot_team_id, .keep_all = TRUE)
+  }
   team_dict$similarity <- NULL
 
   shots_clean <- dplyr::left_join(shots_clean, team_dict, by = "shot_team_id")
