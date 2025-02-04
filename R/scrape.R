@@ -334,7 +334,7 @@ games_proc <- dplyr::inner_join(games, dplyr::rename(dict, home_id = espn_team_i
   collapse::fsubset(!is.na(game_id))
 
 # Read current shots data
-current_shots <- readr::read_csv(here::here(paste0("data/", opt$gender, "/shots.csv")), col_types = readr::cols())
+current_shots <- readRDS(here::here(paste0("data/", opt$gender, "/shots.rds")))
 
 # Read previously failed shots data
 bad_games <- readr::read_csv(here::here(paste0("data/", opt$gender, "/bad_shots.csv")), col_types = readr::cols())
@@ -359,8 +359,6 @@ cat("Scraped", length(unique(shots$game_id)), "new", tools::toTitleCase(opt$gend
 if (nrow(current_shots) > 0L) {
   shots <- dplyr::distinct(dplyr::bind_rows(shots, current_shots), play_id, .keep_all = TRUE)
 }
-
-shots <- readr::read_csv(here::here(paste0("data/", opt$gender, "/shots.csv")), col_types = readr::cols())
 
 # Write shots
 saveRDS(shots, here::here(paste0("data/", opt$gender, "/shots.rds")))
