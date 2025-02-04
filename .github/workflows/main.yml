@@ -25,7 +25,7 @@ jobs:
             env:
               GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
           - name: Pull data and update files
-            run: Rscript ./R/scrape.R
+            run: Rscript ./R/scrape.R --gender womens
           - name: Commit files
             run: |
               git config --local user.email "action@github.com"
