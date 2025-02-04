@@ -1,0 +1,539 @@
+ncaa_team_name,espn_team_id
+A&M-Corpus Christi,357
+Abilene Christian,2000
+Air Force,2005
+Akron,2006
+Alabama,333
+Alabama A&M,2010
+Alabama Huntsville,2008
+Alabama St.,2011
+Alas. Anchorage,1
+Alcorn,2016
+American,44
+App State,2026
+Arizona,12
+Arizona St.,9
+Ark. Baptist,2027
+Ark.-Pine Bluff,2029
+Arkansas,8
+Arkansas St.,2032
+Army West Point,349
+Auburn,2
+Austin Peay,2046
+Ball St.,2050
+Baylor,239
+Bellarmine,91
+Belmont,2057
+Benedictine Mesa,491
+Bethesda (CA),108878
+Bethune-Cookman,2065
+Binghamton,2066
+Boise St.,68
+Boston College,103
+Boston U.,104
+Bowie St.,2075
+Bowling Green,189
+Bradley,71
+Brown,225
+Bryant,2803
+Bucknell,2083
+Buffalo,2084
+Butler,2086
+BYU,252
+Cal Poly,13
+Cal St. Fullerton,2239
+Cal St. San Marcos,3182
+California,25
+California Baptist,2856
+Campbell,2097
+Canisius,2099
+Central Ark.,2110
+Central Baptist,3079
+Central Conn. St.,2115
+Central Mich.,2117
+Charleston So.,2127
+Charlotte,2429
+Chattanooga,236
+Chicago St.,2130
+Cincinnati,2132
+Cleary,128568
+Clemson,228
+Cleveland St.,325
+Clinton,130129
+Coastal Carolina,324
+Col. of Charleston,232
+Colgate,2142
+Colorado,38
+Colorado St.,36
+Columbia,171
+Coppin St.,2154
+Cornell,172
+Creighton,156
+CSU Bakersfield,2934
+CSUN,2463
+Dartmouth,159
+Davidson,2166
+Dayton,2168
+Delaware,48
+Delaware St.,2169
+Denver,2172
+DePaul,305
+Detroit Mercy,2174
+Drake,2181
+Drexel,2182
+Duke,150
+Duquesne,2184
+East Carolina,151
+East Texas A&M,2837
+Eastern Ill.,2197
+Eastern Ky.,2198
+Eastern Mich.,2199
+Eastern Wash.,331
+Elon,2210
+Erskine,2215
+ETSU,2193
+Evansville,339
+Fairfield,2217
+FDU,161
+FGCU,526
+FIU,2229
+Fla. Atlantic,2226
+Florida,57
+Florida A&M,50
+Florida St.,52
+Fordham,2230
+Fresno St.,278
+Furman,231
+Ga. Southern,290
+Gardner-Webb,2241
+George Mason,2244
+George Washington,45
+Georgetown,46
+Georgia,61
+Georgia St.,2247
+Georgia Tech,59
+Gonzaga,2250
+Grambling,2755
+Grand Canyon,2253
+Green Bay,2739
+Hampton,2261
+Harvard,108
+Hawaii,62
+Hawaii Hilo,2267
+High Point,2272
+Hofstra,2275
+Holy Cross,107
+Houston,248
+Houston Christian,2277
+Howard,47
+Idaho,70
+Idaho St.,304
+Illinois,356
+Illinois St.,2287
+Indiana,84
+Indiana St.,282
+Iona,314
+Iowa,2294
+Iowa St.,66
+IU Indy,85
+Jackson St.,2296
+Jacksonville,294
+Jacksonville St.,55
+James Madison,256
+Jarvis Christian,2299
+Kansas,2305
+Kansas City,140
+Kansas St.,2306
+Kennesaw St.,338
+Kent St.,2309
+Kentucky,96
+La Salle,2325
+Lafayette,322
+Lamar University,2320
+Le Moyne,2330
+Lehigh,2329
+Liberty,2335
+LIFE Pacific,111994
+Lindenwood,2815
+Lipscomb,288
+Little Rock,2031
+LIU,112358
+LMU (CA),2351
+Long Beach St.,299
+Longwood,2344
+Louisiana,309
+Louisiana Tech,2348
+Louisville,97
+Loyola Chicago,2350
+Loyola Maryland,2352
+LSU,99
+Maine,311
+Manhattan,2363
+Marist,2368
+Marquette,269
+Marshall,276
+Maryland,120
+Massachusetts,113
+McNeese,2377
+Memphis,235
+Mercer,2382
+Mercyhurst,2385
+Merrimack,2771
+Miami (FL),2390
+Miami (OH),193
+Michigan,130
+Michigan St.,127
+Middle Tenn.,2393
+Milwaukee,270
+Minnesota,135
+Mississippi St.,344
+Mississippi Val.,2400
+Missouri,142
+Missouri St.,2623
+Monmouth,2405
+Montana,149
+Montana St.,147
+Morehead St.,2413
+Morgan St.,2415
+Mount St. Mary's,116
+Murray St.,93
+N.C. A&T,2448
+N.C. Central,2428
+Navy,2426
+NC State,152
+Nebraska,158
+Nevada,2440
+New Hampshire,160
+New Mexico,167
+New Mexico St.,166
+New Orleans,2443
+Niagara,315
+Nicholls,2447
+NIU,2459
+NJIT,2885
+Norfolk St.,2450
+North Ala.,2453
+North Carolina,153
+North Dakota,155
+North Dakota St.,2449
+North Florida,2454
+North Texas,249
+Northeastern,111
+Northern Ariz.,2464
+Northern Colo.,2458
+Northern Ky.,94
+Northwestern,77
+Northwestern St.,2466
+Notre Dame,87
+Oakland,2473
+Ohio,195
+Ohio St.,194
+Oklahoma,201
+Oklahoma St.,197
+Old Dominion,295
+Ole Miss,145
+Omaha,2437
+Oral Roberts,198
+Oregon,2483
+Oregon St.,204
+P.R.-Mayaguez,2503
+Pacific,279
+Park (AZ),116420
+Penn,219
+Penn St.,213
+Pepperdine,2492
+Pfeiffer,2945
+Pittsburgh,221
+Portland,2501
+Portland St.,2502
+Prairie View,2504
+Presbyterian,2506
+Princeton,163
+Providence,2507
+Purdue,2509
+Purdue Fort Wayne,2870
+Queens (NC),2511
+Quinnipiac,2514
+Radford,2515
+Rhode Island,227
+Rice,242
+Richmond,257
+Rider,2520
+Robert Morris,2523
+Rutgers,164
+Sacramento St.,16
+Sacred Heart,2529
+Saint Francis,2598
+Saint Joseph's,2603
+Saint Louis,139
+Saint Mary's (CA),2608
+Saint Peter's,2612
+Sam Houston,2534
+Samford,2535
+San Diego,301
+San Diego St.,21
+San Francisco,2539
+San Jose St.,23
+Santa Clara,2541
+Seattle U,2547
+Seton Hall,2550
+SFA,2617
+Siena,2561
+SIUE,2565
+SMU,2567
+South Alabama,6
+South Carolina,2579
+South Carolina St.,2569
+South Dakota,233
+South Dakota St.,2571
+South Fla.,58
+Southeast Mo. St.,2546
+Southeastern La.,2545
+Southern California,30
+Southern Ill.,79
+Southern Ind.,88
+Southern Miss.,2572
+Southern U.,2582
+Southern Utah,253
+Southern Wesleyan,2576
+St. Bonaventure,179
+St. John's (NY),2599
+St. Thomas (MN),2900
+St. Thomas (TX),3195
+Stanford,24
+Stetson,56
+Stonehill,284
+Stony Brook,2619
+Syracuse,183
+Tarleton St.,2627
+TCU,2628
+Temple,218
+Tennessee,2633
+Tennessee St.,2634
+Tennessee Tech,2635
+Tex. A&M-Commerce,2837
+Texas,251
+Texas A&M,245
+Texas Southern,2640
+Texas St.,326
+Texas Tech,2641
+Toledo,2649
+Towson,119
+Troy,2653
+Tulane,2655
+Tulsa,202
+UAB,5
+UAlbany,399
+UC Davis,302
+UC Irvine,300
+UC Riverside,27
+UC San Diego,28
+UC Santa Barbara,2540
+UCF,2116
+UCLA,26
+UConn,41
+UIC,82
+UIW,2916
+ULM,2433
+UMass Lowell,2349
+UMBC,2378
+UMES,2379
+UNC Asheville,2427
+UNC Greensboro,2430
+UNCW,350
+UNI,2460
+UNLV,2439
+UNT Dallas,123546
+USC Upstate,2908
+UT Arlington,250
+UT Martin,2630
+Utah,254
+Utah St.,328
+Utah Tech,3101
+Utah Valley,3084
+UTEP,2638
+UTRGV,292
+UTSA,2636
+Valparaiso,2674
+Vanderbilt,238
+VCU,2670
+Vermont,261
+Villanova,222
+Virginia,258
+Virginia Tech,259
+Virginia-Lynchburg,3229
+Wagner,2681
+Wake Forest,154
+Washington,264
+Washington St.,265
+Webber Int'l,2691
+Weber St.,2692
+West Ga.,2698
+West Virginia,277
+Western Caro.,2717
+Western Ill.,2710
+Western Ky.,98
+Western Mich.,2711
+Wichita St.,2724
+Wiley,2728
+William & Mary,2729
+Winthrop,2737
+Wisconsin,275
+Wofford,2747
+Wright St.,2750
+Wyoming,2751
+Xavier,2752
+Xavier (LA),2753
+Yale,43
+Youngstown St.,2754
+VMI,2678
+The Citadel,2643
+Biblical Stud. (TX),128256
+Champion Chris.,3134
+La Sierra,111960
+Brescia,2855
+East-West U.,3107
+Florida Tech,53
+Northern N.M.,3141
+St. Andrews,2592
+CarolinaU,108942
+Cheyney,2129
+Columbia Int'l,3242
+Dallas Christian,2937
+Defiance,190
+Lincoln (CA),124946
+Midway,111166
+Mount Olive,2418
+Northwest Indian,3218
+Stanislaus St.,2616
+Trinity Baptist,3174
+Arlington Baptist,3166
+Fort Lauderdale,123362
+Georgian Court,111179
+Newberry,2444
+Notre Dame (MD),128342
+Occidental,2475
+St. Ambrose,2591
+Toccoa Falls,2648
+Alice Lloyd,484
+Avila,2048
+Bethany (WV),2062
+Bethel (TN),2064
+Brewton-Parker,2077
+Bryn Athyn,109684
+Cal Maritime,500
+Dakota Wesleyan,513
+Dillard,2176
+Edward Waters,2206
+Embry-Riddle (AZ),111226
+Fisk,2225
+Houghton,538
+Howard Payne,2758
+La Verne,2318
+Mary Baldwin,124942
+McMurry,241
+Menlo,2381
+Mercy,2384
+Milligan,2397
+Misericordia,111902
+Montreat,2410
+New College (FL),128550
+North Greenville,2822
+Oakwood,3083
+Oglethorpe,2476
+Our Lady of the Lake,3158
+Piedmont,2496
+Schreiner,2544
+Texas Lutheran,2639
+Texas Wesleyan,2642
+Truett-McConnell,3245
+Tusculum,2839
+Whittier,2850
+William Carey,2730
+William Peace,108807
+Anderson (IN),2023
+Arizona Christian,3188
+Aurora,2044
+Averett,2047
+Baldwin Wallace,188
+Berry,2757
+Blackburn,2070
+Bluffton,2074
+Boyce,109700
+Calvary,111176
+Campbellsville,2098
+Chapman,411
+Christendom,111180
+Clark Atlanta,2805
+Colby-Sawyer,35
+Concordia (MI),2985
+Culver-Stockton,510
+Davis & Elkins,2167
+Dubuque,49
+Earlham,2189
+Emory & Henry,2213
+Ferrum,366
+Franklin,2233
+Fresno Pacific,2235
+Gallaudet,417
+Goshen,3067
+Guilford,2258
+Hardin-Simmons,2810
+Haskell,535
+Hawaii Pacific,2269
+Heidelberg,191
+Holy Family,420
+Immaculata,107554
+Jamestown,2939
+Kansas Christian,123410
+Kean,2871
+Lakeland,267
+Lewis & Clark,2333
+Lincoln (MO),2876
+Lynchburg,2355
+Manhattanville,2879
+Marywood,2374
+Medgar Evers,2380
+Millsaps,2398
+Mobile,2920
+Monmouth (IL),2919
+Montana Tech,148
+Morehouse,60
+Mount Aloysius,111943
+Muskingum,332
+Nazareth,110426
+Neumann,422
+North American,126750
+North Central (MN),121894
+Ohio Christian,3121
+Ohio Wesleyan,2980
+Old Westbury,3087
+Ouachita Baptist,2888
+Ozark Christian,127162
+Paine,2488
+Paul Quinn,2491
+Point Park,214
+Purdue Northwest,368
+Rivier,111913
+Rust,2892
+SUNY Delhi,126848
+SUNY Maritime,2951
+Sarah Lawrence,108862
+Shorter,2560
+Siena Heights,2562
+South Dakota Mines,7298
+Spring Hill,2590
+Springfield,81
+Tabor,619
+Trinity (FL),3155
+Tuskegee,2657
+Voorhees,2679
+Warren Wilson,2684
+Washington Adventist,408
+Westcliff,111910
+Westminster (PA),2849
+Westminster (UT),224
+Willamette,2930
+William Jewell,2911
+William Woods,2931
+Aquinas,486

@@ -1,7 +1,7 @@
 name: ncaa_shots Scheduled Run
 on:
   schedule:
-    - cron: "0 0,1,2,3,23 * 11,12,1,2,3,4 *"
+    - cron: "0 5 * 11,12,1,2,3,4 *"
   workflow_dispatch:
 
 jobs:
@@ -21,7 +21,7 @@ jobs:
           - uses: r-lib/actions/setup-pandoc@v2
           - name: Install base dependencies
             run: |
-              Rscript -e 'install.packages(c("dplyr","collapse","remotes","stringdist","readr","rvest","stringr","purrr","here"))'
+              Rscript -e 'install.packages(c("dplyr","collapse","remotes","stringdist","readr","rvest","stringr","purrr","here","tidyr","XML"))'
             env:
               GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
           - name: Pull data and update files
