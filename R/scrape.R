@@ -61,7 +61,7 @@ get_ncaa_games <- function(date = Sys.Date()-1L, gender) {
   # Pull game meta data from relevant part of the table
   game_date <- as.character(table$V1[starting_rows])
 
-  if (as.Date(substr(game_date, 1, 10), format = "%m/%d/%Y") != date) {
+  if (as.Date(substr(game_date[1], 1, 10), format = "%m/%d/%Y") != date) {
     cat(paste0("No games found for ", gender, " ", date, "\n"))
     return(data.frame())
   }
