@@ -1,4 +1,59 @@
 game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
+2025-02-03,Lehigh,Colgate,5732691,94,68,951,0
+2025-02-03,Southeastern La.,Lamar University,5732850,81,79,546,0
+2025-02-03,Florida A&M,Alabama St.,5740582,66,67,750,0
+2025-02-03,Pittsburgh,Virginia,5732667,57,73,9075,0
+2025-02-03,Norfolk St.,N.C. Central,5735101,81,78,0,0
+2025-02-03,Bethune-Cookman,Alabama A&M,5729459,89,75,993,0
+2025-02-03,McNeese,UIW,5740596,67,65,3216,0
+2025-02-03,Delaware St.,Morgan St.,5732029,84,82,304,0
+2025-02-03,New Orleans,SFA,5734220,85,88,455,0
+2025-02-03,Northwestern St.,UTRGV,5732923,79,63,508,0
+2025-02-03,East Texas A&M,A&M-Corpus Christi,5734625,66,78,742,0
+2025-02-03,Nicholls,Houston Christian,5735241,75,67,781,0
+2025-02-03,Southern U.,Jackson St.,5735366,91,89,5621,0
+2025-02-03,Howard,South Carolina St.,5738030,66,89,1362,0
+2025-02-03,William & Mary,Col. of Charleston,5731648,90,75,3461,0
+2025-02-03,UMES,Coppin St.,5736447,57,62,761,0
+2025-02-03,Grambling,Alcorn,6310021,53,60,2313,0
+2025-02-03,Weber St.,Northern Ariz.,5738229,77,73,2537,0
+2025-02-03,UAB,North Texas,5737921,64,61,4318,0
+2025-02-03,Idaho St.,Northern Colo.,5722840,72,86,1481,0
+2025-02-03,Kansas,Iowa St.,5738233,69,52,15300,0
+2025-02-04,Eastern Mich.,Kent St.,5729570,49,70,1696,0
+2025-02-04,Ark.-Pine Bluff,Texas Southern,5740654,69,68,1364,0
+2025-02-04,St. John's (NY),Marquette,5733080,70,64,16521,0
+2025-02-04,VCU,La Salle,5734106,96,66,7132,0
+2025-02-04,Dayton,Davidson,5735555,69,63,13407,0
+2025-02-04,Central Mich.,Miami (OH),5729309,70,76,1203,0
+2025-02-04,Bowling Green,NIU,5730851,84,77,1572,0
+2025-02-04,Florida St.,Notre Dame,5731119,67,60,5101,0
+2025-02-04,Ohio,Western Mich.,5729230,94,69,4058,0
+2025-02-04,Florida,Vanderbilt,5731359,86,75,9745,0
+2025-02-04,Akron,Ball St.,5723733,81,73,1883,0
+2025-02-04,Toledo,Buffalo,5733944,87,74,4052,0
+2025-02-04,Charlotte,Wichita St.,5735538,58,66,2638,0
+2025-02-04,Massachusetts,Saint Louis,5736002,71,73,3745,0
+2025-02-04,Ole Miss,Kentucky,5733203,98,84,9128,0
+2025-02-04,Murray St.,Drake,5731441,45,55,4586,0
+2025-02-04,Penn St.,Minnesota,5731669,61,69,6750,0
+2025-02-04,Iowa,Purdue,5730972,81,90,8445,0
+2025-02-04,Houston,Oklahoma St.,5735314,72,63,7035,0
+2025-02-04,Xavier,Georgetown,5733262,74,69,10212,0
+2025-02-04,SIUE,Eastern Ill.,5733337,66,41,1415,0
+2025-02-04,Wyoming,Utah St.,5756602,67,71,3550,0
+2025-02-04,Air Force,Nevada,5728844,60,74,2134,0
+2025-02-04,Clemson,Georgia Tech,5732605,86,89,7913,0
+2025-02-04,Auburn,Oklahoma,5733821,98,70,9121,0
+2025-02-04,Northwestern,Southern California,5732245,77,75,5440,0
+2025-02-04,Loyola Chicago,St. Bonaventure,5733040,77,53,2553,0
+2025-02-04,Wisconsin,Indiana,5731242,76,64,14447,0
+2025-02-04,Texas Tech,Baylor,5734692,73,59,15098,0
+2025-02-04,Arizona St.,Kansas St.,5734170,70,71,6868,0
+2025-02-04,UCLA,Michigan St.,5733041,63,61,10074,0
+2025-02-04,Fresno St.,San Jose St.,5738248,91,94,4257,0
+2025-02-04,BYU,Arizona,5734997,74,85,17274,0
+2025-02-04,UNLV,Boise St.,5738183,62,71,5081,0
 2023-11-06,IU Indy,Spalding,3954955,70,63,4867,0
 2023-11-06,Hofstra,St. Joseph's (L.I.),3954956,101,48,2147,0
 2023-11-06,Troy,Fort Lauderdale,3954943,92,47,3321,0
@@ -152,7 +207,7 @@ game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
 2023-11-06,Grand Canyon,Southeast Mo. St.,3954975,88,67,7186,0
 2023-11-06,Cincinnati,UIC,3954934,69,58,9936,0
 2023-11-06,California,St. Thomas (MN),3954914,71,66,3066,0
-2023-11-06,UC Davis,Jessup ,3954965,86,51,567,0
+2023-11-06,UC Davis,Jessup,3954965,86,51,567,0
 2023-11-06,Duke,Dartmouth,3955081,92,54,9314,0
 2023-11-06,Oklahoma St.,Abilene Christian,3955071,59,64,5084,0
 2023-11-06,TCU,Southern U.,3955070,108,75,5729,0
@@ -181,7 +236,7 @@ game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
 2023-11-06,Washington St.,Idaho,3954911,84,59,2323,0
 2023-11-06,Stanford,CSUN,3954952,88,79,2133,0
 2023-11-06,San Diego,Sonoma St.,3984812,68,64,894,0
-2023-11-06,UCLA,Saint Francis ,3954920,75,44,6783,0
+2023-11-06,UCLA,Saint Francis,3954920,75,44,6783,0
 2023-11-06,Washington,Bellarmine,3954959,91,57,5568,0
 2023-11-07,Jacksonville St.,Brescia,3955093,91,41,2107,0
 2023-11-07,La Salle,Drexel,3955086,67,61,1641,1
@@ -203,7 +258,7 @@ game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
 2023-11-07,Wyoming,Northern N.M.,3955087,104,56,3363,0
 2023-11-07,A&M-Corpus Christi,S'western Adventist,3955109,111,46,1400,0
 2023-11-07,Montana,Northwest Indian,3955106,107,59,2539,0
-2023-11-07,Boise St.,Vanguard ,3955085,89,55,9501,0
+2023-11-07,Boise St.,Vanguard,3955085,89,55,9501,0
 2023-11-07,Weber St.,Benedictine Mesa,3955101,96,62,3046,0
 2023-11-07,Baylor,Auburn,3955111,88,82,3028,1
 2023-11-07,DePaul,Purdue Fort Wayne,3955100,74,82,2941,0
@@ -286,7 +341,7 @@ game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
 2023-11-09,Idaho,CSUN,3955267,73,76,978,0
 2023-11-09,Denver,Cal Poly,3955278,97,76,818,0
 2023-11-09,Saint Mary's (CA),New Mexico,3955273,72,58,3500,0
-2023-11-09,San Francisco,Saint Francis ,3955284,84,52,1773,0
+2023-11-09,San Francisco,Saint Francis,3955284,84,52,1773,0
 2023-11-09,UC Santa Barbara,Portland St.,3955288,76,82,3840,0
 2023-11-09,Washington,Northern Ky.,3955257,75,67,6026,0
 2023-11-09,San Jose St.,Bethesda (CA),3955301,117,72,1484,0
@@ -408,7 +463,7 @@ game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
 2023-11-11,UT Arlington,UT Tyler,3955834,95,64,2512,0
 2023-11-11,Cleveland St.,Ohio,3955856,82,78,2399,0
 2023-11-11,Providence,Milwaukee,3955862,79,69,12090,0
-2023-11-11,Santa Clara,Saint Francis ,3955582,82,59,1245,0
+2023-11-11,Santa Clara,Saint Francis,3955582,82,59,1245,0
 2023-11-11,Columbia,UAlbany,3955821,75,78,761,0
 2023-11-11,Vermont,Plattsburgh St.,3955903,92,41,2389,0
 2023-11-11,Toledo,Louisiana,3955898,87,78,4290,0
@@ -515,7 +570,7 @@ game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
 2023-11-14,Tennessee Tech,Lipscomb,3956147,65,96,899,0
 2023-11-14,Grambling,Champion Chris.,3956148,113,73,552,0
 2023-11-14,Drexel,Temple,3956200,64,66,2509,1
-2023-11-14,Penn St.,Saint Francis ,3954202,83,53,7546,0
+2023-11-14,Penn St.,Saint Francis,3954202,83,53,7546,0
 2023-11-14,Florida,Florida A&M,3956100,89,68,6675,0
 2023-11-14,George Washington,Hofstra,3956101,71,60,1169,0
 2023-11-14,Fla. Atlantic,Eastern Mich.,3956111,100,57,3161,0
@@ -1191,7 +1246,7 @@ game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
 2023-11-25,Saint Louis,Dartmouth,3957770,66,65,4523,0
 2023-11-25,Portland,Willamette,3957930,107,84,821,0
 2023-11-25,Grand Canyon,North Dakota St.,3957939,86,71,7208,0
-2023-11-25,California Baptist,Vanguard ,3957928,69,59,2372,0
+2023-11-25,California Baptist,Vanguard,3957928,69,59,2372,0
 2023-11-25,Bradley,Vermont,3957948,79,70,5068,0
 2023-11-25,UTRGV,Arkansas St.,4470512,58,75,893,1
 2023-11-25,DePaul,NIU,3957760,79,89,2745,0
@@ -1325,7 +1380,7 @@ game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
 2023-11-29,Duquesne,UC Irvine,3958257,66,62,2193,0
 2023-11-29,UAlbany,Boston U.,3958263,86,72,3103,0
 2023-11-29,Holy Cross,Maine,3958265,57,72,777,0
-2023-11-29,Lehigh,Saint Francis ,3958268,61,62,867,0
+2023-11-29,Lehigh,Saint Francis,3958268,61,62,867,0
 2023-11-29,FIU,FGCU,3958273,65,68,1365,0
 2023-11-29,Columbia,Loyola Maryland,3958315,69,57,599,0
 2023-11-29,Queens (NC),Gardner-Webb,3958320,83,80,381,0
@@ -1479,7 +1534,7 @@ game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
 2023-12-02,Campbell,Southern Va.,3958685,87,56,1031,0
 2023-12-02,Princeton,Furman,3958743,70,69,2142,0
 2023-12-02,North Florida,High Point,3958744,79,86,1289,0
-2023-12-02,American,Saint Francis ,3958748,73,75,692,0
+2023-12-02,American,Saint Francis,3958748,73,75,692,0
 2023-12-02,Northeastern,Old Dominion,3958751,81,68,1033,0
 2023-12-02,Ohio,Delaware,3958755,74,73,4512,0
 2023-12-02,Georgia Tech,Duke,3958799,72,68,7758,0
@@ -1893,7 +1948,7 @@ game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
 2023-12-10,St. John's (NY),Boston College,3959999,80,86,6072,1
 2023-12-10,UNC Greensboro,Elon,3959997,82,73,1484,0
 2023-12-10,Iowa,Michigan,3953969,80,90,10000,0
-2023-12-10,Iona,Saint Francis ,3960000,61,54,1288,0
+2023-12-10,Iona,Saint Francis,3960000,61,54,1288,0
 2023-12-10,Lipscomb,Tennessee St.,3959992,78,71,1961,0
 2023-12-10,Nebraska,Michigan St.,3953975,77,70,14585,0
 2023-12-10,Oklahoma St.,Tulsa,3960001,72,57,2200,1
@@ -2727,7 +2782,7 @@ game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
 2024-01-03,Montana St.,Oral Roberts,3961905,76,82,2316,0
 2024-01-03,Southern California,California,3984746,82,74,4603,0
 2024-01-03,San Diego St.,Fresno St.,3961710,74,47,12414,0
-2024-01-04,Sacred Heart,Saint Francis ,3962015,79,67,2000,0
+2024-01-04,Sacred Heart,Saint Francis,3962015,79,67,2000,0
 2024-01-04,UTRGV,SFA,3962017,78,85,1031,0
 2024-01-04,Bellarmine,Austin Peay,3962026,68,84,2749,0
 2024-01-04,Northeastern,Stony Brook,3962031,53,62,632,0
@@ -2812,7 +2867,7 @@ game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
 2024-01-06,Army West Point,Holy Cross,3962220,70,57,500,0
 2024-01-06,Missouri,Georgia,3962246,68,75,12407,0
 2024-01-06,Boston U.,Lafayette,3962234,51,59,553,0
-2024-01-06,Wagner,Saint Francis ,3962252,71,56,989,0
+2024-01-06,Wagner,Saint Francis,3962252,71,56,989,0
 2024-01-06,Detroit Mercy,Milwaukee,3962277,61,84,889,0
 2024-01-06,Kansas,TCU,3962274,83,81,16300,0
 2024-01-06,Tex. A&M-Commerce,McNeese,3962272,67,73,446,0
@@ -3606,7 +3661,7 @@ game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
 2024-01-21,Quinnipiac,Iona,3964681,91,87,1631,0
 2024-01-21,Sacred Heart,Wagner,3964679,66,61,641,0
 2024-01-21,Saint Peter's,Canisius,3964677,70,59,0,0
-2024-01-21,Le Moyne,Saint Francis ,3964674,94,57,794,0
+2024-01-21,Le Moyne,Saint Francis,3964674,94,57,794,0
 2024-01-21,Merrimack,Stonehill,3964666,63,47,861,0
 2024-01-21,Manhattan,Fairfield,3964667,75,82,717,0
 2024-01-21,Mount St. Mary's,Niagara,3964673,71,82,2412,0
@@ -4064,7 +4119,7 @@ game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
 2024-02-01,Elon,Campbell,3966036,67,69,2160,0
 2024-02-01,Col. of Charleston,UNCW,3966034,74,80,5021,0
 2024-02-01,High Point,Longwood,3965820,93,76,5349,0
-2024-02-01,Central Conn. St.,Saint Francis ,3966033,63,62,1301,0
+2024-02-01,Central Conn. St.,Saint Francis,3966033,63,62,1301,0
 2024-02-01,SFA,Utah Valley,3966044,77,72,2208,0
 2024-02-01,Kennesaw St.,Bellarmine,3966130,95,96,1630,0
 2024-02-01,South Dakota St.,North Dakota St.,3966064,73,74,3418,0
@@ -4793,7 +4848,7 @@ game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
 2024-02-17,Boston U.,Navy,3968257,74,65,1175,0
 2024-02-17,UMBC,UAlbany,3968273,80,75,1565,0
 2024-02-17,The Citadel,VMI,3968275,76,51,2337,0
-2024-02-17,FDU,Saint Francis ,3968281,93,74,473,0
+2024-02-17,FDU,Saint Francis,3968281,93,74,473,0
 2024-02-17,Detroit Mercy,Purdue Fort Wayne,3968282,69,83,1213,0
 2024-02-17,Dayton,Fordham,3968211,78,70,13407,0
 2024-02-17,Missouri St.,Valparaiso,3968223,82,74,2852,0
@@ -5053,7 +5108,7 @@ game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
 2024-02-22,Northeastern,Elon,3968840,61,58,1147,0
 2024-02-22,Wagner,Central Conn. St.,3968835,72,73,1051,0
 2024-02-22,Northern Ky.,Cleveland St.,3968826,75,73,2856,0
-2024-02-22,Merrimack,Saint Francis ,3968825,71,60,1346,0
+2024-02-22,Merrimack,Saint Francis,3968825,71,60,1346,0
 2024-02-22,FIU,Liberty,3968824,76,71,1008,0
 2024-02-22,Campbell,Hampton,3968822,68,72,1109,0
 2024-02-22,Purdue,Rutgers,3728752,96,68,14876,0
@@ -5148,7 +5203,7 @@ game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
 2024-02-24,Maine,NJIT,3969019,68,58,689,0
 2024-02-24,Winthrop,USC Upstate,3969004,83,74,2225,0
 2024-02-24,Charleston So.,High Point,3968994,59,74,658,0
-2024-02-24,Stonehill,Saint Francis ,3968951,72,63,1022,0
+2024-02-24,Stonehill,Saint Francis,3968951,72,63,1022,0
 2024-02-24,Furman,Wofford,3968952,82,67,2547,0
 2024-02-24,Georgia St.,Texas St.,3968967,59,68,1992,0
 2024-02-24,Wake Forest,Duke,3968988,83,79,14744,0
@@ -5686,7 +5741,7 @@ game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
 2024-03-06,Seton Hall,Villanova,3969835,66,56,10481,0
 2024-03-06,Davidson,Loyola Chicago,3969836,59,69,2856,0
 2024-03-06,West Virginia,TCU,3969849,81,93,9674,0
-2024-03-06,Central Conn. St.,Saint Francis ,5250820,71,62,2412,1
+2024-03-06,Central Conn. St.,Saint Francis,5250820,71,62,2412,1
 2024-03-06,Merrimack,LIU,5250821,72,66,1076,1
 2024-03-06,Sacred Heart,Wagner,5250822,57,60,361,1
 2024-03-06,Le Moyne,FDU,5250823,82,61,729,1
