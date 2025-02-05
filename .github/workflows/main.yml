@@ -1,7 +1,7 @@
 name: ncaa_shots Scheduled Run
 on:
   schedule:
-    - cron: "0 5 * 11,12,1,2,3,4 *"
+    - cron: "0 9 * 11,12,1,2,3,4 *"
   workflow_dispatch:
 
 jobs:
@@ -24,8 +24,10 @@ jobs:
               Rscript -e 'install.packages(c("dplyr","collapse","remotes","stringdist","readr","rvest","stringr","purrr","here","tidyr","XML","optparse"))'
             env:
               GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
-          - name: Pull data and update files
+          - name: womens
             run: Rscript ./R/scrape.R --gender womens
+          - name: mens
+            run: Rscript ./R/scrape.R --gender mens
           - name: Commit files
             run: |
               git config --local user.email "action@github.com"

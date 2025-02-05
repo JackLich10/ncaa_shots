@@ -236,11 +236,11 @@ get_ncaa_shots <- function(game_id, gender) {
 
   if (rlang::is_empty(shot_text)) {
     cat("No shots found for game_id ", game_id, "...\n")
-    bad <- try(readr::read_csv(here::here(paste0(opt$gender, "/data/ncaa/bad_shots.csv")), col_types = readr::cols()), silent = TRUE)
+    bad <- try(readr::read_csv(here::here(paste0("data/", opt$gender, "/bad_shots.csv")), col_types = readr::cols()), silent = TRUE)
     if ("try-error" %in% class(bad)) {
-      readr::write_csv(data.frame(game_id = game_id), here::here(paste0(opt$gender, "/data/ncaa/bad_shots.csv")))
+      readr::write_csv(data.frame(game_id = game_id), here::here(paste0("data/", opt$gender, "/bad_shots.csv")))
     } else {
-      readr::write_csv(dplyr::distinct(dplyr::bind_rows(bad, data.frame(game_id = game_id)), game_id), here::here(paste0(opt$gender, "/data/ncaa/bad_shots.csv")))
+      readr::write_csv(dplyr::distinct(dplyr::bind_rows(bad, data.frame(game_id = game_id)), game_id), here::here(paste0("data/", opt$gender, "/bad_shots.csv")))
     }
     return(data.frame())
   }
