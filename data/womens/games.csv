@@ -1,4 +1,55 @@
 game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
+2025-02-05,Buffalo,Toledo,5722079,55,58,4906,0
+2025-02-05,Temple,Memphis,5737340,74,66,3496,0
+2025-02-05,Arkansas St.,Georgia St.,5730621,86,50,3891,0
+2025-02-05,Winthrop,Charleston So.,5737991,54,47,387,0
+2025-02-05,Massachusetts,St. Bonaventure,5737868,81,54,1001,0
+2025-02-05,Akron,Western Mich.,5733541,64,70,291,0
+2025-02-05,Penn St.,Washington,5734961,71,82,2035,0
+2025-02-05,La Salle,Richmond,5737502,53,72,189,0
+2025-02-05,Cincinnati,Iowa St.,5736410,52,72,1841,0
+2025-02-05,Charlotte,Tulsa,5737518,53,81,595,0
+2025-02-05,Central Mich.,Ohio,5732236,75,48,1061,0
+2025-02-05,Ball St.,Bowling Green,5726026,71,51,2102,0
+2025-02-05,Rhode Island,Duquesne,5737766,59,57,1046,0
+2025-02-05,Creighton,Seton Hall,5734402,72,56,1153,0
+2025-02-05,NIU,Kent St.,5733524,73,69,1401,0
+2025-02-05,Louisiana,Marshall,5729048,92,88,313,0
+2025-02-05,UAB,East Carolina,5737191,56,61,436,0
+2025-02-05,Texas Tech,Utah,5734845,64,70,3986,0
+2025-02-05,Lipscomb,West Ga.,5736722,92,75,154,0
+2025-02-05,Troy,Old Dominion,5729014,83,80,2232,0
+2025-02-05,Southern Miss.,Ga. Southern,5723015,42,49,1202,0
+2025-02-05,West Virginia,Kansas,5735384,76,43,3258,0
+2025-02-05,Xavier,Georgetown,5735683,36,63,1123,0
+2025-02-05,Gardner-Webb,UNC Asheville,5735979,79,72,570,0
+2025-02-05,High Point,Radford,5737178,48,65,687,0
+2025-02-05,USC Upstate,Presbyterian,5737319,51,68,302,0
+2025-02-05,Miami (OH),Eastern Mich.,5729156,68,45,384,0
+2025-02-05,Wright St.,IU Indy,5723967,68,80,1106,0
+2025-02-05,Davidson,Loyola Chicago,5809540,68,51,647,0
+2025-02-05,George Mason,VCU,5756725,66,48,1216,0
+2025-02-05,Saint Joseph's,Saint Louis,5738095,69,49,838,0
+2025-02-05,Butler,Villanova,5734352,59,63,987,0
+2025-02-05,Wichita St.,Fla. Atlantic,5738064,54,44,993,0
+2025-02-05,Wisconsin,Southern California,5731674,64,86,6285,0
+2025-02-05,ULM,App State,5729805,71,73,941,0
+2025-02-05,Marquette,St. John's (NY),5736376,57,55,1479,0
+2025-02-05,Kansas St.,TCU,5733360,59,50,7477,0
+2025-02-05,Texas St.,Coastal Carolina,5730335,60,68,749,0
+2025-02-05,North Dakota,South Dakota St.,5734645,45,66,1529,0
+2025-02-05,Denver,Kansas City,5723941,65,73,351,0
+2025-02-05,Houston,Baylor,5734010,47,92,1187,0
+2025-02-05,St. Thomas (MN),Omaha,5733345,75,62,309,0
+2025-02-05,South Alabama,James Madison,5723995,62,76,358,0
+2025-02-05,Utah St.,UNLV,5738080,51,89,544,0
+2025-02-05,Rice,Tulane,5756705,67,78,686,0
+2025-02-05,Air Force,San Jose St.,5737341,78,54,580,0
+2025-02-05,Colorado,Arizona,5736872,56,47,2748,0
+2025-02-05,Fresno St.,San Diego St.,5734077,57,61,961,0
+2025-02-05,BYU,UCF,5737068,73,66,2153,0
+2025-02-05,UCLA,Ohio St.,5734746,65,52,6822,0
+2025-02-05,Nevada,Boise St.,5735067,69,61,1362,0
 2025-02-03,Norfolk St.,N.C. Central,5737256,88,52,1489,0
 2025-02-03,UMES,Coppin St.,5736481,61,66,361,0
 2025-02-03,Howard,South Carolina St.,5737831,68,41,831,0
