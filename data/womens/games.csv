@@ -1,4 +1,10 @@
 game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
+2025-02-10,UMES,Howard,5737822,56,66,538,0
+2025-02-10,Pepperdine,Portland,5728957,75,77,153,0
+2025-02-10,Ole Miss,Kentucky,5732347,66,57,2875,0
+2025-02-10,Oklahoma,Auburn,5723029,73,71,3048,0
+2025-02-10,Nebraska,Iowa,5733423,66,81,6535,0
+2025-02-10,TBA,Winner from  TBA,NA,NA,NA,NA,1
 2025-02-09,Louisville,Stanford,5734032,74,65,8281,0
 2025-02-09,Providence,UConn,5737292,40,77,7483,0
 2025-02-09,Georgia,Arkansas,5737214,62,61,3034,0
@@ -101,7 +107,6 @@ game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
 2025-02-08,UNC Asheville,High Point,5737666,52,66,381,0
 2025-02-08,App State,NIU,5731577,62,75,531,0
 2025-02-08,Brown,Columbia,5732072,40,78,493,0
-2025-02-08,Bellarmine,Stetson,NA,NA,NA,NA,0
 2025-02-08,Temple,South Fla.,5736616,57,64,1505,0
 2025-02-08,Delaware St.,Virginia-Lynchburg,5734795,84,55,167,0
 2025-02-08,Fordham,George Mason,5756726,43,70,610,0
