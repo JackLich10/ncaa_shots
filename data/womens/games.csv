@@ -1,4 +1,96 @@
 game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
+2025-02-13,UAlbany,UMass Lowell,5738291,59,44,3232,0
+2025-02-13,VCU,Saint Louis,5738096,56,59,2433,0
+2025-02-13,FIU,UTEP,5733647,83,66,2147,0
+2025-02-13,Georgia St.,South Alabama,5731058,78,69,2849,0
+2025-02-13,A&M-Corpus Christi,Houston Christian,5735642,74,54,2142,0
+2025-02-13,Northern Colo.,Sacramento St.,5723798,85,72,2821,0
+2025-02-13,James Madison,App State,5724005,77,61,2108,0
+2025-02-13,Lindenwood,Morehead St.,5728294,68,61,801,0
+2025-02-13,SIUE,UT Martin,5729653,66,77,0,0
+2025-02-13,Western Ill.,Southern Ind.,5723003,70,76,387,0
+2025-02-13,Little Rock,Tennessee Tech,5723021,57,61,0,0
+2025-02-13,Lipscomb,Bellarmine,5737532,79,86,278,0
+2025-02-13,Eastern Ill.,Tennessee St.,5734259,69,49,540,0
+2025-02-13,Mercyhurst,Central Conn. St.,5728773,76,74,369,0
+2025-02-13,Florida St.,Louisville,5733839,69,83,1913,0
+2025-02-13,NC State,Miami (FL),5733796,76,74,5500,0
+2025-02-13,UNC Greensboro,Furman,5733477,55,51,322,0
+2025-02-13,Wake Forest,Duke,5736720,47,72,1343,0
+2025-02-13,Marshall,Old Dominion,5733154,73,70,1036,0
+2025-02-13,Western Caro.,Wofford,5736849,68,70,623,0
+2025-02-13,Quinnipiac,Sacred Heart,5734300,71,47,412,0
+2025-02-13,New Hampshire,Vermont,5731549,46,55,178,0
+2025-02-13,Rider,Iona,5733668,60,65,436,0
+2025-02-13,NJIT,Bryant,5737962,64,53,232,0
+2025-02-13,Binghamton,UMBC,5728634,58,48,1103,0
+2025-02-13,Florida A&M,Alcorn,5756700,69,74,300,0
+2025-02-13,Maryland,Nebraska,5733797,71,91,7029,0
+2025-02-13,Tennessee,Auburn,5723039,99,61,9817,0
+2025-02-13,Youngstown St.,Wright St.,5734531,76,78,1335,0
+2025-02-13,Robert Morris,IU Indy,5723972,61,58,226,0
+2025-02-13,Detroit Mercy,Milwaukee,5723333,50,46,405,0
+2025-02-13,Wagner,Le Moyne,5731175,61,56,200,0
+2025-02-13,South Carolina,Florida,5735886,101,63,16708,0
+2025-02-13,Mount St. Mary's,Niagara,5728905,75,54,245,0
+2025-02-13,Kennesaw St.,Louisiana Tech,5730547,79,72,562,0
+2025-02-13,Oakland,Green Bay,5723705,39,75,273,0
+2025-02-13,Bethune-Cookman,Jackson St.,5729346,53,59,457,0
+2025-02-13,Saint Francis,Stonehill,5735844,43,74,502,0
+2025-02-13,Liberty,New Mexico St.,5722050,63,58,874,0
+2025-02-13,Merrimack,Manhattan,5733752,71,69,263,0
+2025-02-13,Samford,ETSU,5756680,50,43,213,0
+2025-02-13,Clemson,Georgia Tech,5734344,68,61,1452,0
+2025-02-13,Chicago St.,FDU,5732879,70,74,112,0
+2025-02-13,Mississippi Val.,Alabama St.,5736762,68,57,985,0
+2025-02-13,Southern Ill.,Missouri St.,5735612,48,83,305,0
+2025-02-13,Murray St.,Drake,5735208,86,92,1811,0
+2025-02-13,North Carolina,Virginia Tech,5733747,67,62,2502,0
+2025-02-13,Evansville,Bradley,5735290,55,45,748,0
+2025-02-13,Fairfield,Saint Peter's,5732109,73,43,635,0
+2025-02-13,Valparaiso,UIC,5736521,60,51,285,0
+2025-02-13,Illinois,Penn St.,5734060,67,55,3983,0
+2025-02-13,Marist,Siena,5732009,69,81,772,0
+2025-02-13,Mercer,Chattanooga,5737156,39,69,1754,0
+2025-02-13,Ark.-Pine Bluff,Alabama A&M,5734703,55,69,674,0
+2025-02-13,Belmont,UNI,5733551,61,73,729,0
+2025-02-13,Southeastern La.,McNeese,5729725,65,45,1010,0
+2025-02-13,Indiana St.,Illinois St.,5735801,77,85,1110,0
+2025-02-13,Kentucky,Texas,5737520,49,67,5424,0
+2025-02-13,UTRGV,UIW,5735019,59,37,1061,0
+2025-02-13,Arkansas,Ole Miss,5732349,50,89,2625,0
+2025-02-13,Grambling,Prairie View,5737703,75,54,577,0
+2025-02-13,Jacksonville St.,Sam Houston,5723755,49,56,313,0
+2025-02-13,Ohio St.,Minnesota,5734747,87,84,6417,0
+2025-02-13,East Texas A&M,SFA,5728426,55,71,502,0
+2025-02-13,Southern U.,Texas Southern,5763043,63,53,3678,0
+2025-02-13,New Orleans,Nicholls,5730218,59,72,397,0
+2025-02-13,Northwestern St.,Lamar University,5723690,46,58,571,0
+2025-02-13,Iowa,Rutgers,5730136,55,43,14998,0
+2025-02-13,Northern Ariz.,Portland St.,5733719,83,67,333,0
+2025-02-13,Weber St.,Montana St.,5723391,45,63,313,0
+2025-02-13,UC Riverside,UC Davis,5723480,55,53,103,0
+2025-02-13,Grand Canyon,Tarleton St.,5728992,76,60,604,0
+2025-02-13,Pittsburgh,Notre Dame,5736127,57,88,1774,0
+2025-02-13,Richmond,Saint Joseph's,5809701,59,51,1325,0
+2025-02-13,Long Beach St.,Hawaii,5735405,65,72,591,0
+2025-02-13,New Mexico,Boise St.,5730766,88,83,4705,0
+2025-02-13,Vanderbilt,Mississippi St.,5736797,77,85,3577,0
+2025-02-13,Santa Clara,Pepperdine,5728973,54,46,365,0
+2025-02-13,Utah Tech,Southern Utah,5732322,66,69,990,0
+2025-02-13,Cal Poly,Cal St. Fullerton,5732206,64,67,368,0
+2025-02-13,Seattle U,Abilene Christian,5733717,62,84,162,0
+2025-02-13,Idaho St.,Montana,5734910,66,46,752,0
+2025-02-13,Oregon St.,Gonzaga,5734173,62,66,4574,0
+2025-02-13,Pacific,San Diego,5733773,72,75,567,0
+2025-02-13,Washington St.,LMU (CA),5731771,63,51,890,0
+2025-02-13,California Baptist,UT Arlington,5737481,90,79,398,0
+2025-02-13,Saint Mary's (CA),Portland,5728943,69,71,275,0
+2025-02-13,California,Boston College,5735789,72,63,2007,0
+2025-02-13,Southern California,UCLA,5730806,71,60,10258,0
+2025-02-13,UC Santa Barbara,UC Irvine,5731109,62,52,533,0
+2025-02-13,Stanford,Syracuse,5734034,79,58,2914,0
+2025-02-13,UC San Diego,CSU Bakersfield,5728549,63,45,501,0
 2025-02-12,Dayton,Davidson,5737899,51,61,12152,0
 2025-02-12,Colorado St.,Utah St.,5736644,72,54,6008,0
 2025-02-12,Georgetown,Butler,5734357,70,76,119,0
