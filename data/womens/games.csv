@@ -1,4 +1,42 @@
 game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
+2025-02-16,Georgia Tech,Wake Forest,5734345,73,62,2568,0
+2025-02-16,Tennessee,Ole Miss,5732351,80,71,12402,0
+2025-02-16,Columbia,Harvard,5723314,54,60,2267,0
+2025-02-16,Northeastern,Hofstra,5734552,61,51,0,0
+2025-02-16,South Carolina,UConn,5735887,58,87,18000,0
+2025-02-16,Elon,Campbell,5733793,45,48,1159,0
+2025-02-16,Davidson,St. Bonaventure,5756748,55,37,1047,0
+2025-02-16,UNCW,Col. of Charleston,5731703,61,64,1002,0
+2025-02-16,Penn St.,Wisconsin,5733533,68,75,4188,0
+2025-02-16,Towson,Stony Brook,5731292,59,52,731,0
+2025-02-16,Monmouth,Hampton,5730431,62,60,1979,0
+2025-02-16,Fordham,VCU,5809689,57,76,454,0
+2025-02-16,Missouri,Oklahoma,5733508,66,82,3518,0
+2025-02-16,Indiana St.,Bradley,5735291,54,56,1090,0
+2025-02-16,Richmond,Saint Louis,5738097,59,49,2422,0
+2025-02-16,Miami (FL),Florida St.,5733844,82,83,3477,0
+2025-02-16,Florida,Mississippi St.,5736712,69,66,2044,0
+2025-02-16,Pittsburgh,Virginia,5736598,67,80,1041,0
+2025-02-16,Providence,Seton Hall,5734412,38,59,844,0
+2025-02-16,Kentucky,Georgia,5737215,84,55,5625,0
+2025-02-16,Robert Morris,Northern Ky.,5737829,63,59,321,0
+2025-02-16,Delaware,William & Mary,5731871,82,59,1527,0
+2025-02-16,Xavier,Villanova,5736373,42,57,1676,0
+2025-02-16,North Carolina,NC State,5733800,66,65,6319,0
+2025-02-16,Texas,LSU,5736626,65,58,0,0
+2025-02-16,George Mason,Massachusetts,5737873,76,66,2679,0
+2025-02-16,Southern Ill.,UIC,5736565,46,62,451,0
+2025-02-16,Minnesota,Oregon,5731623,70,76,6487,0
+2025-02-16,Missouri St.,Valparaiso,5735614,79,63,2592,0
+2025-02-16,SMU,Clemson,5736683,46,72,1751,0
+2025-02-16,Arizona,TCU,5736418,73,85,7672,0
+2025-02-16,Auburn,Vanderbilt,5723048,88,98,4353,0
+2025-02-16,Illinois,Nebraska,5734061,77,68,5881,0
+2025-02-16,Stanford,Boston College,5734035,80,75,3561,0
+2025-02-16,St. John's (NY),Butler,5734365,65,43,0,0
+2025-02-16,California,Syracuse,5735790,75,69,3849,0
+2025-02-16,Washington,Southern California,5731675,64,69,7913,0
+2025-02-16,UCLA,Michigan St.,5736944,75,69,7563,0
 2025-02-15,Navy,Army West Point,5733967,64,68,0,0
 2025-02-15,USC Upstate,Gardner-Webb,5735981,68,59,233,0
 2025-02-15,Indiana,Purdue,5731979,78,56,12008,0
