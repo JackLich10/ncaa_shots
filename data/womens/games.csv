@@ -1,4 +1,90 @@
 game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
+2025-02-20,Kansas City,St. Thomas (MN),5723947,91,82,419,0
+2025-02-20,Old Dominion,Arkansas St.,5730630,95,88,1015,0
+2025-02-20,Morehead St.,SIUE,5728296,75,83,483,0
+2025-02-20,North Florida,Eastern Ky.,5722517,58,71,0,0
+2025-02-20,FDU,Le Moyne,5732883,65,46,900,0
+2025-02-20,Jacksonville,Bellarmine,5729098,73,78,527,0
+2025-02-20,West Ga.,Stetson,5734251,58,68,422,0
+2025-02-20,Little Rock,Lindenwood,5731807,51,60,0,0
+2025-02-20,Southern Ind.,Eastern Ill.,5723203,66,46,969,0
+2025-02-20,Northern Ky.,Purdue Fort Wayne,5723805,57,69,1425,0
+2025-02-20,Maine,UAlbany,5737577,40,56,1123,0
+2025-02-20,Syracuse,North Carolina,5735269,58,68,3271,0
+2025-02-20,UMBC,UMass Lowell,5728641,53,51,351,0
+2025-02-20,Canisius,Marist,5725818,62,69,312,0
+2025-02-20,Niagara,Siena,5732012,64,66,360,0
+2025-02-20,New Hampshire,Binghamton,5731553,65,38,182,0
+2025-02-20,Florida St.,Pittsburgh,5733846,69,55,1818,0
+2025-02-20,Wofford,Samford,5735964,54,62,534,0
+2025-02-20,Bryant,Vermont,5734495,61,53,317,0
+2025-02-20,Wake Forest,SMU,5736691,67,64,856,0
+2025-02-20,Southeast Mo. St.,Western Ill.,5722985,51,49,585,0
+2025-02-20,Tennessee,Alabama,5735713,88,80,10684,0
+2025-02-20,Tennessee Tech,UT Martin,5723072,70,55,1012,0
+2025-02-20,Houston Christian,SFA,5728429,59,66,349,0
+2025-02-20,Alabama St.,Bethune-Cookman,5729348,53,56,429,0
+2025-02-20,Southeastern La.,Northwestern St.,5729729,65,58,582,0
+2025-02-20,Oklahoma,Vanderbilt,5735352,101,81,4073,0
+2025-02-20,North Ala.,Lipscomb,5737534,58,61,1411,0
+2025-02-20,Austin Peay,Queens (NC),5737685,66,57,353,0
+2025-02-20,Bradley,Murray St.,5735293,55,81,458,0
+2025-02-20,Drake,Southern Ill.,5735210,82,40,2421,0
+2025-02-20,Prairie View,Mississippi Val.,5737363,57,50,0,0
+2025-02-20,Alabama A&M,Florida A&M,5734700,70,67,1329,0
+2025-02-20,McNeese,UTRGV,5735023,44,67,1446,0
+2025-02-20,UNI,Missouri St.,5735617,72,75,2638,0
+2025-02-20,Texas Southern,Ark.-Pine Bluff,5738012,73,59,378,0
+2025-02-20,Furman,Mercer,5809695,72,70,411,0
+2025-02-20,Saint Peter's,Mount St. Mary's,5728906,70,54,150,0
+2025-02-20,Stonehill,Wagner,5731176,77,64,464,0
+2025-02-20,Central Conn. St.,Chicago St.,5728775,62,61,302,0
+2025-02-20,Saint Francis,Mercyhurst,5729762,70,69,495,0
+2025-02-20,Indiana,Ohio St.,5731980,71,61,10772,0
+2025-02-20,South Carolina,Arkansas,5735888,95,55,16638,0
+2025-02-20,Miami (FL),Notre Dame,5736129,42,82,4614,0
+2025-02-20,Detroit Mercy,Youngstown St.,5734534,59,67,325,0
+2025-02-20,Fairfield,Rider,5733674,72,46,835,0
+2025-02-20,Manhattan,Iona,5736407,68,65,162,0
+2025-02-20,Sacred Heart,Merrimack,5733761,74,48,620,0
+2025-02-20,Virginia,California,5735791,70,76,5496,0
+2025-02-20,Duke,Louisville,5736729,62,70,2153,0
+2025-02-20,Georgia Tech,NC State,5733805,68,83,2858,0
+2025-02-20,New Orleans,East Texas A&M,5730220,78,52,402,0
+2025-02-20,Northwestern,Maryland,5733501,79,85,1726,0
+2025-02-20,Missouri,Kentucky,5733511,65,73,2601,0
+2025-02-20,Sam Houston,Western Ky.,5735635,45,57,423,0
+2025-02-20,ULM,Troy,5729017,84,73,1026,0
+2025-02-20,Illinois St.,Belmont,5733563,66,63,2489,0
+2025-02-20,Central Ark.,FGCU,5737882,71,95,1458,0
+2025-02-20,UIW,Lamar University,5723717,53,61,0,0
+2025-02-20,Louisiana Tech,Middle Tenn.,5729995,46,55,1042,0
+2025-02-20,Nicholls,A&M-Corpus Christi,5735645,44,59,411,0
+2025-02-20,Denver,North Dakota St.,5735721,59,64,357,0
+2025-02-20,New Mexico St.,Jacksonville St.,5723771,66,47,412,0
+2025-02-20,Virginia Tech,Stanford,5733741,74,75,4949,0
+2025-02-20,Davidson,George Mason,5756728,66,50,698,0
+2025-02-20,Texas A&M,Florida,5734553,52,74,3116,0
+2025-02-20,Omaha,South Dakota,5735579,71,57,475,0
+2025-02-20,Oral Roberts,North Dakota,5723550,83,80,1519,0
+2025-02-20,Long Beach St.,UC Riverside,5737060,75,69,629,0
+2025-02-20,Oregon St.,Santa Clara,5734924,68,51,3751,0
+2025-02-20,Eastern Wash.,Northern Colo.,5732171,46,50,561,0
+2025-02-20,Portland,San Diego,5734967,81,65,756,0
+2025-02-20,Washington,Rutgers,5730139,83,65,2947,0
+2025-02-20,Washington St.,San Francisco,5735829,67,59,1072,0
+2025-02-20,Gonzaga,Saint Mary's (CA),5728947,60,53,5441,0
+2025-02-20,CSUN,UC Irvine,5730085,56,100,270,0
+2025-02-20,LMU (CA),Pacific,5731767,49,63,219,0
+2025-02-20,LSU,Georgia,5736630,79,63,10229,0
+2025-02-20,UTEP,Kennesaw St.,5730549,56,68,1284,0
+2025-02-20,Idaho,Northern Ariz.,5725895,65,70,1393,0
+2025-02-20,UCLA,Illinois,5734063,70,55,5435,0
+2025-02-20,CSU Bakersfield,UC Davis,5728556,45,66,399,0
+2025-02-20,Sacramento St.,Weber St.,5723394,56,45,346,0
+2025-02-20,Cal St. Fullerton,UC Santa Barbara,5731111,56,80,143,0
+2025-02-20,Portland St.,Idaho St.,5733726,80,89,329,0
+2025-02-20,UC San Diego,Cal Poly,5737077,66,49,508,0
 2025-02-19,Utah St.,Air Force,5738082,77,82,1093,0
 2025-02-19,San Diego St.,Nevada,5735080,72,43,4088,0
 2025-02-19,Buffalo,Kent St.,5722090,76,70,1436,0
