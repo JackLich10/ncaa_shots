@@ -1,4 +1,27 @@
 game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
+2025-02-28,Harvard,Brown,5722321,52,59,1273,0
+2025-02-28,Dartmouth,Yale,5737246,67,72,1388,0
+2025-02-28,Eastern Mich.,Central Mich.,5731229,84,73,2574,0
+2025-02-28,Niagara,Iona,5728263,63,65,966,0
+2025-02-28,Canisius,Manhattan,5723368,72,77,619,0
+2025-02-28,Fairfield,Mount St. Mary's,5730642,69,62,2113,0
+2025-02-28,Cornell,Penn,5733681,90,62,1666,0
+2025-02-28,Columbia,Princeton,5723948,68,73,2574,0
+2025-02-28,VCU,Davidson,5734114,80,56,7637,0
+2025-02-28,Sacred Heart,Marist,5729390,67,54,1052,0
+2025-02-28,Quinnipiac,Saint Peter's,5733110,69,64,2802,0
+2025-02-28,Merrimack,Rider,5723062,78,83,1372,0
+2025-02-28,Coastal Carolina,Old Dominion,5731844,59,61,1570,0
+2025-02-28,ULM,Arkansas St.,5729130,67,94,1574,0
+2025-02-28,Texas St.,James Madison,5723317,102,93,1526,0
+2025-02-28,South Alabama,Louisiana,5725853,65,42,1500,0
+2025-02-28,Purdue,UCLA,5737927,76,66,14876,0
+2025-02-28,Ga. Southern,Georgia St.,5728619,76,75,3484,0
+2025-02-28,Southern Miss.,Troy,5730787,58,70,3174,0
+2025-02-28,Marshall,App State,5723931,75,57,5223,0
+2025-02-28,Northwestern,Iowa,5730978,68,57,6249,0
+2025-02-28,Akron,Kent St.,5729581,77,72,4967,0
+2025-02-28,UNLV,Nevada,5738172,68,55,7466,0
 2025-02-27,UMass Lowell,Bryant,5738118,78,79,508,0
 2025-02-27,VMI,Samford,5735745,83,95,2613,0
 2025-02-27,UMBC,UAlbany,5734523,74,78,1654,0
