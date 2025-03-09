@@ -1,4 +1,85 @@
 game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
+2025-03-08,Richmond,Saint Joseph's,6358124,49,50,0,1
+2025-03-08,NC State,North Carolina,6357501,66,55,10894,1
+2025-03-08,Stony Brook,Drexel,5731297,66,59,1031,0
+2025-03-08,UConn,St. John's (NY),6359020,71,40,8816,1
+2025-03-08,South Dakota St.,North Dakota,6358274,84,55,8104,1
+2025-03-08,Central Mich.,Akron,5732241,70,61,1165,0
+2025-03-08,Canisius,Saint Peter's,5725831,50,47,473,0
+2025-03-08,Charlotte,Fla. Atlantic,6357103,55,51,259,1
+2025-03-08,Mississippi Val.,Jackson St.,5736545,70,68,3485,0
+2025-03-08,Niagara,Rider,5733683,67,65,379,0
+2025-03-08,Miami (OH),NIU,5729162,89,79,1243,0
+2025-03-08,FIU,Middle Tenn.,5730009,44,65,723,0
+2025-03-08,Kent St.,Toledo,5733659,69,62,1754,0
+2025-03-08,Coastal Carolina,Georgia St.,6357783,77,68,604,1
+2025-03-08,Ball St.,Ohio,5736819,82,57,1810,0
+2025-03-08,George Mason,Davidson,6358125,63,50,2611,1
+2025-03-08,Missouri St.,Bradley,5735299,64,54,4063,0
+2025-03-08,Valparaiso,UNI,5736525,73,85,421,0
+2025-03-08,Northern Colo.,Portland St.,6359034,53,50,0,1
+2025-03-08,Boston U.,Loyola Maryland,6359243,75,51,230,1
+2025-03-08,Monmouth,Elon,5732921,54,70,1046,0
+2025-03-08,Liberty,Western Ky.,5722056,74,70,1274,0
+2025-03-08,Buffalo,Western Mich.,5722099,80,54,2008,0
+2025-03-08,Col. of Charleston,Hampton,5730438,93,66,483,0
+2025-03-08,Marist,Mount St. Mary's,5728914,50,61,1152,0
+2025-03-08,Kennesaw St.,Jacksonville St.,5723788,63,55,1158,0
+2025-03-08,Eastern Mich.,Bowling Green,5726019,67,87,1476,0
+2025-03-08,Yale,Brown,5723355,44,53,789,0
+2025-03-08,Dartmouth,Harvard,5723324,40,74,894,0
+2025-03-08,Penn,Princeton,5737783,53,67,725,0
+2025-03-08,Siena,Manhattan,5732014,43,62,824,0
+2025-03-08,Columbia,Cornell,5732090,91,58,2307,0
+2025-03-08,Sacred Heart,Iona,5735734,69,57,732,0
+2025-03-08,Campbell,William & Mary,5731877,73,55,1257,0
+2025-03-08,Indiana St.,Murray St.,5735805,70,109,1227,0
+2025-03-08,N.C. A&T,UNCW,5731707,65,54,1056,0
+2025-03-08,Hofstra,Northeastern,5734561,69,53,811,0
+2025-03-08,Notre Dame,Duke,6357502,56,61,10894,1
+2025-03-08,Marquette,Villanova,6359021,66,73,8816,1
+2025-03-08,San Francisco,LMU (CA),6358568,75,66,975,1
+2025-03-08,Lipscomb,North Ala.,6358632,73,64,338,1
+2025-03-08,Grambling,Alabama St.,5736778,69,53,985,0
+2025-03-08,UT Arlington,California Baptist,5737482,87,73,1177,0
+2025-03-08,UIC,Drake,5735219,49,69,758,0
+2025-03-08,Southern Ill.,Illinois St.,5736526,86,99,324,0
+2025-03-08,Evansville,Belmont,5733594,48,75,0,0
+2025-03-08,Prairie View,Texas Southern,5756673,60,64,0,0
+2025-03-08,Southern California,Michigan,6358456,82,70,7805,1
+2025-03-08,Bethune-Cookman,Florida A&M,5729352,71,60,904,0
+2025-03-08,Delaware,Towson,5732693,59,69,1414,0
+2025-03-08,Oral Roberts,Kansas City,6358275,95,73,8104,1
+2025-03-08,Troy,Marshall,6357785,85,54,1518,1
+2025-03-08,Southern U.,Alabama A&M,5734697,35,48,3978,0
+2025-03-08,Grand Canyon,Abilene Christian,5729000,70,57,1447,0
+2025-03-08,New Mexico St.,Sam Houston,5737133,64,56,7432,0
+2025-03-08,UTEP,Louisiana Tech,5730656,51,69,1337,0
+2025-03-08,Utah Valley,Tarleton St.,5729836,75,58,693,0
+2025-03-08,UC Irvine,UC Santa Barbara,5731114,62,49,730,0
+2025-03-08,Seattle U,Utah Tech,5732330,69,65,706,0
+2025-03-08,Quinnipiac,Fairfield,5734303,72,65,1442,0
+2025-03-08,Lafayette,American,6359244,87,53,342,1
+2025-03-08,Ark.-Pine Bluff,Alcorn,5738033,59,70,1380,0
+2025-03-08,Tennessee Tech,Lindenwood,6358619,82,76,873,1
+2025-03-08,TCU,West Virginia,6358259,71,65,5699,1
+2025-03-08,Eastern Wash.,Sacramento St.,6359035,67,71,0,1
+2025-03-08,South Carolina,Oklahoma,6358138,93,75,13275,1
+2025-03-08,UC San Diego,UC Davis,5723522,58,69,472,0
+2025-03-08,Cal Poly,Long Beach St.,5737064,64,72,773,0
+2025-03-08,Saint Mary's (CA),Pacific,6358569,59,74,1258,1
+2025-03-08,UCLA,Ohio St.,6358457,75,46,7805,1
+2025-03-08,High Point,Winthrop,6358363,64,49,1,1
+2025-03-08,FGCU,Austin Peay,6358629,82,48,1556,1
+2025-03-08,Baylor,Oklahoma St.,6358260,84,74,5699,1
+2025-03-08,UC Riverside,Cal St. Fullerton,5732212,61,51,197,0
+2025-03-08,Texas,LSU,6358139,56,49,13275,1
+2025-03-08,Creighton,Georgetown,6359022,72,70,0,1
+2025-03-08,Central Ark.,Bellarmine,6358631,77,57,1258,1
+2025-03-08,Longwood,Radford,6358364,73,65,1158,1
+2025-03-08,Eastern Ky.,Stetson,6358630,77,60,241,1
+2025-03-08,Seton Hall,Xavier,6359023,48,40,0,1
+2025-03-08,Hawaii,CSUN,5730077,62,36,3579,0
 2025-03-07,St. John's (NY),Butler,6359024,66,50,0,1
 2025-03-07,Richmond,Duquesne,6358126,63,58,0,1
 2025-03-07,Florida St.,North Carolina,6357503,56,60,16416,1
