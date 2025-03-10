@@ -1,4 +1,27 @@
 game_date,home_team,away_team,game_id,home_score,away_score,attendance,neutral
+2025-03-09,UNC Greensboro,Chattanooga,6358371,64,57,1259,1
+2025-03-09,James Madison,Coastal Carolina,6357782,89,65,717,1
+2025-03-09,UAB,Rice,6357091,63,76,0,1
+2025-03-09,NC State,Duke,6357500,62,76,11823,1
+2025-03-09,Montana St.,Northern Colo.,6359030,92,60,0,1
+2025-03-09,UConn,Villanova,6359018,82,54,0,1
+2025-03-09,Oregon St.,San Francisco,6358566,61,59,1244,1
+2025-03-09,South Carolina,Texas,6358137,64,45,13532,1
+2025-03-09,Tulsa,Charlotte,6357093,66,71,2446,1
+2025-03-09,Arkansas St.,Troy,6357784,81,66,1033,1
+2025-03-09,George Mason,Saint Joseph's,6358123,73,58,2718,1
+2025-03-09,South Dakota St.,Oral Roberts,6358273,84,68,8417,1
+2025-03-09,Northern Ariz.,Sacramento St.,6359031,69,65,0,1
+2025-03-09,Southern California,UCLA,6358455,67,72,8358,1
+2025-03-09,Washington St.,Pacific,6358567,73,62,1505,1
+2025-03-09,TCU,Baylor,6358258,64,59,5084,1
+2025-03-09,Creighton,Seton Hall,6359019,73,44,0,1
+2025-03-09,Boise St.,Nevada,6359381,54,48,0,1
+2025-03-09,High Point,Longwood,6358362,59,53,1011,1
+2025-03-09,East Carolina,Memphis,6357095,64,45,0,1
+2025-03-09,Air Force,Utah St.,6359382,66,59,0,1
+2025-03-09,Tulane,Wichita St.,6357100,69,63,2393,1
+2025-03-09,Fresno St.,San Jose St.,6359383,67,62,6632,1
 2025-03-08,Richmond,Saint Joseph's,6358124,49,50,0,1
 2025-03-08,NC State,North Carolina,6357501,66,55,10894,1
 2025-03-08,Stony Brook,Drexel,5731297,66,59,1031,0
