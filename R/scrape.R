@@ -21,9 +21,13 @@ opt <- parse_args(OptionParser(option_list = option_list))
 cat(paste0("---", tools::toTitleCase(opt$gender), " NCAA game scrape---\n"))
 
 # Get NCAA games
-get_ncaa_games <- function(date = Sys.Date()-1L, gender) {
+get_ncaa_games <- function(date = Sys.Date()-1L, gender, session = NULL) {
 
   sn_division_id <- dplyr::case_when(
+    # 25-26 Mens
+    gender == "mens" & date > as.Date("2025-05-01") & date <= as.Date("2026-05-01") ~ 18703L,
+    # 25-26 Womens
+    gender == "womens" & date > as.Date("2025-05-01") & date <= as.Date("2026-05-01") ~ 18704L,
     # 24-25 Mens
     gender == "mens" & date > as.Date("2024-05-01") & date <= as.Date("2025-05-01") ~ 18403L,
     # 24-25 Womens
@@ -42,16 +46,26 @@ get_ncaa_games <- function(date = Sys.Date()-1L, gender) {
 
   # Reads the html and pulls the table holding the scores
   url_text <- paste0("https://stats.ncaa.org/season_divisions/", sn_division_id, "/scoreboards?game_date=", date, "&conference_id=0&commit=Submit")
-  file_url <- url(url_text, headers = c("User-Agent" = "My Custom User Agent"))
-  html <- readLines(con = file_url, warn = FALSE)
-  close(file_url)
+  html <- scrape_dynamic_tables(url = url_text, session = session)
 
-  table <- XML::readHTMLTable(html)
+  if (class(html)[1] == "xml_document") {
+    table <- rvest::html_table(html, header = TRUE)
+    if (rlang::is_empty(table)) {
+      cat(paste0("No games found for ", gender, " ", date, "\n"))
+      return(data.frame())
+    }
+    table <- table %>% lapply(as.data.frame)
+    table <- table[[1L]]
+    colnames(table) <- paste0("V", 1:ncol(table))
+    html <- as.character(html)
+  } else {
+    table <- XML::readHTMLTable(html)
+    table <- table[[1L]]
+  }
+
   if (length(table) == 0) {
     cat(paste0("No games found for ", gender, " ", date, "\n"))
     return(data.frame())
-  } else {
-    table <- table[[1L]]
   }
 
   # The table is always read in the same messy way
@@ -130,10 +144,13 @@ if (nrow(current_games) > 0L) {
   dates <- as.Date(setdiff(dates, unique(current_games$game_date)), origin = "1970-01-01")
 }
 
+# Chrome session
+session <- create_chromote_session()
+
 # Scrape game schedules
 games <- purrr::map_df(dates, function(date) {
-  g <- get_ncaa_games(date = date, gender = opt$gender)
-  Sys.sleep(0.5 + runif(n = 1L))
+  g <- get_ncaa_games(date = date, gender = opt$gender, session = session)
+  Sys.sleep(0.75 + runif(n = 1L))
   return(g)
 })
 
@@ -147,14 +164,15 @@ if (nrow(current_games) > 0L) {
 readr::write_csv(games, here::here(paste0("data/", opt$gender, "/games.csv")))
 
 # Scrape NCAA shot locations
-get_ncaa_shots <- function(game_id, gender) {
+get_ncaa_shots <- function(game_id, gender, session = NULL) {
   cat("GameId:", game_id, "...\n")
 
   # Game link
-  url <- paste0("https://stats.ncaa.org/contests/", game_id, "/box_score")
+  url_text <- paste0("https://stats.ncaa.org/contests/", game_id, "/box_score")
 
   # Read HTML
-  html <- rvest::read_html(url)
+  html <- scrape_dynamic_tables(url = url_text, session = session)
+  Sys.sleep(2)
 
   # # PBP
   # plays <- html %>%
@@ -348,8 +366,8 @@ gids <- setdiff(gids, unique(bad_games$game_id))
 
 # Scrape shots
 shots <- purrr::map_df(gids, function(gid) {
-  g <- get_ncaa_shots(game_id = gid, gender = opt$gender)
-  Sys.sleep(0.75 + runif(n = 1L))
+  g <- get_ncaa_shots(game_id = gid, gender = opt$gender, session = session)
+  Sys.sleep(1L + runif(n = 1L))
   return(g)
 })
 
