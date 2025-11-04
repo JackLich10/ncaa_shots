@@ -48,6 +48,13 @@ get_ncaa_games <- function(date = Sys.Date()-1L, gender, session = NULL) {
   url_text <- paste0("https://stats.ncaa.org/season_divisions/", sn_division_id, "/scoreboards?game_date=", date, "&conference_id=0&commit=Submit")
   html <- scrape_dynamic_tables(url = url_text, session = session)
 
+  # Detect “heavy load” or similar error HTML
+  while (grepl("This website is under heavy load|Queue full|Please wait|Cloudflare", html, ignore.case = TRUE)) {
+    cat("Server busy — retrying...\n")
+    Sys.sleep(10)
+    html <- scrape_dynamic_tables(url = url_text, session = session)
+  }
+
   if (class(html)[1] == "xml_document") {
     table <- rvest::html_table(html, header = TRUE)
     if (rlang::is_empty(table)) {
@@ -86,7 +93,7 @@ get_ncaa_games <- function(date = Sys.Date()-1L, gender, session = NULL) {
   home_team <- as.character(table$V2[starting_rows + 3])
 
   home_score <- as.character(table$V3[starting_rows + 3])
-  away_score <- as.character(table$V5[starting_rows])
+  away_score <- as.character(table$V13[starting_rows])
 
   # sees if a box score is available for each game
   box_score_present <- as.character(table$V1[starting_rows + 4]) == "Box Score"
